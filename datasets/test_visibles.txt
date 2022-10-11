@@ -1,0 +1,540 @@
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00019.jpg 502,212,522,262,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00039.jpg 529,226,549,276,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00059.jpg 564,233,589,293,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00239.jpg 432,217,452,252,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00259.jpg 458,213,478,249,0 72,202,105,253,3
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00339.jpg 459,207,479,248,0 444,209,463,243,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00359.jpg 464,216,486,264,0 451,214,471,265,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00379.jpg 465,224,485,264,0 482,221,503,263,0 379,216,395,249,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00399.jpg 515,217,536,276,0 490,220,511,270,0 387,215,414,257,1
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00419.jpg 574,216,601,279,0 544,217,567,276,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00439.jpg 455,214,475,265,0 438,216,459,257,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00459.jpg 500,215,520,261,0 479,217,501,262,0 521,209,548,284,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00479.jpg 572,212,598,273,0 549,215,571,274,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00499.jpg 327,219,346,248,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00519.jpg 312,215,332,254,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00539.jpg 290,217,312,263,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00559.jpg 247,213,274,267,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00579.jpg 184,214,216,285,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00599.jpg 87,215,127,302,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00659.jpg 458,212,478,253,0 440,213,458,254,0 362,210,378,237,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00679.jpg 364,212,381,244,0 470,215,491,263,0 492,216,512,261,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00699.jpg 374,211,393,248,0 557,220,583,275,0 523,218,554,276,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00719.jpg 396,211,417,258,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00739.jpg 437,216,457,271,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00759.jpg 509,223,539,305,0 492,223,512,269,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00779.jpg 575,223,599,282,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00799.jpg 157,216,177,257,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00819.jpg 116,214,138,260,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00839.jpg 54,214,86,271,1
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00859.jpg 1,221,35,291,1
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00879.jpg 407,202,427,243,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00899.jpg 447,205,467,252,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00919.jpg 478,215,498,271,0 496,215,520,274,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I00939.jpg 539,220,568,289,3 581,216,609,267,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I01079.jpg 482,211,503,257,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I01099.jpg 554,215,578,269,0 572,223,593,267,0 388,216,409,257,0 371,217,390,253,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I01119.jpg 419,221,440,272,0 398,220,419,268,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I01139.jpg 456,228,484,297,0 491,226,516,300,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I01159.jpg 473,212,492,255,0 383,203,401,234,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I01179.jpg 533,212,557,268,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I01199.jpg 423,198,446,249,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I01219.jpg 465,198,490,260,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I01239.jpg 526,204,557,281,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I01259.jpg 603,159,640,271,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I01279.jpg 377,208,394,244,0 404,208,419,240,0 397,211,409,237,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I01299.jpg 379,207,396,241,0 398,209,416,240,0 412,205,434,241,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I01319.jpg 379,211,402,255,0 399,210,420,256,0 416,210,438,254,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I01339.jpg 372,211,395,260,0 393,210,413,260,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I01359.jpg 347,216,368,269,0 364,210,385,264,0 316,216,342,262,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I01379.jpg 339,213,361,262,0 393,213,413,266,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I01399.jpg 440,208,466,271,0 415,213,439,264,0 391,214,414,264,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I01419.jpg 456,215,481,274,0 479,209,504,269,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I01439.jpg 512,209,536,277,0 490,221,511,276,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I01459.jpg 536,220,557,282,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I01479.jpg 572,225,597,287,0 598,225,620,280,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I01499.jpg 515,225,543,291,0 588,234,608,282,0 539,231,562,285,0
+/home/cnu228/Documents/cyx/datasets/set06/V000/visible/I01519.jpg 548,221,574,286,0 526,223,554,288,0 502,224,529,287,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00019.jpg 582,226,617,304,0 450,231,466,261,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00039.jpg 579,228,625,332,0 611,235,640,322,0 464,224,480,264,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00059.jpg 479,220,502,260,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00079.jpg 509,214,535,263,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00099.jpg 576,219,605,287,0 51,204,98,257,3
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00119.jpg 7,195,63,247,3 384,204,401,239,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00139.jpg 417,202,437,239,0 396,200,418,241,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00159.jpg 419,233,442,283,0 438,235,460,278,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00179.jpg 440,206,466,265,0 466,212,488,265,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00199.jpg 477,209,504,271,0 504,210,532,268,0 347,211,374,241,1
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00219.jpg 551,208,590,301,0 588,208,629,301,0 359,215,378,250,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00239.jpg 381,219,398,250,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00259.jpg 404,216,424,254,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00299.jpg 467,221,493,269,0 335,203,377,233,1 296,201,314,228,0 209,203,223,224,3 442,221,459,259,0 453,219,471,265,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00319.jpg 511,215,544,279,0 472,217,493,264,0 546,218,567,265,0 349,198,391,227,1 303,195,319,222,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00339.jpg 575,217,612,302,0 607,223,628,281,0 551,223,568,270,0 353,200,397,234,1 305,196,322,231,0 190,180,206,207,3
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00359.jpg 538,215,569,288,0 559,216,591,289,0 384,201,400,239,0 357,202,375,240,0 371,199,387,239,0 303,190,325,233,0 170,170,190,201,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00379.jpg 548,216,584,304,0 577,218,610,303,0 611,221,640,274,0 328,201,350,247,0 343,198,367,247,0 359,198,383,246,0 273,188,295,233,0 118,157,136,191,3 430,221,453,262,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00399.jpg 508,213,554,312,0 544,215,579,307,0 198,186,225,238,0 259,202,288,259,0 294,203,323,253,0 276,202,303,259,0 583,222,615,282,0 16,144,55,178,3 376,219,402,270,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00419.jpg 431,213,476,314,0 465,213,502,310,0 98,190,129,250,0 173,213,205,280,0 213,209,245,266,0 192,209,221,273,0 522,219,551,281,0 297,217,322,272,0 600,210,626,256,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00439.jpg 341,212,396,317,0 385,215,425,310,0 1,190,40,264,0 92,214,128,290,0 143,213,176,284,0 117,216,147,284,0 459,220,494,284,0 215,217,245,281,0 547,205,576,262,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00459.jpg 280,209,332,320,0 318,213,361,316,0 49,211,79,291,0 103,212,136,289,0 70,213,98,290,0 583,232,632,342,0 418,222,448,287,0 163,215,194,287,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00479.jpg 253,211,295,321,0 282,211,327,321,0 48,206,86,294,0 106,212,139,289,0 66,207,101,293,0 535,230,581,340,0 403,223,432,282,0 140,222,171,284,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00499.jpg 237,216,277,312,0 264,217,303,309,0 62,212,101,296,0 122,219,157,294,0 89,213,121,293,0 501,225,544,324,0 400,214,436,281,0 142,224,171,291,0 468,208,498,273,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00519.jpg 215,217,260,306,0 242,213,283,311,0 84,214,125,309,0 147,214,182,302,0 106,209,142,300,0 538,235,596,421,0 473,220,515,321,0 418,216,453,280,0 140,225,173,298,0 454,206,480,267,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00539.jpg 211,213,250,306,0 192,220,228,302,0 100,213,140,314,0 164,220,199,305,0 122,214,157,312,0 464,240,526,404,0 445,229,479,309,0 433,220,458,280,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00559.jpg 85,219,135,320,0 150,214,189,324,0 117,212,157,327,0 401,234,461,395,0 393,225,430,313,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00579.jpg 15,213,66,344,0 97,211,143,333,0 55,211,110,335,0 299,227,371,398,0 338,214,373,281,0 2,212,46,295,1 377,212,410,277,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00599.jpg 108,232,188,406,0 148,227,203,319,0 208,220,238,286,0 268,215,306,286,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00619.jpg 13,216,50,289,0 123,216,153,268,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I00639.jpg 9,207,65,302,3
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I01539.jpg 405,248,435,292,1
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I01559.jpg 303,256,338,308,1
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I01579.jpg 163,256,203,319,1
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I02579.jpg 260,203,292,254,3
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I02599.jpg 470,195,501,246,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I02619.jpg 549,195,573,235,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I02639.jpg 535,198,563,243,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I02659.jpg 514,208,543,263,0
+/home/cnu228/Documents/cyx/datasets/set06/V001/visible/I02679.jpg 531,225,567,299,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I00159.jpg 416,217,440,262,0 430,215,452,262,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I00179.jpg 451,221,478,272,0 469,220,495,271,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I00199.jpg 535,218,570,288,0 510,222,545,289,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I00359.jpg 179,219,214,267,2
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I00379.jpg 58,196,119,293,2 357,207,377,240,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I00399.jpg 377,246,403,286,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I00419.jpg 409,248,440,304,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I00439.jpg 472,244,509,321,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I00619.jpg 14,194,60,273,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I00639.jpg 230,206,264,289,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I00819.jpg 609,236,631,288,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I00859.jpg 573,216,591,248,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I00879.jpg 570,214,590,255,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I00999.jpg 400,220,420,254,0 411,223,428,255,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I01019.jpg 412,226,436,269,0 427,226,446,268,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I01039.jpg 442,235,471,283,0 460,234,491,284,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I01059.jpg 493,228,529,301,0 522,230,555,303,0 507,230,537,303,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I01079.jpg 602,231,640,346,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I01139.jpg 389,221,409,262,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I01159.jpg 431,215,452,256,0 409,214,430,258,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I01179.jpg 419,207,446,264,0 449,205,481,264,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I01199.jpg 493,214,526,281,0 357,208,382,255,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I01219.jpg 496,205,536,300,0 557,205,595,297,0 367,200,392,247,0 152,203,172,234,3
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I01239.jpg 568,226,635,369,0 385,224,410,272,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I01259.jpg 131,214,156,261,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I01279.jpg 120,209,147,270,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I01299.jpg 102,198,137,268,0 494,196,533,299,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I01319.jpg 70,195,114,283,0 602,204,640,358,0 528,172,555,218,2
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I01339.jpg 562,194,586,230,2
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I01359.jpg 595,189,624,239,2
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I01439.jpg 10,213,33,255,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I01459.jpg 215,210,237,245,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I01479.jpg 328,205,353,252,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I01499.jpg 392,208,419,261,0 455,214,477,257,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I01519.jpg 449,215,483,276,0 508,217,535,267,0 414,216,440,247,1
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I01539.jpg 543,217,585,297,0 582,213,616,280,0 447,214,472,246,1
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I01559.jpg 486,211,508,253,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I01579.jpg 523,206,552,258,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I01599.jpg 589,208,619,272,0
+/home/cnu228/Documents/cyx/datasets/set06/V002/visible/I01679.jpg 488,190,515,246,0 554,191,587,250,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00019.jpg 496,212,520,254,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00039.jpg 546,206,569,260,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00059.jpg 589,247,612,306,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00099.jpg 506,200,530,241,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00119.jpg 517,202,537,244,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00139.jpg 526,229,548,274,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00159.jpg 529,185,550,231,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00179.jpg 545,227,566,270,0 424,238,441,273,0 435,233,456,273,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00199.jpg 556,183,576,232,0 439,193,460,227,0 455,184,474,229,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00219.jpg 554,205,582,252,0 456,216,477,255,0 473,207,497,257,0 65,216,85,257,3
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00239.jpg 547,208,569,261,0 466,219,488,264,0 482,214,508,265,0 46,218,66,259,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00259.jpg 538,206,560,261,0 477,212,499,262,0 494,206,520,263,0 5,208,25,249,3
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00279.jpg 550,219,573,278,0 509,229,532,282,0 531,220,559,280,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00299.jpg 588,232,612,290,0 612,226,640,288,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00339.jpg 409,220,427,258,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00359.jpg 429,214,449,262,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00379.jpg 453,208,474,260,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00399.jpg 481,219,504,272,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00419.jpg 527,209,555,277,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00439.jpg 402,215,421,246,1
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00459.jpg 432,214,452,254,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00479.jpg 457,208,481,255,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00499.jpg 495,217,517,266,0 477,210,503,272,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00519.jpg 542,209,569,275,0 523,213,547,278,0 1,213,21,254,3
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00539.jpg 612,180,639,263,0 582,183,608,266,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00559.jpg 470,212,492,253,0 416,213,435,247,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00579.jpg 485,210,506,259,0 432,213,454,254,1
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00599.jpg 514,212,536,270,0 462,218,478,256,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00619.jpg 568,215,600,279,0 513,214,533,257,0 501,214,522,259,0 450,213,472,256,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00639.jpg 565,213,586,262,0 548,214,569,267,0 487,215,509,259,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00659.jpg 518,213,542,270,0 592,217,616,272,0 610,218,635,274,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00679.jpg 558,211,589,283,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00699.jpg 475,209,496,253,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00719.jpg 465,210,485,253,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00739.jpg 537,209,558,267,1 613,207,640,269,0 446,208,470,257,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00759.jpg 504,209,527,260,0 522,210,543,257,0 446,207,471,268,0 488,204,507,241,0 382,210,399,245,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00779.jpg 595,209,622,277,0 539,203,559,249,0 398,212,416,249,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00799.jpg 552,230,589,321,0 414,226,435,276,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00819.jpg 434,215,454,263,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00859.jpg 380,212,396,248,0 399,210,415,246,0 413,211,434,247,1
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00879.jpg 515,216,547,279,0 382,212,405,253,0 433,213,455,252,0 412,214,427,250,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00899.jpg 606,218,640,320,0 498,208,519,265,0 476,211,496,263,0 430,211,454,257,0 417,211,438,259,0 404,213,425,260,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00919.jpg 582,217,605,283,0 534,209,557,263,0 434,212,458,273,0 447,215,470,271,0 469,214,489,270,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00939.jpg 482,219,514,303,0 501,217,532,301,0 529,218,559,299,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00959.jpg 591,236,640,347,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00979.jpg 512,217,532,266,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I00999.jpg 607,212,640,302,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01019.jpg 437,208,456,241,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01039.jpg 469,206,491,252,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01059.jpg 522,207,544,261,0 29,208,49,251,0 41,208,63,251,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01079.jpg 595,219,615,282,0 2,217,24,261,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01179.jpg 431,222,447,257,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01199.jpg 459,217,484,263,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01219.jpg 518,220,541,268,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01279.jpg 340,215,358,249,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01299.jpg 347,216,364,245,3
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01319.jpg 431,214,446,249,0 448,208,465,244,0 353,214,373,251,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01339.jpg 466,220,486,261,0 489,215,510,257,0 450,217,472,263,0 359,218,383,262,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01359.jpg 491,218,516,271,0 509,218,533,273,0 569,214,589,268,0 370,219,391,266,2 437,203,454,245,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01379.jpg 562,224,592,293,0 587,219,614,297,0 371,218,398,268,2 464,206,484,247,0 482,201,503,250,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01399.jpg 372,215,401,271,2 515,205,540,258,0 546,206,566,260,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01419.jpg 388,217,414,270,2
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01439.jpg 421,223,453,295,2
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01459.jpg 447,226,485,322,2
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01479.jpg 467,259,515,371,2 414,234,432,269,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01499.jpg 494,243,544,363,2 428,196,450,242,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01519.jpg 538,242,599,386,2 497,205,523,253,0 447,198,471,247,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01539.jpg 533,204,559,259,0 473,207,498,254,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01559.jpg 590,211,618,275,0 505,214,532,266,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01579.jpg 559,214,588,276,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01599.jpg 416,230,432,266,0 396,234,420,270,1
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01619.jpg 411,229,428,266,0 423,226,439,265,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01639.jpg 428,222,450,273,0 445,220,466,273,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01659.jpg 457,222,480,277,0 480,224,502,278,0 70,202,118,238,1
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01679.jpg 507,221,537,299,0 532,220,560,297,0 11,200,62,246,1
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01699.jpg 568,209,604,289,0 606,221,640,325,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01719.jpg 406,205,426,249,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01739.jpg 439,205,462,256,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01759.jpg 482,175,512,245,0 72,165,96,211,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01779.jpg 540,215,572,312,0 41,220,61,264,3 461,204,483,248,0 368,208,393,244,1
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01799.jpg 492,211,516,259,0 378,217,402,251,1 5,217,61,258,1
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01819.jpg 548,217,572,268,0 388,216,417,258,1
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01839.jpg 413,222,440,265,3
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01879.jpg 495,224,520,289,0 519,223,540,291,0 235,218,251,251,0 254,219,269,249,0 470,214,491,257,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01899.jpg 591,225,631,323,0 228,214,245,247,0 251,214,269,248,0 544,210,565,257,0 515,210,538,262,0 402,214,418,247,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01919.jpg 220,213,241,255,0 249,211,269,257,0 343,182,361,212,3 606,217,635,268,0 576,213,606,280,1
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01939.jpg 207,213,229,257,0 236,208,258,258,0 340,180,359,208,3 453,217,475,262,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01959.jpg 182,209,205,263,0 301,170,320,204,3 446,213,471,264,0 476,211,498,263,1 404,209,432,259,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01979.jpg 92,213,119,271,0 118,215,148,266,0 252,163,273,201,0 429,216,455,269,0 369,213,397,266,0 408,214,434,270,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I01999.jpg 46,222,80,283,0 193,164,215,196,0 398,217,429,286,0 324,217,348,274,0 341,218,368,281,0 1,218,40,284,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02019.jpg 99,148,125,190,0 336,216,369,296,0 253,216,279,279,0 226,217,256,281,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02039.jpg 263,217,303,307,0 52,218,94,293,0 146,215,176,284,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02059.jpg 154,221,193,323,0 1,212,42,291,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02079.jpg 1,229,45,348,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02219.jpg 237,216,259,262,3
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02239.jpg 285,216,306,265,0 300,215,322,268,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02259.jpg 329,213,353,280,0 351,219,377,275,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02279.jpg 361,219,388,293,0 385,225,413,296,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02299.jpg 396,218,435,323,0 437,232,469,327,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02319.jpg 457,224,527,400,0 547,248,602,392,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02539.jpg 57,223,91,303,0 21,230,58,295,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02559.jpg 324,227,352,302,0 352,229,382,303,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02579.jpg 329,229,351,299,0 345,221,381,304,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02599.jpg 126,230,171,328,0 164,218,213,328,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02619.jpg 1,211,50,357,3
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02699.jpg 436,207,456,249,0 157,210,175,242,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02719.jpg 445,207,465,249,0 148,203,168,242,0 457,199,494,256,1
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02739.jpg 115,213,135,252,0 423,205,461,265,1 368,205,387,241,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02759.jpg 95,216,115,255,0 382,218,425,284,1 322,208,342,242,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02779.jpg 123,215,143,254,0 356,225,397,295,1 284,208,305,253,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02799.jpg 155,211,175,253,0 322,224,365,304,1 251,206,275,253,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02819.jpg 198,216,218,255,0 283,226,330,310,1 222,212,242,251,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02839.jpg 236,220,256,259,0 241,231,288,307,1 190,212,210,251,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02859.jpg 276,216,297,264,0 182,229,235,310,1 159,213,179,252,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02879.jpg 308,220,333,263,0 121,222,174,321,1 129,211,149,250,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02899.jpg 337,219,364,266,0 99,215,119,254,0 55,229,96,319,0 89,224,134,313,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02919.jpg 370,228,390,274,0 53,214,73,253,0 45,236,96,313,2 2,221,53,325,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02939.jpg 390,222,410,271,0 179,234,227,331,2
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02959.jpg 344,245,408,344,0 401,223,429,275,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02979.jpg 389,220,410,281,0 447,247,498,348,2
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I02999.jpg 368,220,398,281,0 540,245,591,351,2
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03019.jpg 443,220,467,294,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03039.jpg 534,226,564,310,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03059.jpg 1,210,77,414,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03079.jpg 41,215,108,416,0 15,210,69,352,2
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03099.jpg 96,210,167,411,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03119.jpg 190,210,260,411,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03139.jpg 334,223,400,427,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03159.jpg 538,236,612,463,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03239.jpg 478,206,500,250,2
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03259.jpg 379,206,411,264,2
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03279.jpg 240,209,287,289,2
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03379.jpg 301,218,321,254,0 364,214,396,247,1
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03399.jpg 283,219,305,257,0 140,215,158,250,0 367,216,408,247,1
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03419.jpg 268,219,292,260,0 142,216,157,252,0 153,214,173,253,0 379,221,405,247,3
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03439.jpg 245,222,271,266,0 359,224,381,269,0 141,222,159,259,0 154,219,178,261,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03459.jpg 196,219,225,269,0 321,216,345,269,0 436,218,454,261,0 134,216,155,264,0 121,218,139,254,0 369,215,423,249,1
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03479.jpg 119,221,153,287,0 274,212,300,273,0 105,219,125,264,0 418,215,437,248,0 401,216,420,249,0 387,215,403,249,0 375,216,391,248,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03499.jpg 207,214,236,283,0 68,216,100,268,0 43,213,70,269,0 464,218,487,268,0 431,216,449,252,0 411,214,427,250,0 398,215,414,250,0 384,213,400,252,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03519.jpg 76,219,128,309,0 486,223,510,282,0 377,211,398,258,0 441,214,458,257,0 417,211,435,254,0 397,210,421,258,0 12,207,39,265,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03539.jpg 532,228,559,300,0 431,216,453,267,0 385,221,408,270,0 464,219,487,268,0 521,220,544,270,0 407,221,428,265,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03559.jpg 459,217,482,274,0 398,220,422,278,0 514,222,545,278,0 431,221,454,273,0 595,214,633,288,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03579.jpg 497,217,526,289,0 430,218,464,297,0 602,218,627,286,0 473,220,498,293,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03599.jpg 512,212,556,327,0 570,219,605,317,0 588,228,634,341,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03799.jpg 111,231,141,264,3
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03819.jpg 122,236,153,271,3
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03839.jpg 134,232,167,268,3
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03859.jpg 146,229,180,267,3
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03879.jpg 167,223,186,260,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03899.jpg 208,225,225,262,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03919.jpg 239,222,258,264,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03939.jpg 255,219,277,263,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03959.jpg 255,224,280,269,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03979.jpg 292,220,314,278,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I03999.jpg 339,219,363,279,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I04019.jpg 403,214,428,279,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I04039.jpg 474,213,506,289,0
+/home/cnu228/Documents/cyx/datasets/set06/V003/visible/I04059.jpg 564,207,602,311,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I00079.jpg 407,200,454,273,3 339,196,379,263,3
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I00099.jpg 160,185,211,281,3
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I00119.jpg 426,193,477,284,3
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I00139.jpg 453,198,504,289,3
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I00159.jpg 446,199,495,289,3
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I00179.jpg 478,197,524,284,3 39,130,122,379,3
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I00199.jpg 180,144,254,365,3 565,201,608,284,3 40,209,129,489,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I00219.jpg 320,159,385,351,3 364,219,450,466,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I00239.jpg 444,174,499,335,3
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I00259.jpg 471,179,525,337,3
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I00279.jpg 492,174,548,337,3
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I00739.jpg 339,231,359,272,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I00759.jpg 228,227,247,269,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I00779.jpg 176,230,198,275,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I00799.jpg 116,227,144,287,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I00819.jpg 24,227,67,316,0 146,221,164,257,0 181,223,200,258,0 222,225,242,263,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I00839.jpg 110,217,183,263,1 202,220,223,262,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I00859.jpg 3,213,114,266,1
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01159.jpg 406,223,427,262,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01179.jpg 440,218,460,256,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01219.jpg 515,222,543,286,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01239.jpg 577,218,609,296,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01339.jpg 257,210,277,243,3 123,211,148,253,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01359.jpg 259,207,284,240,3 84,208,109,247,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01379.jpg 1,207,37,261,0 265,202,287,241,3
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01399.jpg 269,208,290,247,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01419.jpg 283,204,305,247,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01439.jpg 300,204,325,253,1 328,205,348,246,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01459.jpg 322,202,350,257,1 361,206,382,242,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01479.jpg 350,202,380,262,1 408,200,433,248,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01499.jpg 390,231,420,294,1 462,229,485,276,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01519.jpg 441,201,471,269,1 527,213,552,265,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01539.jpg 511,211,547,290,0 597,210,625,267,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01559.jpg 603,216,640,303,0 331,199,353,247,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01579.jpg 367,202,392,251,0 569,207,618,253,1
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01599.jpg 545,203,604,254,1
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01619.jpg 225,211,259,278,0 446,208,510,266,1
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01639.jpg 1,213,70,284,3 269,211,350,274,1
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01659.jpg 1,202,53,265,1
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01679.jpg 516,214,538,262,0 471,216,492,256,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01699.jpg 452,214,475,266,0 506,217,528,265,0 70,218,99,265,3
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01719.jpg 489,218,512,270,0 555,217,582,275,0 441,218,458,254,0 57,212,78,248,3
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01739.jpg 568,219,607,283,0 470,213,491,255,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01759.jpg 513,208,537,254,0 33,213,71,248,3
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01779.jpg 573,209,597,262,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01819.jpg 80,192,107,234,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01839.jpg 23,207,61,261,3
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01919.jpg 71,224,109,269,1
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01939.jpg 15,236,60,290,1
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01959.jpg 16,225,55,272,3
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01979.jpg 422,210,468,250,1
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I01999.jpg 436,209,456,249,0 480,204,500,247,0 453,207,473,249,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02019.jpg 488,206,508,248,0 470,205,491,249,0 542,205,570,262,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02039.jpg 543,198,566,256,0 520,201,543,258,0 446,204,467,248,0 8,203,47,248,3 59,198,87,228,3
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02059.jpg 600,204,632,277,0 431,199,451,243,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02079.jpg 528,207,551,264,0 455,194,477,245,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02099.jpg 578,248,602,311,0 476,235,500,298,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02119.jpg 499,200,532,278,0 429,204,447,235,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02139.jpg 556,221,593,301,0 457,207,484,258,0 401,209,421,243,3
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02159.jpg 522,214,553,275,0 420,213,445,246,1
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02179.jpg 451,217,477,255,1
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02199.jpg 497,217,528,263,1
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02219.jpg 106,208,126,249,0 3,220,33,270,1 571,211,597,265,0 587,208,615,267,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02239.jpg 32,213,70,264,3
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02259.jpg 460,220,478,253,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02279.jpg 506,218,528,267,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02299.jpg 583,212,614,275,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02319.jpg 87,220,114,255,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02339.jpg 47,212,74,260,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02359.jpg 466,217,483,254,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02379.jpg 526,216,547,272,0 96,220,120,266,0 35,214,66,262,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02399.jpg 434,206,456,259,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02439.jpg 140,203,159,233,3 473,199,493,238,3
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02459.jpg 116,181,142,227,3 469,182,496,231,3
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02479.jpg 561,200,598,255,2 98,216,120,256,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02619.jpg 430,209,450,251,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02639.jpg 474,209,498,260,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02659.jpg 547,202,576,267,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02679.jpg 9,208,49,262,3 78,208,112,242,1
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02719.jpg 162,240,190,277,3
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02739.jpg 157,216,180,262,0 135,219,155,258,0
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02759.jpg 109,217,147,265,1
+/home/cnu228/Documents/cyx/datasets/set06/V004/visible/I02779.jpg 57,223,90,287,0 28,219,68,286,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I00019.jpg 424,207,447,253,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I00039.jpg 510,208,538,264,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I00379.jpg 362,212,382,246,0 346,210,366,243,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I00399.jpg 428,217,448,262,0 405,218,425,263,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I00419.jpg 534,222,569,302,0 571,220,614,305,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I00519.jpg 541,228,608,301,1
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I00679.jpg 355,206,376,249,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I00699.jpg 394,212,420,265,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I00719.jpg 527,200,580,334,1
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I00739.jpg 435,203,459,258,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I00759.jpg 541,206,573,283,0 570,208,597,265,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I00919.jpg 431,211,451,249,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I00939.jpg 477,216,497,257,0 544,213,570,265,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I01219.jpg 572,224,602,278,0 606,219,638,280,0 516,208,542,250,1
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I01239.jpg 600,209,624,262,0 460,210,485,251,3
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I01379.jpg 417,211,434,244,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I01399.jpg 401,217,424,258,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I01419.jpg 387,208,411,258,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I01439.jpg 404,208,428,258,0 357,210,375,246,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I01459.jpg 451,215,482,282,0 379,220,402,257,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I01479.jpg 437,215,462,266,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I01499.jpg 354,216,381,248,1
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I01539.jpg 490,213,520,290,0 466,217,498,291,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I01579.jpg 387,200,410,249,2 358,201,384,233,1
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I01619.jpg 403,212,422,257,0 382,211,399,249,0 348,214,380,244,1
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I01639.jpg 443,217,471,279,0 407,215,432,267,0 390,213,411,260,0 370,220,395,257,1
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I01659.jpg 524,215,563,308,0 463,220,488,283,0 442,214,463,275,0 424,219,448,274,0 408,222,432,270,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I01679.jpg 511,215,538,301,0 567,209,608,316,0 528,203,563,311,0 488,217,519,306,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I01959.jpg 388,207,407,244,0 424,209,439,240,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I01979.jpg 385,205,405,242,0 423,207,453,242,1
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I01999.jpg 398,208,418,245,0 459,208,477,244,0 431,206,447,238,0 444,204,460,236,0 486,206,507,245,3
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I02019.jpg 509,209,530,258,0 545,208,565,256,2 531,209,551,255,2 456,202,476,239,0 443,202,463,239,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I02039.jpg 609,223,640,293,0 591,222,617,284,0 458,218,481,283,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I02059.jpg 538,212,574,300,0 490,205,510,248,0 514,205,536,250,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I02079.jpg 569,195,594,250,0 540,195,566,249,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I02139.jpg 448,212,468,250,0 438,213,458,250,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I02179.jpg 591,203,613,259,0 574,205,594,259,0 554,208,574,259,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I02359.jpg 409,211,425,243,0 424,214,439,241,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I02379.jpg 427,215,446,250,1
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I02399.jpg 448,207,470,248,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I02419.jpg 487,212,507,252,0 456,211,475,250,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I02439.jpg 520,209,544,263,0 460,209,483,245,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I02459.jpg 563,207,590,274,0 471,209,489,247,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I02479.jpg 476,208,495,248,0
+/home/cnu228/Documents/cyx/datasets/set07/V000/visible/I02519.jpg 473,212,490,245,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I01059.jpg 546,211,573,272,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I01079.jpg 487,213,514,261,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I01099.jpg 473,212,496,258,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I01119.jpg 471,213,494,259,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I01159.jpg 484,210,504,248,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I01179.jpg 494,206,516,250,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I01219.jpg 498,201,520,238,0 542,198,566,245,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I01239.jpg 565,200,586,249,0 547,201,568,243,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I01479.jpg 481,214,503,256,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I01499.jpg 571,218,595,266,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I01539.jpg 435,220,459,264,0 566,213,590,261,0 592,218,615,268,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I01559.jpg 461,228,491,281,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I01579.jpg 539,234,583,303,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I01719.jpg 388,215,412,254,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I01739.jpg 494,220,518,271,0 415,216,438,267,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I01759.jpg 592,206,622,282,0 461,210,495,274,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I01779.jpg 584,205,636,323,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I01879.jpg 396,229,412,266,0 415,229,435,277,0 524,227,552,285,1
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I01899.jpg 586,221,615,283,0 483,239,516,298,0 435,234,461,284,0 411,244,431,285,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I01919.jpg 536,234,577,319,0 482,257,516,315,0 422,259,464,304,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I01939.jpg 513,206,537,250,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I02119.jpg 358,232,373,258,3 368,229,385,255,3
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I02139.jpg 399,214,419,242,3
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I02159.jpg 429,200,474,241,1
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I02179.jpg 544,214,564,259,0 524,211,545,256,0 504,210,525,258,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I02299.jpg 535,204,558,249,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I02319.jpg 460,204,491,243,1
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I02339.jpg 530,210,554,258,1
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I02379.jpg 446,215,471,265,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I02399.jpg 595,214,640,322,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I02419.jpg 429,221,484,267,1
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I02439.jpg 487,212,525,261,1 530,222,557,280,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I02459.jpg 527,191,555,242,2
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I02479.jpg 606,200,632,261,2
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I02679.jpg 450,209,467,249,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I02699.jpg 537,205,564,260,0 496,203,516,248,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I02719.jpg 567,196,591,254,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I02859.jpg 269,214,294,246,1 296,211,314,245,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I02879.jpg 274,200,300,250,0 249,197,273,251,1 198,204,230,243,1
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I02899.jpg 186,203,216,254,0 158,199,190,255,1 107,202,127,249,1
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03059.jpg 500,215,539,265,1
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03079.jpg 426,215,465,270,1
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03099.jpg 433,207,484,271,1
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03139.jpg 580,194,638,321,1 448,213,470,256,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03159.jpg 497,204,517,257,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03179.jpg 585,197,619,269,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03299.jpg 342,210,397,248,1 396,210,413,243,0 412,210,429,246,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03319.jpg 443,211,463,253,0 403,205,427,254,0 386,208,409,254,0 350,212,386,242,1
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03339.jpg 531,200,567,274,0 464,195,500,274,0 431,199,465,268,0 364,209,404,246,1 413,208,435,244,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03359.jpg 486,212,516,271,0 429,214,454,262,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03379.jpg 452,202,561,292,1
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03399.jpg 563,206,618,322,0 583,207,640,312,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03559.jpg 373,210,392,244,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03579.jpg 396,206,421,253,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03599.jpg 449,207,480,269,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03619.jpg 554,206,603,299,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03679.jpg 403,209,437,242,1
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03699.jpg 442,212,465,256,0 418,217,444,248,1
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03719.jpg 444,218,471,258,1
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03739.jpg 495,218,513,261,0 507,211,530,262,0 419,222,446,274,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03759.jpg 533,214,570,298,0 614,210,640,290,3
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03779.jpg 395,209,417,257,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03799.jpg 437,210,462,271,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03819.jpg 552,197,599,317,0 377,207,403,254,3
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03839.jpg 431,203,472,258,1
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03859.jpg 525,201,635,321,1 78,208,112,254,1
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03879.jpg 29,207,71,265,1
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03899.jpg 72,208,98,248,3
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03939.jpg 518,211,539,259,0
+/home/cnu228/Documents/cyx/datasets/set07/V001/visible/I03959.jpg 585,211,613,266,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00019.jpg 601,213,629,262,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00039.jpg 600,217,619,259,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00059.jpg 604,217,626,258,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00079.jpg 612,217,631,258,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00139.jpg 477,223,495,254,3
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00159.jpg 518,220,542,256,3
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00219.jpg 374,227,399,283,0 336,233,359,280,0 285,232,313,283,2 123,227,146,270,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00239.jpg 587,222,625,280,0 533,225,569,284,2 314,214,340,263,0 459,220,484,270,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00299.jpg 568,212,586,248,0 496,210,516,246,0 452,211,470,246,0 403,213,420,247,0 371,211,392,240,3
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00319.jpg 597,204,618,254,0 586,204,610,252,0 535,207,563,260,0 556,207,586,259,0 477,211,501,252,0 465,207,485,248,0 430,215,458,241,3
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00339.jpg 619,202,640,265,0 585,210,607,253,0 519,210,542,255,0 546,210,572,259,0 466,211,498,245,1
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00359.jpg 596,214,627,268,0 503,211,531,247,1 532,210,554,257,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00379.jpg 576,215,602,260,0 594,214,619,261,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00539.jpg 439,202,464,243,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00559.jpg 465,205,491,256,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00579.jpg 500,204,530,263,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00599.jpg 533,204,569,274,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00659.jpg 557,203,598,298,0 542,198,563,245,0 402,214,426,245,1 350,214,375,242,1
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00679.jpg 603,201,640,300,0 579,197,598,245,0 378,209,395,245,0 425,210,447,242,1
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00699.jpg 611,198,640,259,0 440,210,466,246,1
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00719.jpg 412,222,432,268,0 532,213,560,264,0 471,217,498,258,1 367,219,389,247,3
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00739.jpg 455,220,479,277,0 558,219,587,268,0 392,219,408,253,0 403,223,420,250,0 432,221,450,253,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00759.jpg 505,218,532,274,0 594,210,623,277,0 472,210,493,252,0 458,212,477,255,0 429,212,447,248,0 409,210,427,255,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00779.jpg 556,219,591,296,0 452,213,474,262,0 480,213,503,262,0 493,214,521,262,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00799.jpg 568,216,593,266,0 580,214,606,268,0 500,212,530,269,0 517,212,545,269,0 613,227,640,305,3 483,217,504,260,0 466,218,487,263,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00839.jpg 619,221,640,279,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00859.jpg 597,223,624,289,0 619,222,640,284,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00879.jpg 606,214,632,272,0 551,212,580,282,0 570,215,597,280,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00899.jpg 562,222,599,298,0 585,220,616,297,0 617,231,640,294,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00979.jpg 460,196,485,238,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I00999.jpg 530,209,557,267,0 482,209,497,238,3
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I01059.jpg 579,195,609,258,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I01159.jpg 481,205,505,235,1
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I01179.jpg 483,209,500,245,0 468,210,486,244,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I01199.jpg 505,202,525,245,0 550,200,570,247,0 474,205,492,243,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I01219.jpg 563,201,584,248,0 585,206,606,250,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I01239.jpg 615,200,640,275,3
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I01259.jpg 509,204,538,258,0 612,198,639,251,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I01279.jpg 532,205,564,259,1 482,204,531,251,1 388,211,478,247,1
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I01299.jpg 512,202,540,264,0 546,202,569,252,0 435,207,509,254,1 412,206,432,250,0 589,202,615,264,0 383,208,399,244,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I01319.jpg 572,209,614,299,0 454,210,477,261,0 438,214,459,254,0 404,210,424,255,0 491,206,578,262,1
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I01339.jpg 609,200,640,282,0 569,202,604,290,0 533,208,563,283,0 513,209,540,274,0 457,210,482,270,0 477,208,496,252,3
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I01359.jpg 591,215,637,303,0 568,207,609,297,0 521,217,545,268,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I01379.jpg 469,215,505,293,0 502,214,535,283,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I01419.jpg 479,213,502,265,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I01439.jpg 598,225,632,291,0
+/home/cnu228/Documents/cyx/datasets/set07/V002/visible/I01559.jpg 474,211,498,255,2 521,212,544,259,0 505,212,530,250,0

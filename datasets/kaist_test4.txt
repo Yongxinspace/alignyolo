@@ -1,0 +1,1388 @@
+/workspace/kaist/test_use/set06/V000/visible/I00019.jpg 505,212,525,217,2 
+/workspace/kaist/test_use/set06/V000/visible/I00039.jpg 530,226,550,231,2 
+/workspace/kaist/test_use/set06/V000/visible/I00059.jpg 565,234,590,240,2 
+/workspace/kaist/test_use/set06/V000/visible/I00239.jpg 433,217,453,252,2 
+/workspace/kaist/test_use/set06/V000/visible/I00259.jpg 460,218,480,254,2 72,202,105,253,1 
+/workspace/kaist/test_use/set06/V000/visible/I00279.jpg 492,215,512,266,2 
+/workspace/kaist/test_use/set06/V000/visible/I00339.jpg 459,207,479,248,2 444,209,463,243,2 
+/workspace/kaist/test_use/set06/V000/visible/I00359.jpg 465,217,487,265,2 451,214,471,265,2 
+/workspace/kaist/test_use/set06/V000/visible/I00379.jpg 467,224,487,228,2 482,221,503,263,2 380,216,396,249,2 
+/workspace/kaist/test_use/set06/V000/visible/I00399.jpg 518,217,539,276,2 492,220,513,225,2 387,215,414,257,0 
+/workspace/kaist/test_use/set06/V000/visible/I00419.jpg 574,216,601,279,2 544,217,567,276,2 
+/workspace/kaist/test_use/set06/V000/visible/I00439.jpg 458,217,478,268,2 440,217,461,258,2 
+/workspace/kaist/test_use/set06/V000/visible/I00459.jpg 500,215,520,261,2 481,217,503,262,2 524,210,551,285,2 
+/workspace/kaist/test_use/set06/V000/visible/I00479.jpg 568,212,594,273,2 547,215,569,274,2 
+/workspace/kaist/test_use/set06/V000/visible/I00499.jpg 327,219,346,248,2 
+/workspace/kaist/test_use/set06/V000/visible/I00519.jpg 316,216,336,255,2 
+/workspace/kaist/test_use/set06/V000/visible/I00539.jpg 292,217,314,263,2 
+/workspace/kaist/test_use/set06/V000/visible/I00559.jpg 250,213,277,267,2 
+/workspace/kaist/test_use/set06/V000/visible/I00579.jpg 189,214,221,285,2 
+/workspace/kaist/test_use/set06/V000/visible/I00599.jpg 91,215,131,302,2 
+/workspace/kaist/test_use/set06/V000/visible/I00659.jpg 461,212,481,253,2 441,213,459,254,2 365,210,381,237,2 
+/workspace/kaist/test_use/set06/V000/visible/I00679.jpg 367,212,384,244,2 470,215,491,263,2 492,216,512,261,2 
+/workspace/kaist/test_use/set06/V000/visible/I00699.jpg 374,210,393,247,2 555,220,581,275,2 525,218,556,276,2 
+/workspace/kaist/test_use/set06/V000/visible/I00719.jpg 397,210,418,257,2 
+/workspace/kaist/test_use/set06/V000/visible/I00739.jpg 438,217,458,272,2 
+/workspace/kaist/test_use/set06/V000/visible/I00759.jpg 508,225,538,307,2 493,224,513,270,2 
+/workspace/kaist/test_use/set06/V000/visible/I00779.jpg 573,223,597,282,2 
+/workspace/kaist/test_use/set06/V000/visible/I00799.jpg 158,216,178,257,2 
+/workspace/kaist/test_use/set06/V000/visible/I00819.jpg 119,214,141,260,2 
+/workspace/kaist/test_use/set06/V000/visible/I00839.jpg 57,214,89,271,0 
+/workspace/kaist/test_use/set06/V000/visible/I00859.jpg 3,221,38,228,0 
+/workspace/kaist/test_use/set06/V000/visible/I00879.jpg 408,203,428,244,2 
+/workspace/kaist/test_use/set06/V000/visible/I00899.jpg 450,205,470,252,2 
+/workspace/kaist/test_use/set06/V000/visible/I00919.jpg 481,215,501,271,2 497,215,521,274,2 
+/workspace/kaist/test_use/set06/V000/visible/I00939.jpg 534,220,563,289,1 576,217,604,268,2 
+/workspace/kaist/test_use/set06/V000/visible/I01079.jpg 484,211,505,257,2 
+/workspace/kaist/test_use/set06/V000/visible/I01099.jpg 557,215,581,269,2 572,223,593,267,2 391,216,412,257,2 374,217,393,253,2 
+/workspace/kaist/test_use/set06/V000/visible/I01119.jpg 422,221,443,272,2 401,220,422,268,2 
+/workspace/kaist/test_use/set06/V000/visible/I01139.jpg 456,228,484,297,2 488,226,513,300,2 
+/workspace/kaist/test_use/set06/V000/visible/I01159.jpg 473,212,492,255,2 385,203,403,234,2 
+/workspace/kaist/test_use/set06/V000/visible/I01179.jpg 533,212,557,268,2 
+/workspace/kaist/test_use/set06/V000/visible/I01199.jpg 423,198,446,249,2 
+/workspace/kaist/test_use/set06/V000/visible/I01219.jpg 467,198,492,260,2 
+/workspace/kaist/test_use/set06/V000/visible/I01239.jpg 527,206,558,283,2 
+/workspace/kaist/test_use/set06/V000/visible/I01259.jpg 602,154,639,266,2 
+/workspace/kaist/test_use/set06/V000/visible/I01279.jpg 377,208,394,244,2 406,208,421,240,2 397,211,409,237,2 
+/workspace/kaist/test_use/set06/V000/visible/I01299.jpg 382,207,399,241,2 401,209,419,240,2 415,205,437,241,2 
+/workspace/kaist/test_use/set06/V000/visible/I01319.jpg 379,211,402,255,2 399,210,420,256,2 419,210,441,254,2 
+/workspace/kaist/test_use/set06/V000/visible/I01339.jpg 375,211,398,260,2 398,210,418,215,2 
+/workspace/kaist/test_use/set06/V000/visible/I01359.jpg 350,217,371,270,2 365,212,386,266,2 316,216,342,262,2 
+/workspace/kaist/test_use/set06/V000/visible/I01379.jpg 342,212,364,261,2 396,214,416,267,2 
+/workspace/kaist/test_use/set06/V000/visible/I01399.jpg 440,208,466,271,2 415,213,439,264,2 391,214,414,264,2 
+/workspace/kaist/test_use/set06/V000/visible/I01419.jpg 457,216,482,275,2 483,209,508,215,2 
+/workspace/kaist/test_use/set06/V000/visible/I01439.jpg 517,210,541,278,2 488,221,509,276,2 
+/workspace/kaist/test_use/set06/V000/visible/I01459.jpg 538,220,559,282,2 
+/workspace/kaist/test_use/set06/V000/visible/I01479.jpg 574,227,599,289,2 598,225,620,280,2 
+/workspace/kaist/test_use/set06/V000/visible/I01499.jpg 519,226,547,292,2 592,235,612,283,2 541,231,564,285,2 
+/workspace/kaist/test_use/set06/V000/visible/I01519.jpg 553,223,579,288,2 526,221,554,286,2 506,224,533,287,2 
+/workspace/kaist/test_use/set06/V001/visible/I00019.jpg 582,226,617,304,2 450,231,466,234,2 
+/workspace/kaist/test_use/set06/V001/visible/I00039.jpg 579,228,625,332,2 464,224,480,228,2 
+/workspace/kaist/test_use/set06/V001/visible/I00059.jpg 479,220,502,224,2 
+/workspace/kaist/test_use/set06/V001/visible/I00079.jpg 509,214,535,263,2 
+/workspace/kaist/test_use/set06/V001/visible/I00099.jpg 576,219,605,287,2 51,204,98,257,1 
+/workspace/kaist/test_use/set06/V001/visible/I00119.jpg 7,195,63,247,1 387,204,404,239,2 
+/workspace/kaist/test_use/set06/V001/visible/I00139.jpg 419,202,439,239,2 399,200,421,241,2 
+/workspace/kaist/test_use/set06/V001/visible/I00159.jpg 419,233,442,238,2 439,235,461,278,2 
+/workspace/kaist/test_use/set06/V001/visible/I00179.jpg 442,205,468,264,2 469,213,491,266,2 
+/workspace/kaist/test_use/set06/V001/visible/I00199.jpg 480,209,507,271,2 507,210,535,268,2 347,211,374,214,0 
+/workspace/kaist/test_use/set06/V001/visible/I00219.jpg 553,208,592,301,2 589,208,630,301,2 359,215,378,250,2 
+/workspace/kaist/test_use/set06/V001/visible/I00239.jpg 382,219,399,250,2 
+/workspace/kaist/test_use/set06/V001/visible/I00259.jpg 404,216,424,254,2 
+/workspace/kaist/test_use/set06/V001/visible/I00299.jpg 470,221,496,269,2 335,203,377,206,0 298,201,316,228,2 209,203,223,224,1 442,221,459,259,2 453,219,471,265,2 
+/workspace/kaist/test_use/set06/V001/visible/I00319.jpg 511,215,544,279,2 474,217,495,264,2 549,218,570,265,2 349,198,391,227,0 303,195,319,222,2 
+/workspace/kaist/test_use/set06/V001/visible/I00339.jpg 575,217,612,302,2 607,223,628,281,2 552,223,569,270,2 353,200,397,234,0 305,196,322,231,2 190,180,206,207,1 
+/workspace/kaist/test_use/set06/V001/visible/I00359.jpg 541,215,572,288,2 561,219,593,292,2 385,201,401,239,2 360,202,378,240,2 371,199,387,203,2 305,191,327,234,2 172,169,192,200,2 
+/workspace/kaist/test_use/set06/V001/visible/I00379.jpg 549,216,585,304,2 579,218,612,303,2 611,229,640,282,2 335,201,357,247,2 347,198,371,247,2 362,198,386,246,2 274,188,296,233,2 118,157,136,191,1 431,220,454,261,2 
+/workspace/kaist/test_use/set06/V001/visible/I00399.jpg 516,213,562,312,2 550,215,585,307,2 198,186,225,238,2 259,202,288,259,2 297,203,326,208,2 279,202,306,259,2 586,222,618,228,2 16,144,55,178,1 378,219,404,270,2 
+/workspace/kaist/test_use/set06/V001/visible/I00419.jpg 440,213,485,314,2 473,213,510,310,2 101,189,132,195,2 176,212,208,279,2 216,209,248,266,2 194,209,223,273,2 528,220,557,282,2 301,216,326,271,2 600,210,626,256,2 
+/workspace/kaist/test_use/set06/V001/visible/I00439.jpg 346,212,401,317,2 392,215,432,310,2 12,190,52,264,2 102,214,138,290,2 149,213,182,284,2 123,216,153,284,2 464,221,499,285,2 215,217,245,281,2 550,205,579,262,2 
+/workspace/kaist/test_use/set06/V001/visible/I00459.jpg 282,209,334,320,2 331,213,374,316,2 54,211,84,219,2 106,212,139,289,2 78,213,106,290,2 587,232,636,243,2 421,222,451,287,2 163,215,194,287,2 
+/workspace/kaist/test_use/set06/V001/visible/I00479.jpg 256,211,298,222,2 286,211,331,222,2 48,206,86,294,2 106,212,139,289,2 74,207,109,293,2 535,230,581,241,2 403,223,432,282,2 140,222,171,284,2 
+/workspace/kaist/test_use/set06/V001/visible/I00499.jpg 238,219,278,315,2 269,217,308,309,2 66,212,105,296,2 128,219,163,294,2 91,213,123,221,2 501,225,544,324,2 403,217,439,284,2 142,224,171,291,2 468,208,498,273,2 
+/workspace/kaist/test_use/set06/V001/visible/I00519.jpg 215,220,260,309,2 246,213,287,311,2 84,214,125,309,2 147,214,182,302,2 110,209,146,300,2 538,235,596,421,2 475,219,517,320,2 420,218,455,282,2 140,225,173,298,2 454,206,480,267,2 
+/workspace/kaist/test_use/set06/V001/visible/I00539.jpg 211,213,250,306,2 194,220,230,302,2 103,213,143,314,2 164,220,199,305,2 125,214,160,312,2 464,240,526,404,2 445,229,479,237,2 433,220,458,226,2 
+/workspace/kaist/test_use/set06/V001/visible/I00559.jpg 92,218,142,319,2 150,214,189,225,2 117,212,157,327,2 401,234,461,395,2 398,226,435,314,2 
+/workspace/kaist/test_use/set06/V001/visible/I00579.jpg 19,213,70,344,2 108,210,154,332,2 65,211,120,335,2 305,225,377,396,2 338,214,373,281,2 2,212,46,295,0 383,212,416,277,2 
+/workspace/kaist/test_use/set06/V001/visible/I00599.jpg 127,229,207,403,2 158,227,213,319,2 215,220,245,286,2 268,215,306,286,2 
+/workspace/kaist/test_use/set06/V001/visible/I00619.jpg 17,215,54,288,2 127,216,157,268,2 
+/workspace/kaist/test_use/set06/V001/visible/I00639.jpg 9,207,65,302,1 
+/workspace/kaist/test_use/set06/V001/visible/I01539.jpg 403,250,433,294,0 
+/workspace/kaist/test_use/set06/V001/visible/I01559.jpg 305,254,340,306,0 
+/workspace/kaist/test_use/set06/V001/visible/I01579.jpg 163,256,203,319,0 
+/workspace/kaist/test_use/set06/V001/visible/I02579.jpg 254,204,286,255,1 
+/workspace/kaist/test_use/set06/V001/visible/I02599.jpg 470,195,501,246,2 
+/workspace/kaist/test_use/set06/V001/visible/I02619.jpg 550,195,574,235,2 
+/workspace/kaist/test_use/set06/V001/visible/I02639.jpg 537,198,565,243,2 
+/workspace/kaist/test_use/set06/V001/visible/I02659.jpg 518,208,547,263,2 
+/workspace/kaist/test_use/set06/V001/visible/I02679.jpg 531,225,567,299,2 
+/workspace/kaist/test_use/set06/V002/visible/I00159.jpg 416,216,440,261,2 431,214,453,261,2 
+/workspace/kaist/test_use/set06/V002/visible/I00179.jpg 451,220,478,271,2 472,220,498,271,2 
+/workspace/kaist/test_use/set06/V002/visible/I00199.jpg 535,217,570,287,2 510,222,545,289,2 
+/workspace/kaist/test_use/set06/V002/visible/I00359.jpg 179,219,214,267,3 
+/workspace/kaist/test_use/set06/V002/visible/I00379.jpg 58,196,119,293,3 357,207,377,240,2 
+/workspace/kaist/test_use/set06/V002/visible/I00399.jpg 377,246,403,250,2 
+/workspace/kaist/test_use/set06/V002/visible/I00419.jpg 409,246,440,302,2 
+/workspace/kaist/test_use/set06/V002/visible/I00439.jpg 471,244,508,321,2 
+/workspace/kaist/test_use/set06/V002/visible/I00619.jpg 18,192,64,271,2 
+/workspace/kaist/test_use/set06/V002/visible/I00639.jpg 236,207,270,290,2 
+/workspace/kaist/test_use/set06/V002/visible/I00819.jpg 609,236,631,288,2 
+/workspace/kaist/test_use/set06/V002/visible/I00859.jpg 573,216,591,248,2 
+/workspace/kaist/test_use/set06/V002/visible/I00879.jpg 571,213,591,254,2 
+/workspace/kaist/test_use/set06/V002/visible/I00999.jpg 400,220,420,254,2 414,223,431,255,2 
+/workspace/kaist/test_use/set06/V002/visible/I01019.jpg 416,225,442,269,2 429,226,456,268,2 
+/workspace/kaist/test_use/set06/V002/visible/I01039.jpg 445,235,474,283,2 463,234,494,239,2 
+/workspace/kaist/test_use/set06/V002/visible/I01059.jpg 496,228,532,301,2 522,230,555,303,2 512,230,542,303,2 
+/workspace/kaist/test_use/set06/V002/visible/I01139.jpg 389,221,409,262,2 
+/workspace/kaist/test_use/set06/V002/visible/I01159.jpg 433,215,454,256,2 410,214,431,258,2 
+/workspace/kaist/test_use/set06/V002/visible/I01179.jpg 421,205,448,262,2 455,204,487,263,2 
+/workspace/kaist/test_use/set06/V002/visible/I01199.jpg 493,214,526,281,2 358,205,383,252,2 
+/workspace/kaist/test_use/set06/V002/visible/I01219.jpg 500,206,540,301,2 557,205,595,297,2 370,199,395,246,2 154,203,174,234,1 
+/workspace/kaist/test_use/set06/V002/visible/I01239.jpg 569,226,636,369,2 388,224,413,272,2 
+/workspace/kaist/test_use/set06/V002/visible/I01259.jpg 133,214,158,261,2 
+/workspace/kaist/test_use/set06/V002/visible/I01279.jpg 120,209,147,270,2 
+/workspace/kaist/test_use/set06/V002/visible/I01299.jpg 105,198,140,205,2 493,196,532,299,2 
+/workspace/kaist/test_use/set06/V002/visible/I01319.jpg 77,195,121,283,2 528,172,555,218,3 
+/workspace/kaist/test_use/set06/V002/visible/I01339.jpg 562,194,586,230,3 
+/workspace/kaist/test_use/set06/V002/visible/I01359.jpg 595,189,624,194,3 
+/workspace/kaist/test_use/set06/V002/visible/I01439.jpg 14,210,37,252,2 
+/workspace/kaist/test_use/set06/V002/visible/I01459.jpg 216,210,238,245,2 
+/workspace/kaist/test_use/set06/V002/visible/I01479.jpg 327,204,352,251,2 
+/workspace/kaist/test_use/set06/V002/visible/I01499.jpg 394,208,421,261,2 455,214,477,257,2 
+/workspace/kaist/test_use/set06/V002/visible/I01519.jpg 450,218,484,279,2 506,216,533,221,2 414,216,440,247,0 
+/workspace/kaist/test_use/set06/V002/visible/I01539.jpg 549,217,591,225,2 582,212,616,279,2 447,214,472,246,0 
+/workspace/kaist/test_use/set06/V002/visible/I01559.jpg 487,211,509,253,2 
+/workspace/kaist/test_use/set06/V002/visible/I01579.jpg 522,206,551,258,2 
+/workspace/kaist/test_use/set06/V002/visible/I01599.jpg 589,208,619,272,2 
+/workspace/kaist/test_use/set06/V002/visible/I01679.jpg 488,190,515,246,2 554,191,587,250,2 
+/workspace/kaist/test_use/set06/V003/visible/I00019.jpg 495,213,519,255,2 
+/workspace/kaist/test_use/set06/V003/visible/I00039.jpg 546,209,569,263,2 
+/workspace/kaist/test_use/set06/V003/visible/I00059.jpg 588,252,611,311,2 
+/workspace/kaist/test_use/set06/V003/visible/I00099.jpg 505,200,529,241,2 
+/workspace/kaist/test_use/set06/V003/visible/I00119.jpg 517,204,537,246,2 
+/workspace/kaist/test_use/set06/V003/visible/I00139.jpg 528,230,550,275,2 
+/workspace/kaist/test_use/set06/V003/visible/I00159.jpg 529,185,550,231,2 
+/workspace/kaist/test_use/set06/V003/visible/I00179.jpg 545,229,566,272,2 426,240,443,275,2 435,235,456,239,2 
+/workspace/kaist/test_use/set06/V003/visible/I00199.jpg 554,183,574,232,2 441,191,462,225,2 455,187,474,232,2 
+/workspace/kaist/test_use/set06/V003/visible/I00219.jpg 554,205,582,252,2 458,214,479,253,2 474,205,498,210,2 65,216,85,257,1 
+/workspace/kaist/test_use/set06/V003/visible/I00239.jpg 547,207,569,260,2 468,219,490,264,2 484,215,510,266,2 49,218,69,259,2 
+/workspace/kaist/test_use/set06/V003/visible/I00259.jpg 539,205,561,260,2 479,212,501,217,2 495,208,521,265,2 5,208,25,249,1 
+/workspace/kaist/test_use/set06/V003/visible/I00279.jpg 551,217,574,276,2 509,229,532,282,2 531,220,559,226,2 
+/workspace/kaist/test_use/set06/V003/visible/I00299.jpg 586,232,610,290,2 612,227,640,289,2 
+/workspace/kaist/test_use/set06/V003/visible/I00339.jpg 409,220,427,258,2 
+/workspace/kaist/test_use/set06/V003/visible/I00359.jpg 429,214,449,262,2 
+/workspace/kaist/test_use/set06/V003/visible/I00379.jpg 453,208,474,260,2 
+/workspace/kaist/test_use/set06/V003/visible/I00399.jpg 480,219,503,272,2 
+/workspace/kaist/test_use/set06/V003/visible/I00419.jpg 530,211,558,279,2 
+/workspace/kaist/test_use/set06/V003/visible/I00439.jpg 402,215,421,246,0 
+/workspace/kaist/test_use/set06/V003/visible/I00459.jpg 431,214,451,218,2 
+/workspace/kaist/test_use/set06/V003/visible/I00479.jpg 457,208,481,255,2 
+/workspace/kaist/test_use/set06/V003/visible/I00499.jpg 498,217,520,266,2 479,208,505,270,2 
+/workspace/kaist/test_use/set06/V003/visible/I00519.jpg 542,209,569,275,2 524,214,548,279,2 4,212,24,253,1 
+/workspace/kaist/test_use/set06/V003/visible/I00539.jpg 616,190,639,266,2 584,190,610,273,2 
+/workspace/kaist/test_use/set06/V003/visible/I00559.jpg 471,212,493,253,2 419,213,438,247,2 
+/workspace/kaist/test_use/set06/V003/visible/I00579.jpg 488,211,509,260,2 437,213,459,254,0 
+/workspace/kaist/test_use/set06/V003/visible/I00599.jpg 517,212,539,270,2 462,218,478,256,2 
+/workspace/kaist/test_use/set06/V003/visible/I00619.jpg 568,215,600,279,2 514,214,534,257,2 500,215,521,260,2 450,215,472,258,2 
+/workspace/kaist/test_use/set06/V003/visible/I00639.jpg 565,213,586,262,2 547,216,568,269,2 487,215,509,259,2 
+/workspace/kaist/test_use/set06/V003/visible/I00659.jpg 519,210,543,267,2 592,217,616,272,2 608,218,633,274,2 
+/workspace/kaist/test_use/set06/V003/visible/I00679.jpg 558,211,589,283,2 
+/workspace/kaist/test_use/set06/V003/visible/I00699.jpg 475,211,496,255,2 
+/workspace/kaist/test_use/set06/V003/visible/I00719.jpg 463,212,483,255,2 
+/workspace/kaist/test_use/set06/V003/visible/I00739.jpg 539,209,560,267,0 610,206,637,268,2 445,208,469,257,2 
+/workspace/kaist/test_use/set06/V003/visible/I00759.jpg 506,209,529,260,2 526,211,547,258,2 449,208,474,269,2 490,205,509,242,2 383,210,400,245,2 
+/workspace/kaist/test_use/set06/V003/visible/I00779.jpg 595,209,622,277,2 538,205,558,251,2 399,212,417,249,2 
+/workspace/kaist/test_use/set06/V003/visible/I00799.jpg 548,237,585,328,2 414,233,435,238,2 
+/workspace/kaist/test_use/set06/V003/visible/I00819.jpg 434,219,454,267,2 
+/workspace/kaist/test_use/set06/V003/visible/I00859.jpg 380,212,396,248,2 399,210,415,246,2 412,212,433,248,0 
+/workspace/kaist/test_use/set06/V003/visible/I00879.jpg 515,216,547,279,2 381,213,404,254,2 433,213,455,252,2 412,214,427,250,2 496,212,517,269,2 478,211,498,263,2 431,211,455,257,2 418,211,439,259,2 404,214,425,261,2 
+/workspace/kaist/test_use/set06/V003/visible/I00919.jpg 584,217,607,283,2 534,209,557,263,2 435,212,459,273,2 449,215,472,271,2 472,214,492,270,2 
+/workspace/kaist/test_use/set06/V003/visible/I00939.jpg 484,219,516,303,2 501,217,532,301,2 536,218,566,299,2 
+/workspace/kaist/test_use/set06/V003/visible/I00979.jpg 510,217,530,266,2 
+/workspace/kaist/test_use/set06/V003/visible/I01019.jpg 437,208,456,241,2 
+/workspace/kaist/test_use/set06/V003/visible/I01039.jpg 469,206,491,252,2 
+/workspace/kaist/test_use/set06/V003/visible/I01059.jpg 521,208,543,262,2 30,208,50,251,2 43,210,65,253,2 
+/workspace/kaist/test_use/set06/V003/visible/I01079.jpg 595,219,615,282,2 3,216,25,260,2 
+/workspace/kaist/test_use/set06/V003/visible/I01179.jpg 432,224,448,259,2 
+/workspace/kaist/test_use/set06/V003/visible/I01199.jpg 458,219,483,265,2 
+/workspace/kaist/test_use/set06/V003/visible/I01219.jpg 518,218,541,266,2 
+/workspace/kaist/test_use/set06/V003/visible/I01279.jpg 341,214,359,248,2 
+/workspace/kaist/test_use/set06/V003/visible/I01299.jpg 347,216,364,245,1 
+/workspace/kaist/test_use/set06/V003/visible/I01319.jpg 432,214,447,249,2 447,207,464,243,2 353,214,373,251,2 
+/workspace/kaist/test_use/set06/V003/visible/I01339.jpg 467,220,487,261,2 488,217,509,259,2 450,217,472,263,2 357,218,381,262,2 
+/workspace/kaist/test_use/set06/V003/visible/I01359.jpg 492,221,517,274,2 510,216,534,271,2 572,216,592,270,2 372,221,393,268,3 438,204,455,246,2 
+/workspace/kaist/test_use/set06/V003/visible/I01379.jpg 564,226,594,295,2 590,220,617,298,2 371,218,398,223,3 465,206,485,247,2 480,200,501,249,2 
+/workspace/kaist/test_use/set06/V003/visible/I01399.jpg 372,215,401,271,3 517,208,542,261,2 547,207,567,261,2 
+/workspace/kaist/test_use/set06/V003/visible/I01419.jpg 392,218,418,271,3 
+/workspace/kaist/test_use/set06/V003/visible/I01439.jpg 421,223,453,295,3 
+/workspace/kaist/test_use/set06/V003/visible/I01459.jpg 447,226,485,322,3 
+/workspace/kaist/test_use/set06/V003/visible/I01479.jpg 467,259,515,371,3 417,234,435,269,2 
+/workspace/kaist/test_use/set06/V003/visible/I01499.jpg 494,243,544,255,3 428,199,450,245,2 
+/workspace/kaist/test_use/set06/V003/visible/I01519.jpg 538,242,599,386,3 497,205,523,253,2 446,200,470,249,2 
+/workspace/kaist/test_use/set06/V003/visible/I01539.jpg 533,204,559,259,2 472,207,497,254,2 
+/workspace/kaist/test_use/set06/V003/visible/I01559.jpg 590,211,618,275,2 506,215,533,267,2 
+/workspace/kaist/test_use/set06/V003/visible/I01579.jpg 555,217,584,279,2 
+/workspace/kaist/test_use/set06/V003/visible/I01599.jpg 417,231,433,267,2 396,234,420,270,0 
+/workspace/kaist/test_use/set06/V003/visible/I01619.jpg 411,229,428,266,2 423,226,439,265,2 
+/workspace/kaist/test_use/set06/V003/visible/I01639.jpg 427,227,449,278,2 445,220,466,273,2 
+/workspace/kaist/test_use/set06/V003/visible/I01659.jpg 458,224,481,279,2 485,224,507,278,2 70,202,118,238,0 
+/workspace/kaist/test_use/set06/V003/visible/I01679.jpg 508,223,538,301,2 534,220,562,297,2 11,200,62,246,0 
+/workspace/kaist/test_use/set06/V003/visible/I01699.jpg 568,209,604,217,2 
+/workspace/kaist/test_use/set06/V003/visible/I01719.jpg 407,205,427,249,2 
+/workspace/kaist/test_use/set06/V003/visible/I01739.jpg 439,205,462,256,2 
+/workspace/kaist/test_use/set06/V003/visible/I01759.jpg 482,175,512,245,2 74,160,98,206,2 
+/workspace/kaist/test_use/set06/V003/visible/I01779.jpg 543,218,575,315,2 41,220,61,264,1 465,205,487,249,2 368,208,393,244,0 
+/workspace/kaist/test_use/set06/V003/visible/I01799.jpg 492,211,516,259,2 377,218,401,252,0 5,217,61,258,0 
+/workspace/kaist/test_use/set06/V003/visible/I01819.jpg 550,217,574,268,2 388,216,417,258,0 
+/workspace/kaist/test_use/set06/V003/visible/I01839.jpg 413,222,440,265,1 
+/workspace/kaist/test_use/set06/V003/visible/I01879.jpg 495,224,520,289,2 519,223,540,291,2 235,218,251,251,2 254,219,269,222,2 470,214,491,257,2 
+/workspace/kaist/test_use/set06/V003/visible/I01899.jpg 592,225,632,323,2 227,214,244,247,2 249,216,267,250,2 547,211,568,258,2 516,210,539,262,2 402,214,418,247,2 
+/workspace/kaist/test_use/set06/V003/visible/I01919.jpg 219,215,240,257,2 246,212,266,258,2 342,184,360,187,1 606,217,635,268,2 576,213,606,280,0 
+/workspace/kaist/test_use/set06/V003/visible/I01939.jpg 207,213,229,257,2 236,208,258,213,2 340,183,359,211,1 453,217,475,262,2 
+/workspace/kaist/test_use/set06/V003/visible/I01959.jpg 177,215,200,269,2 303,172,322,206,1 448,213,473,264,2 476,211,498,263,0 405,212,433,217,2 
+/workspace/kaist/test_use/set06/V003/visible/I01979.jpg 92,213,119,271,2 118,215,148,266,2 252,163,273,201,2 432,216,458,269,2 370,215,398,268,2 407,216,433,272,2 
+/workspace/kaist/test_use/set06/V003/visible/I01999.jpg 48,224,82,285,2 193,164,215,196,2 401,218,432,287,2 325,223,349,280,2 340,218,367,281,2 1,218,41,284,2 
+/workspace/kaist/test_use/set06/V003/visible/I02019.jpg 102,148,128,190,2 337,216,370,224,2 253,216,279,279,2 226,217,256,281,2 
+/workspace/kaist/test_use/set06/V003/visible/I02039.jpg 267,217,307,226,2 52,218,94,293,2 153,216,183,285,2 
+/workspace/kaist/test_use/set06/V003/visible/I02059.jpg 154,221,193,323,2 14,212,55,291,2 
+/workspace/kaist/test_use/set06/V003/visible/I02079.jpg 3,221,48,340,2 
+/workspace/kaist/test_use/set06/V003/visible/I02219.jpg 240,216,262,262,1 
+/workspace/kaist/test_use/set06/V003/visible/I02239.jpg 282,216,303,265,2 297,215,319,268,2 
+/workspace/kaist/test_use/set06/V003/visible/I02259.jpg 331,213,355,280,2 354,219,380,275,2 
+/workspace/kaist/test_use/set06/V003/visible/I02279.jpg 361,219,388,293,2 387,226,415,297,2 
+/workspace/kaist/test_use/set06/V003/visible/I02299.jpg 397,219,436,324,2 440,236,472,331,2 
+/workspace/kaist/test_use/set06/V003/visible/I02319.jpg 457,224,527,400,2 542,248,597,392,2 
+/workspace/kaist/test_use/set06/V003/visible/I02539.jpg 53,223,87,231,2 19,229,56,294,2 
+/workspace/kaist/test_use/set06/V003/visible/I02559.jpg 322,227,350,302,2 355,229,385,303,2 
+/workspace/kaist/test_use/set06/V003/visible/I02579.jpg 331,229,353,236,2 350,221,386,304,2 
+/workspace/kaist/test_use/set06/V003/visible/I02599.jpg 132,230,177,328,2 172,218,221,229,2 
+/workspace/kaist/test_use/set06/V003/visible/I02619.jpg 1,211,50,357,1 
+/workspace/kaist/test_use/set06/V003/visible/I02699.jpg 436,207,456,249,2 158,210,176,242,2 
+/workspace/kaist/test_use/set06/V003/visible/I02719.jpg 446,207,466,249,2 149,203,169,242,2 457,199,494,256,0 
+/workspace/kaist/test_use/set06/V003/visible/I02739.jpg 117,213,137,252,2 423,205,461,211,0 370,205,389,241,2 
+/workspace/kaist/test_use/set06/V003/visible/I02759.jpg 98,216,118,255,2 382,218,425,284,0 322,208,342,242,2 
+/workspace/kaist/test_use/set06/V003/visible/I02779.jpg 123,215,143,254,2 356,225,397,232,0 282,208,303,253,2 
+/workspace/kaist/test_use/set06/V003/visible/I02799.jpg 157,211,177,253,2 322,224,365,232,0 250,208,274,255,2 
+/workspace/kaist/test_use/set06/V003/visible/I02819.jpg 197,218,217,257,2 283,226,330,310,0 223,212,243,251,2 
+/workspace/kaist/test_use/set06/V003/visible/I02839.jpg 236,220,256,259,2 241,231,288,307,0 192,212,212,251,2 
+/workspace/kaist/test_use/set06/V003/visible/I02859.jpg 276,216,297,264,2 182,229,235,310,0 160,213,180,252,2 
+/workspace/kaist/test_use/set06/V003/visible/I02879.jpg 308,220,333,263,2 121,222,174,321,0 132,211,152,250,2 
+/workspace/kaist/test_use/set06/V003/visible/I02899.jpg 337,219,364,266,2 99,215,119,254,2 60,228,101,237,2 89,224,134,313,2 
+/workspace/kaist/test_use/set06/V003/visible/I02919.jpg 370,225,390,271,2 53,214,73,253,2 45,236,96,313,3 8,221,59,325,2 
+/workspace/kaist/test_use/set06/V003/visible/I02939.jpg 390,222,410,271,2 179,234,227,331,3 
+/workspace/kaist/test_use/set06/V003/visible/I02959.jpg 344,245,408,344,2 401,223,429,275,2 
+/workspace/kaist/test_use/set06/V003/visible/I02979.jpg 389,220,410,281,2 447,247,498,348,3 
+/workspace/kaist/test_use/set06/V003/visible/I02999.jpg 368,220,398,281,2 540,245,591,351,3 
+/workspace/kaist/test_use/set06/V003/visible/I03019.jpg 444,221,468,295,2 
+/workspace/kaist/test_use/set06/V003/visible/I03039.jpg 533,229,563,313,2 
+/workspace/kaist/test_use/set06/V003/visible/I03059.jpg 2,210,79,414,2 
+/workspace/kaist/test_use/set06/V003/visible/I03079.jpg 41,215,108,416,2 15,210,69,352,3 
+/workspace/kaist/test_use/set06/V003/visible/I03099.jpg 96,210,167,411,2 
+/workspace/kaist/test_use/set06/V003/visible/I03119.jpg 190,210,260,411,2 
+/workspace/kaist/test_use/set06/V003/visible/I03139.jpg 334,223,400,427,2 
+/workspace/kaist/test_use/set06/V003/visible/I03159.jpg 534,236,608,463,2 
+/workspace/kaist/test_use/set06/V003/visible/I03239.jpg 478,206,500,250,3 
+/workspace/kaist/test_use/set06/V003/visible/I03259.jpg 379,206,411,264,3 
+/workspace/kaist/test_use/set06/V003/visible/I03279.jpg 240,209,287,217,3 
+/workspace/kaist/test_use/set06/V003/visible/I03379.jpg 303,218,323,254,2 366,216,398,249,0 
+/workspace/kaist/test_use/set06/V003/visible/I03399.jpg 283,219,305,257,2 140,215,158,250,2 367,216,408,247,0 
+/workspace/kaist/test_use/set06/V003/visible/I03419.jpg 264,220,288,261,2 144,215,159,251,2 153,214,173,253,2 379,221,405,247,1 
+/workspace/kaist/test_use/set06/V003/visible/I03439.jpg 242,222,268,266,2 359,224,381,269,2 143,222,161,259,2 154,219,178,261,2 
+/workspace/kaist/test_use/set06/V003/visible/I03459.jpg 192,223,221,228,2 323,218,347,271,2 437,218,455,261,2 136,216,157,264,2 122,218,140,254,2 369,215,423,249,0 
+/workspace/kaist/test_use/set06/V003/visible/I03479.jpg 119,221,153,287,2 275,212,301,273,2 105,219,125,264,2 418,215,437,248,2 403,216,422,249,2 389,215,405,249,2 376,216,392,248,2 
+/workspace/kaist/test_use/set06/V003/visible/I03499.jpg 207,214,236,283,2 68,216,100,268,2 43,213,70,269,2 464,218,487,223,2 431,216,449,252,2 411,214,427,250,2 398,215,414,250,2 384,213,400,252,2 
+/workspace/kaist/test_use/set06/V003/visible/I03519.jpg 84,220,136,229,2 486,223,510,282,2 382,217,403,264,2 440,215,457,258,2 419,211,437,254,2 397,212,421,260,2 12,207,39,265,2 
+/workspace/kaist/test_use/set06/V003/visible/I03539.jpg 534,229,561,301,2 434,216,456,267,2 384,221,407,270,2 464,219,487,268,2 523,222,546,272,2 410,221,431,265,2 
+/workspace/kaist/test_use/set06/V003/visible/I03559.jpg 464,218,487,275,2 397,222,421,280,2 515,222,546,278,2 433,222,456,274,2 592,214,630,288,2 
+/workspace/kaist/test_use/set06/V003/visible/I03579.jpg 499,218,528,290,2 432,218,466,297,2 607,224,632,292,2 474,220,499,293,2 
+/workspace/kaist/test_use/set06/V003/visible/I03599.jpg 512,212,556,327,2 570,219,605,317,2 588,228,634,341,2 
+/workspace/kaist/test_use/set06/V003/visible/I03799.jpg 111,231,141,264,1 
+/workspace/kaist/test_use/set06/V003/visible/I03819.jpg 122,236,153,271,1 
+/workspace/kaist/test_use/set06/V003/visible/I03839.jpg 134,232,167,268,1 
+/workspace/kaist/test_use/set06/V003/visible/I03859.jpg 146,229,180,267,1 
+/workspace/kaist/test_use/set06/V003/visible/I03879.jpg 169,223,188,260,2 
+/workspace/kaist/test_use/set06/V003/visible/I03899.jpg 208,225,225,262,2 
+/workspace/kaist/test_use/set06/V003/visible/I03919.jpg 239,222,258,264,2 
+/workspace/kaist/test_use/set06/V003/visible/I03939.jpg 254,219,276,263,2 
+/workspace/kaist/test_use/set06/V003/visible/I03959.jpg 254,224,279,269,2 
+/workspace/kaist/test_use/set06/V003/visible/I03979.jpg 291,220,313,278,2 
+/workspace/kaist/test_use/set06/V003/visible/I03999.jpg 341,217,365,223,2 
+/workspace/kaist/test_use/set06/V003/visible/I04019.jpg 403,214,428,279,2 
+/workspace/kaist/test_use/set06/V003/visible/I04039.jpg 474,213,506,289,2 
+/workspace/kaist/test_use/set06/V003/visible/I04059.jpg 566,210,604,314,2 
+/workspace/kaist/test_use/set06/V003/visible/I04199.jpg 163,172,213,266,1 
+/workspace/kaist/test_use/set06/V004/visible/I00079.jpg 407,200,454,273,1 332,196,372,263,1 
+/workspace/kaist/test_use/set06/V004/visible/I00099.jpg 150,185,201,281,1 
+/workspace/kaist/test_use/set06/V004/visible/I00119.jpg 426,193,477,284,1 
+/workspace/kaist/test_use/set06/V004/visible/I00139.jpg 453,198,504,289,1 
+/workspace/kaist/test_use/set06/V004/visible/I00159.jpg 446,199,495,208,1 
+/workspace/kaist/test_use/set06/V004/visible/I00179.jpg 478,197,524,284,1 39,130,122,379,1 
+/workspace/kaist/test_use/set06/V004/visible/I00199.jpg 180,144,254,365,1 565,201,608,284,1 40,209,129,237,2 
+/workspace/kaist/test_use/set06/V004/visible/I00219.jpg 320,159,385,351,1 352,219,438,466,2 
+/workspace/kaist/test_use/set06/V004/visible/I00239.jpg 444,174,499,335,1 
+/workspace/kaist/test_use/set06/V004/visible/I00259.jpg 471,179,525,337,1 
+/workspace/kaist/test_use/set06/V004/visible/I00279.jpg 492,174,548,337,1 
+/workspace/kaist/test_use/set06/V004/visible/I00699.jpg 553,240,574,269,1 
+/workspace/kaist/test_use/set06/V004/visible/I00739.jpg 343,233,363,274,2 
+/workspace/kaist/test_use/set06/V004/visible/I00759.jpg 230,227,249,269,2 
+/workspace/kaist/test_use/set06/V004/visible/I00779.jpg 179,230,201,275,2 
+/workspace/kaist/test_use/set06/V004/visible/I00799.jpg 118,227,146,233,2 
+/workspace/kaist/test_use/set06/V004/visible/I00819.jpg 31,227,74,316,2 150,221,168,257,2 182,223,201,258,2 222,225,242,263,2 
+/workspace/kaist/test_use/set06/V004/visible/I00839.jpg 110,217,183,263,0 202,220,223,262,2 
+/workspace/kaist/test_use/set06/V004/visible/I00859.jpg 3,213,114,266,0 
+/workspace/kaist/test_use/set06/V004/visible/I01019.jpg 16,211,70,226,2 
+/workspace/kaist/test_use/set06/V004/visible/I01159.jpg 408,221,429,260,2 
+/workspace/kaist/test_use/set06/V004/visible/I01179.jpg 441,220,461,258,2 
+/workspace/kaist/test_use/set06/V004/visible/I01219.jpg 516,221,544,285,2 
+/workspace/kaist/test_use/set06/V004/visible/I01239.jpg 575,218,607,296,2 
+/workspace/kaist/test_use/set06/V004/visible/I01339.jpg 257,210,277,243,1 123,211,148,253,2 
+/workspace/kaist/test_use/set06/V004/visible/I01359.jpg 259,207,284,240,1 89,208,114,247,2 
+/workspace/kaist/test_use/set06/V004/visible/I01379.jpg 16,207,53,261,2 265,202,287,241,1 
+/workspace/kaist/test_use/set06/V004/visible/I01399.jpg 273,208,294,247,2 
+/workspace/kaist/test_use/set06/V004/visible/I01419.jpg 284,206,306,249,2 
+/workspace/kaist/test_use/set06/V004/visible/I01439.jpg 300,204,325,253,0 328,205,348,246,2 
+/workspace/kaist/test_use/set06/V004/visible/I01459.jpg 322,202,350,257,0 361,206,382,242,2 
+/workspace/kaist/test_use/set06/V004/visible/I01479.jpg 350,202,380,262,0 408,200,433,248,2 
+/workspace/kaist/test_use/set06/V004/visible/I01499.jpg 390,231,420,294,0 462,229,485,276,2 
+/workspace/kaist/test_use/set06/V004/visible/I01519.jpg 441,201,471,269,0 527,213,552,265,2 
+/workspace/kaist/test_use/set06/V004/visible/I01539.jpg 511,211,547,290,2 597,210,625,267,2 331,199,353,247,2 
+/workspace/kaist/test_use/set06/V004/visible/I01579.jpg 367,202,392,251,2 569,207,618,253,0 
+/workspace/kaist/test_use/set06/V004/visible/I01599.jpg 545,203,604,254,0 
+/workspace/kaist/test_use/set06/V004/visible/I01619.jpg 229,211,263,278,2 446,208,510,266,0 
+/workspace/kaist/test_use/set06/V004/visible/I01639.jpg 1,213,70,284,1 269,211,350,274,0 
+/workspace/kaist/test_use/set06/V004/visible/I01659.jpg 1,202,53,265,0 
+/workspace/kaist/test_use/set06/V004/visible/I01679.jpg 516,214,538,262,2 473,217,494,221,2 
+/workspace/kaist/test_use/set06/V004/visible/I01699.jpg 456,214,479,266,2 505,217,527,265,2 70,218,99,265,1 
+/workspace/kaist/test_use/set06/V004/visible/I01719.jpg 489,218,512,270,2 555,217,582,275,2 441,218,458,254,2 57,212,78,248,1 
+/workspace/kaist/test_use/set06/V004/visible/I01739.jpg 564,219,603,283,2 470,213,491,255,2 
+/workspace/kaist/test_use/set06/V004/visible/I01759.jpg 510,208,534,254,2 33,213,71,248,1 
+/workspace/kaist/test_use/set06/V004/visible/I01779.jpg 573,209,597,262,2 
+/workspace/kaist/test_use/set06/V004/visible/I01819.jpg 84,192,111,234,2 
+/workspace/kaist/test_use/set06/V004/visible/I01839.jpg 29,208,67,262,1 
+/workspace/kaist/test_use/set06/V004/visible/I01919.jpg 78,223,116,268,0 
+/workspace/kaist/test_use/set06/V004/visible/I01939.jpg 15,236,60,290,0 
+/workspace/kaist/test_use/set06/V004/visible/I01959.jpg 21,222,60,269,1 
+/workspace/kaist/test_use/set06/V004/visible/I01979.jpg 422,210,468,214,0 
+/workspace/kaist/test_use/set06/V004/visible/I01999.jpg 436,209,456,213,2 480,204,500,247,2 453,207,473,249,2 
+/workspace/kaist/test_use/set06/V004/visible/I02019.jpg 490,206,510,248,2 472,205,493,249,2 542,205,570,262,2 
+/workspace/kaist/test_use/set06/V004/visible/I02039.jpg 543,198,566,256,2 522,201,545,258,2 449,203,470,247,2 10,203,49,248,1 65,198,93,201,1 
+/workspace/kaist/test_use/set06/V004/visible/I02059.jpg 600,207,631,275,2 433,198,453,242,2 
+/workspace/kaist/test_use/set06/V004/visible/I02079.jpg 529,208,552,265,2 458,194,480,245,2 
+/workspace/kaist/test_use/set06/V004/visible/I02099.jpg 578,248,602,311,2 480,235,504,298,2 
+/workspace/kaist/test_use/set06/V004/visible/I02119.jpg 499,200,532,278,2 431,204,449,235,2 
+/workspace/kaist/test_use/set06/V004/visible/I02139.jpg 556,221,593,229,2 460,207,487,258,2 401,209,421,243,1 
+/workspace/kaist/test_use/set06/V004/visible/I02159.jpg 521,214,552,275,2 420,213,445,246,0 
+/workspace/kaist/test_use/set06/V004/visible/I02179.jpg 451,217,477,255,0 
+/workspace/kaist/test_use/set06/V004/visible/I02199.jpg 497,217,528,263,0 
+/workspace/kaist/test_use/set06/V004/visible/I02219.jpg 109,206,129,247,2 3,220,33,225,0 568,211,594,265,2 587,208,615,267,2 
+/workspace/kaist/test_use/set06/V004/visible/I02239.jpg 33,213,71,264,1 
+/workspace/kaist/test_use/set06/V004/visible/I02259.jpg 460,220,478,253,2 
+/workspace/kaist/test_use/set06/V004/visible/I02279.jpg 506,218,528,267,2 
+/workspace/kaist/test_use/set06/V004/visible/I02299.jpg 583,212,614,275,2 
+/workspace/kaist/test_use/set06/V004/visible/I02319.jpg 88,218,115,253,2 
+/workspace/kaist/test_use/set06/V004/visible/I02339.jpg 47,212,74,260,2 
+/workspace/kaist/test_use/set06/V004/visible/I02359.jpg 466,217,483,254,2 
+/workspace/kaist/test_use/set06/V004/visible/I02379.jpg 526,216,547,272,2 100,219,124,265,2 37,214,68,262,2 
+/workspace/kaist/test_use/set06/V004/visible/I02399.jpg 434,206,456,259,2 
+/workspace/kaist/test_use/set06/V004/visible/I02439.jpg 140,203,159,206,1 473,199,493,238,1 
+/workspace/kaist/test_use/set06/V004/visible/I02459.jpg 116,181,142,227,1 469,182,496,231,1 
+/workspace/kaist/test_use/set06/V004/visible/I02479.jpg 561,200,598,255,3 98,216,120,220,2 
+/workspace/kaist/test_use/set06/V004/visible/I02619.jpg 430,209,450,251,2 
+/workspace/kaist/test_use/set06/V004/visible/I02639.jpg 474,209,498,260,2 
+/workspace/kaist/test_use/set06/V004/visible/I02659.jpg 544,202,573,267,2 
+/workspace/kaist/test_use/set06/V004/visible/I02679.jpg 9,208,49,262,1 78,208,112,242,0 
+/workspace/kaist/test_use/set06/V004/visible/I02719.jpg 162,240,190,277,1 
+/workspace/kaist/test_use/set06/V004/visible/I02739.jpg 159,216,182,262,2 136,220,156,259,2 
+/workspace/kaist/test_use/set06/V004/visible/I02759.jpg 109,217,147,265,0 
+/workspace/kaist/test_use/set06/V004/visible/I02779.jpg 61,223,94,287,2 31,218,71,285,2 
+/workspace/kaist/test_use/set07/V000/visible/I00019.jpg 424,207,447,253,2 
+/workspace/kaist/test_use/set07/V000/visible/I00039.jpg 506,210,534,266,2 
+/workspace/kaist/test_use/set07/V000/visible/I00379.jpg 362,212,382,246,2 345,210,365,243,2 
+/workspace/kaist/test_use/set07/V000/visible/I00399.jpg 430,218,450,263,2 405,218,425,263,2 
+/workspace/kaist/test_use/set07/V000/visible/I00419.jpg 532,222,567,230,2 564,220,607,305,2 
+/workspace/kaist/test_use/set07/V000/visible/I00499.jpg 413,220,433,256,2 427,220,449,258,2 
+/workspace/kaist/test_use/set07/V000/visible/I00519.jpg 541,228,608,301,0 
+/workspace/kaist/test_use/set07/V000/visible/I00679.jpg 354,208,375,251,2 
+/workspace/kaist/test_use/set07/V000/visible/I00699.jpg 394,214,420,267,2 
+/workspace/kaist/test_use/set07/V000/visible/I00719.jpg 520,200,573,334,0 
+/workspace/kaist/test_use/set07/V000/visible/I00739.jpg 435,203,459,258,2 
+/workspace/kaist/test_use/set07/V000/visible/I00759.jpg 539,208,571,285,2 565,209,592,266,2 
+/workspace/kaist/test_use/set07/V000/visible/I00919.jpg 430,211,450,249,2 
+/workspace/kaist/test_use/set07/V000/visible/I00939.jpg 479,219,499,260,2 544,213,570,265,2 
+/workspace/kaist/test_use/set07/V000/visible/I00959.jpg 556,216,584,268,2 
+/workspace/kaist/test_use/set07/V000/visible/I01219.jpg 570,224,600,278,2 603,219,635,280,2 516,208,542,250,0 
+/workspace/kaist/test_use/set07/V000/visible/I01239.jpg 600,209,624,262,2 460,210,485,251,1 
+/workspace/kaist/test_use/set07/V000/visible/I01259.jpg 542,210,567,266,2 448,212,465,248,1 
+/workspace/kaist/test_use/set07/V000/visible/I01299.jpg 531,208,555,264,2 
+/workspace/kaist/test_use/set07/V000/visible/I01379.jpg 417,213,434,246,2 
+/workspace/kaist/test_use/set07/V000/visible/I01399.jpg 403,219,426,260,2 
+/workspace/kaist/test_use/set07/V000/visible/I01419.jpg 387,208,411,213,2 
+/workspace/kaist/test_use/set07/V000/visible/I01439.jpg 405,210,429,215,2 357,210,375,246,2 
+/workspace/kaist/test_use/set07/V000/visible/I01459.jpg 451,215,482,282,2 379,220,402,257,2 
+/workspace/kaist/test_use/set07/V000/visible/I01479.jpg 437,215,462,266,2 
+/workspace/kaist/test_use/set07/V000/visible/I01499.jpg 354,216,381,248,0 
+/workspace/kaist/test_use/set07/V000/visible/I01519.jpg 402,214,424,259,2 388,216,409,264,2 
+/workspace/kaist/test_use/set07/V000/visible/I01539.jpg 488,213,518,290,2 464,216,496,290,2 
+/workspace/kaist/test_use/set07/V000/visible/I01579.jpg 387,200,410,249,3 358,201,384,233,0 
+/workspace/kaist/test_use/set07/V000/visible/I01599.jpg 540,214,590,313,3 340,213,368,241,2 385,212,401,251,2 369,212,385,245,2 
+/workspace/kaist/test_use/set07/V000/visible/I01619.jpg 404,212,423,257,2 382,211,399,249,2 348,214,380,217,0 
+/workspace/kaist/test_use/set07/V000/visible/I01639.jpg 444,217,472,279,2 408,215,433,267,2 393,213,414,260,2 370,220,395,257,0 
+/workspace/kaist/test_use/set07/V000/visible/I01659.jpg 524,215,563,308,2 463,220,488,283,2 442,214,463,275,2 424,219,448,274,2 408,222,432,270,2 
+/workspace/kaist/test_use/set07/V000/visible/I01679.jpg 511,215,538,301,2 565,209,606,316,2 528,203,563,311,2 485,217,516,306,2 
+/workspace/kaist/test_use/set07/V000/visible/I01959.jpg 390,207,409,244,2 426,209,441,240,2 
+/workspace/kaist/test_use/set07/V000/visible/I01979.jpg 386,205,406,242,2 423,207,453,242,0 
+/workspace/kaist/test_use/set07/V000/visible/I01999.jpg 399,208,419,245,2 459,208,477,244,2 432,206,448,238,2 445,205,461,237,2 486,206,507,245,1 
+/workspace/kaist/test_use/set07/V000/visible/I02019.jpg 509,209,530,258,2 545,208,565,256,3 531,209,551,255,3 457,202,477,239,2 444,202,464,239,2 
+/workspace/kaist/test_use/set07/V000/visible/I02039.jpg 608,220,639,227,2 589,222,615,284,2 460,218,483,283,2 
+/workspace/kaist/test_use/set07/V000/visible/I02059.jpg 535,212,571,300,2 494,205,514,248,2 515,205,537,250,2 
+/workspace/kaist/test_use/set07/V000/visible/I02079.jpg 566,195,591,250,2 539,195,565,249,2 
+/workspace/kaist/test_use/set07/V000/visible/I02139.jpg 452,212,472,250,2 440,213,460,250,2 
+/workspace/kaist/test_use/set07/V000/visible/I02159.jpg 514,209,534,258,2 477,204,499,246,2 
+/workspace/kaist/test_use/set07/V000/visible/I02179.jpg 591,203,613,259,2 574,205,594,259,2 554,208,574,259,2 
+/workspace/kaist/test_use/set07/V000/visible/I02359.jpg 409,211,425,243,2 424,214,439,241,2 
+/workspace/kaist/test_use/set07/V000/visible/I02379.jpg 427,215,446,250,0 
+/workspace/kaist/test_use/set07/V000/visible/I02399.jpg 448,207,470,248,2 
+/workspace/kaist/test_use/set07/V000/visible/I02419.jpg 487,212,507,216,2 456,211,475,250,2 
+/workspace/kaist/test_use/set07/V000/visible/I02439.jpg 520,209,544,263,2 460,209,483,245,2 
+/workspace/kaist/test_use/set07/V000/visible/I02459.jpg 563,207,590,274,2 471,209,489,247,2 
+/workspace/kaist/test_use/set07/V000/visible/I02479.jpg 476,208,495,248,2 
+/workspace/kaist/test_use/set07/V000/visible/I02519.jpg 473,212,490,245,2 
+/workspace/kaist/test_use/set07/V001/visible/I01059.jpg 546,211,573,272,2 
+/workspace/kaist/test_use/set07/V001/visible/I01079.jpg 487,213,514,261,2 
+/workspace/kaist/test_use/set07/V001/visible/I01099.jpg 473,212,496,258,2 
+/workspace/kaist/test_use/set07/V001/visible/I01119.jpg 471,213,494,259,2 
+/workspace/kaist/test_use/set07/V001/visible/I01159.jpg 484,210,504,248,2 
+/workspace/kaist/test_use/set07/V001/visible/I01179.jpg 494,206,516,250,2 
+/workspace/kaist/test_use/set07/V001/visible/I01219.jpg 498,201,520,238,2 542,198,566,245,2 
+/workspace/kaist/test_use/set07/V001/visible/I01239.jpg 565,200,586,249,2 550,201,571,243,2 
+/workspace/kaist/test_use/set07/V001/visible/I01319.jpg 610,229,640,281,3 551,229,573,273,2 
+/workspace/kaist/test_use/set07/V001/visible/I01479.jpg 481,214,503,256,2 
+/workspace/kaist/test_use/set07/V001/visible/I01499.jpg 571,218,595,266,2 
+/workspace/kaist/test_use/set07/V001/visible/I01539.jpg 435,220,459,264,2 566,213,590,261,2 592,218,615,268,2 
+/workspace/kaist/test_use/set07/V001/visible/I01559.jpg 461,228,491,281,2 
+/workspace/kaist/test_use/set07/V001/visible/I01579.jpg 539,234,583,303,2 
+/workspace/kaist/test_use/set07/V001/visible/I01719.jpg 388,215,412,254,2 
+/workspace/kaist/test_use/set07/V001/visible/I01739.jpg 496,221,520,272,2 417,216,440,267,2 
+/workspace/kaist/test_use/set07/V001/visible/I01759.jpg 589,206,619,282,2 461,210,495,274,2 
+/workspace/kaist/test_use/set07/V001/visible/I01779.jpg 577,206,629,324,2 
+/workspace/kaist/test_use/set07/V001/visible/I01879.jpg 396,229,412,266,2 417,231,437,279,2 524,227,552,285,0 
+/workspace/kaist/test_use/set07/V001/visible/I01899.jpg 586,221,615,283,2 483,239,516,298,2 435,234,461,239,2 411,244,431,285,2 
+/workspace/kaist/test_use/set07/V001/visible/I01919.jpg 533,234,574,319,2 482,257,516,315,2 422,259,464,304,2 
+/workspace/kaist/test_use/set07/V001/visible/I01939.jpg 513,206,537,250,2 
+/workspace/kaist/test_use/set07/V001/visible/I02119.jpg 358,232,373,258,1 368,229,385,255,1 
+/workspace/kaist/test_use/set07/V001/visible/I02139.jpg 399,214,419,242,1 
+/workspace/kaist/test_use/set07/V001/visible/I02159.jpg 429,200,474,241,0 
+/workspace/kaist/test_use/set07/V001/visible/I02179.jpg 542,214,562,259,2 522,211,543,256,2 503,210,523,258,2 
+/workspace/kaist/test_use/set07/V001/visible/I02299.jpg 534,207,557,252,2 
+/workspace/kaist/test_use/set07/V001/visible/I02319.jpg 460,204,491,243,0 
+/workspace/kaist/test_use/set07/V001/visible/I02339.jpg 530,210,554,258,0 
+/workspace/kaist/test_use/set07/V001/visible/I02379.jpg 445,215,470,220,2 
+/workspace/kaist/test_use/set07/V001/visible/I02399.jpg 592,216,637,324,2 
+/workspace/kaist/test_use/set07/V001/visible/I02419.jpg 429,221,484,267,0 
+/workspace/kaist/test_use/set07/V001/visible/I02439.jpg 487,212,525,261,0 530,222,557,280,2 
+/workspace/kaist/test_use/set07/V001/visible/I02459.jpg 527,191,555,242,3 
+/workspace/kaist/test_use/set07/V001/visible/I02479.jpg 606,200,632,261,3 
+/workspace/kaist/test_use/set07/V001/visible/I02679.jpg 451,209,468,213,2 
+/workspace/kaist/test_use/set07/V001/visible/I02699.jpg 536,205,563,260,2 496,203,516,248,2 
+/workspace/kaist/test_use/set07/V001/visible/I02719.jpg 567,196,591,254,2 
+/workspace/kaist/test_use/set07/V001/visible/I02859.jpg 269,214,294,246,0 296,211,314,245,2 
+/workspace/kaist/test_use/set07/V001/visible/I02879.jpg 274,200,300,205,2 249,197,273,251,0 198,204,230,243,0 
+/workspace/kaist/test_use/set07/V001/visible/I02899.jpg 186,203,216,254,2 158,199,190,255,0 107,202,127,249,0 
+/workspace/kaist/test_use/set07/V001/visible/I02959.jpg 13,213,64,267,3 
+/workspace/kaist/test_use/set07/V001/visible/I03059.jpg 500,215,539,220,0 
+/workspace/kaist/test_use/set07/V001/visible/I03079.jpg 426,215,465,270,0 
+/workspace/kaist/test_use/set07/V001/visible/I03099.jpg 433,207,484,271,0 
+/workspace/kaist/test_use/set07/V001/visible/I03139.jpg 580,194,638,321,0 448,213,470,256,2 
+/workspace/kaist/test_use/set07/V001/visible/I03159.jpg 497,204,517,257,2 
+/workspace/kaist/test_use/set07/V001/visible/I03179.jpg 583,198,617,270,2 
+/workspace/kaist/test_use/set07/V001/visible/I03299.jpg 342,210,397,248,0 396,210,413,243,2 412,210,429,246,2 
+/workspace/kaist/test_use/set07/V001/visible/I03319.jpg 443,211,463,253,2 404,205,428,254,2 386,208,409,254,2 350,212,386,215,0 
+/workspace/kaist/test_use/set07/V001/visible/I03339.jpg 527,200,563,274,2 464,195,500,274,2 431,199,465,268,2 364,209,404,246,2 413,208,435,244,2 
+/workspace/kaist/test_use/set07/V001/visible/I03359.jpg 484,212,514,271,2 429,214,454,262,2 
+/workspace/kaist/test_use/set07/V001/visible/I03379.jpg 452,202,561,292,0 
+/workspace/kaist/test_use/set07/V001/visible/I03399.jpg 560,208,615,324,2 
+/workspace/kaist/test_use/set07/V001/visible/I03559.jpg 373,210,392,244,2 
+/workspace/kaist/test_use/set07/V001/visible/I03579.jpg 396,206,421,253,2 
+/workspace/kaist/test_use/set07/V001/visible/I03599.jpg 449,207,480,269,2 
+/workspace/kaist/test_use/set07/V001/visible/I03619.jpg 554,206,603,299,2 
+/workspace/kaist/test_use/set07/V001/visible/I03679.jpg 403,209,437,242,0 
+/workspace/kaist/test_use/set07/V001/visible/I03699.jpg 443,213,466,257,2 418,217,444,248,0 
+/workspace/kaist/test_use/set07/V001/visible/I03719.jpg 444,218,471,258,0 
+/workspace/kaist/test_use/set07/V001/visible/I03739.jpg 495,218,513,261,2 507,211,530,262,2 419,222,446,274,2 
+/workspace/kaist/test_use/set07/V001/visible/I03759.jpg 528,215,565,299,2 
+/workspace/kaist/test_use/set07/V001/visible/I03779.jpg 398,209,420,257,2 
+/workspace/kaist/test_use/set07/V001/visible/I03799.jpg 437,210,462,271,2 
+/workspace/kaist/test_use/set07/V001/visible/I03819.jpg 552,197,599,209,2 377,207,403,254,1 
+/workspace/kaist/test_use/set07/V001/visible/I03839.jpg 431,203,472,258,0 
+/workspace/kaist/test_use/set07/V001/visible/I03859.jpg 525,201,635,213,0 78,208,112,254,0 
+/workspace/kaist/test_use/set07/V001/visible/I03879.jpg 29,207,71,265,0 
+/workspace/kaist/test_use/set07/V001/visible/I03899.jpg 72,208,98,212,1 
+/workspace/kaist/test_use/set07/V001/visible/I03939.jpg 519,211,540,259,2 
+/workspace/kaist/test_use/set07/V001/visible/I03959.jpg 585,211,613,266,2 
+/workspace/kaist/test_use/set07/V002/visible/I00019.jpg 601,213,629,262,2 
+/workspace/kaist/test_use/set07/V002/visible/I00039.jpg 601,217,620,259,2 
+/workspace/kaist/test_use/set07/V002/visible/I00059.jpg 602,217,624,258,2 
+/workspace/kaist/test_use/set07/V002/visible/I00079.jpg 611,217,630,258,2 
+/workspace/kaist/test_use/set07/V002/visible/I00139.jpg 477,223,495,254,1 
+/workspace/kaist/test_use/set07/V002/visible/I00159.jpg 518,220,542,256,1 
+/workspace/kaist/test_use/set07/V002/visible/I00219.jpg 375,227,400,283,2 336,236,359,283,2 285,232,313,283,3 123,227,146,270,2 
+/workspace/kaist/test_use/set07/V002/visible/I00239.jpg 584,222,622,280,2 533,225,569,284,3 314,214,340,263,2 459,220,484,225,2 
+/workspace/kaist/test_use/set07/V002/visible/I00259.jpg 505,203,533,254,2 
+/workspace/kaist/test_use/set07/V002/visible/I00299.jpg 568,212,586,248,2 496,210,516,246,2 452,211,470,246,2 403,213,420,247,2 371,211,392,240,1 
+/workspace/kaist/test_use/set07/V002/visible/I00319.jpg 597,204,618,209,2 586,204,610,252,2 535,207,563,260,2 556,207,586,259,2 477,211,501,252,2 465,207,485,248,2 430,215,458,241,1 585,210,607,253,2 522,210,545,255,2 547,210,573,259,2 466,211,498,245,0 
+/workspace/kaist/test_use/set07/V002/visible/I00359.jpg 596,214,627,268,2 503,211,531,247,0 532,210,554,257,2 
+/workspace/kaist/test_use/set07/V002/visible/I00379.jpg 575,216,601,261,2 599,214,624,261,2 
+/workspace/kaist/test_use/set07/V002/visible/I00439.jpg 554,205,579,252,2 591,207,613,245,2 
+/workspace/kaist/test_use/set07/V002/visible/I00499.jpg 385,210,405,243,2 
+/workspace/kaist/test_use/set07/V002/visible/I00539.jpg 440,202,465,243,2 
+/workspace/kaist/test_use/set07/V002/visible/I00559.jpg 466,205,492,256,2 
+/workspace/kaist/test_use/set07/V002/visible/I00579.jpg 502,204,532,263,2 
+/workspace/kaist/test_use/set07/V002/visible/I00599.jpg 533,204,569,274,2 
+/workspace/kaist/test_use/set07/V002/visible/I00659.jpg 557,203,598,298,2 542,198,563,245,2 402,214,426,245,0 350,214,375,242,0 
+/workspace/kaist/test_use/set07/V002/visible/I00679.jpg 603,201,640,300,2 579,197,598,245,2 378,209,395,245,2 425,210,447,242,0 
+/workspace/kaist/test_use/set07/V002/visible/I00699.jpg 611,198,640,259,2 440,210,466,246,0 
+/workspace/kaist/test_use/set07/V002/visible/I00719.jpg 412,222,432,268,2 530,217,558,268,2 471,217,498,258,0 367,219,389,247,1 
+/workspace/kaist/test_use/set07/V002/visible/I00739.jpg 455,220,479,277,2 558,219,587,268,2 392,219,408,253,2 403,223,420,250,2 432,221,450,253,2 
+/workspace/kaist/test_use/set07/V002/visible/I00759.jpg 505,218,532,274,2 594,210,623,277,2 473,210,494,252,2 461,212,480,255,2 429,212,447,248,2 409,210,427,255,2 
+/workspace/kaist/test_use/set07/V002/visible/I00779.jpg 556,219,591,296,2 452,213,474,262,2 482,213,505,262,2 496,214,523,262,2 
+/workspace/kaist/test_use/set07/V002/visible/I00799.jpg 569,216,594,221,2 583,214,609,268,2 506,212,535,269,2 522,212,550,269,2 485,217,506,260,2 466,218,487,263,2 
+/workspace/kaist/test_use/set07/V002/visible/I00839.jpg 619,221,640,279,2 
+/workspace/kaist/test_use/set07/V002/visible/I00859.jpg 595,226,622,292,2 
+/workspace/kaist/test_use/set07/V002/visible/I00879.jpg 609,214,635,272,2 550,214,579,221,2 571,216,598,281,2 
+/workspace/kaist/test_use/set07/V002/visible/I00899.jpg 564,222,601,298,2 585,220,616,297,2 617,231,640,294,2 
+/workspace/kaist/test_use/set07/V002/visible/I00979.jpg 460,196,485,238,2 
+/workspace/kaist/test_use/set07/V002/visible/I00999.jpg 530,209,557,267,2 482,209,497,238,1 
+/workspace/kaist/test_use/set07/V002/visible/I01059.jpg 579,195,609,258,2 
+/workspace/kaist/test_use/set07/V002/visible/I01159.jpg 481,205,505,235,0 
+/workspace/kaist/test_use/set07/V002/visible/I01179.jpg 485,209,502,245,2 470,210,488,244,2 
+/workspace/kaist/test_use/set07/V002/visible/I01199.jpg 507,202,527,245,2 550,200,570,247,2 473,205,491,243,2 
+/workspace/kaist/test_use/set07/V002/visible/I01219.jpg 563,201,584,248,2 585,206,606,250,2 
+/workspace/kaist/test_use/set07/V002/visible/I01259.jpg 509,204,538,258,2 612,198,639,251,2 
+/workspace/kaist/test_use/set07/V002/visible/I01279.jpg 532,205,564,259,0 482,204,531,251,0 388,211,478,247,0 
+/workspace/kaist/test_use/set07/V002/visible/I01299.jpg 512,202,540,264,2 546,202,569,252,2 435,207,509,254,0 412,206,432,250,2 584,202,610,264,2 385,208,401,244,2 
+/workspace/kaist/test_use/set07/V002/visible/I01319.jpg 572,209,614,299,2 456,210,479,261,2 439,214,460,218,2 404,210,424,255,2 491,206,578,262,0 
+/workspace/kaist/test_use/set07/V002/visible/I01339.jpg 609,200,640,282,2 569,202,604,290,2 534,208,564,283,2 514,210,541,275,2 456,211,481,217,2 477,208,496,252,1 
+/workspace/kaist/test_use/set07/V002/visible/I01359.jpg 583,214,629,302,2 563,208,604,298,2 520,217,544,268,2 
+/workspace/kaist/test_use/set07/V002/visible/I01379.jpg 475,215,511,293,2 507,214,540,283,2 
+/workspace/kaist/test_use/set07/V002/visible/I01419.jpg 479,213,502,265,2 
+/workspace/kaist/test_use/set07/V002/visible/I01439.jpg 598,225,632,291,2 
+/workspace/kaist/test_use/set07/V002/visible/I01559.jpg 474,211,498,255,3 519,212,542,259,2 504,212,529,250,2 
+/workspace/kaist/test_use/set08/V000/visible/I00019.jpg 264,226,284,265,3 574,212,603,301,2 191,222,211,260,2 492,220,514,257,2 
+/workspace/kaist/test_use/set08/V000/visible/I00039.jpg 291,219,325,278,3 200,215,224,220,2 105,218,128,259,0 594,216,620,221,2 
+/workspace/kaist/test_use/set08/V000/visible/I00059.jpg 457,214,502,291,3 339,216,375,273,2 264,215,299,269,0 
+/workspace/kaist/test_use/set08/V000/visible/I00079.jpg 532,212,589,286,0 
+/workspace/kaist/test_use/set08/V000/visible/I00119.jpg 413,210,434,248,2 
+/workspace/kaist/test_use/set08/V000/visible/I00159.jpg 530,221,561,276,2 
+/workspace/kaist/test_use/set08/V000/visible/I00259.jpg 449,206,477,255,0 
+/workspace/kaist/test_use/set08/V000/visible/I00279.jpg 488,214,508,258,2 
+/workspace/kaist/test_use/set08/V000/visible/I00299.jpg 528,214,551,264,2 501,216,524,261,2 468,214,498,248,0 439,224,460,260,1 
+/workspace/kaist/test_use/set08/V000/visible/I00319.jpg 601,209,628,264,2 489,210,523,258,0 416,215,458,260,0 572,218,602,269,2 
+/workspace/kaist/test_use/set08/V000/visible/I00339.jpg 466,215,521,265,0 565,226,595,296,2 
+/workspace/kaist/test_use/set08/V000/visible/I00359.jpg 554,217,620,282,0 516,203,542,253,2 
+/workspace/kaist/test_use/set08/V000/visible/I00379.jpg 459,211,496,309,2 575,204,604,256,0 
+/workspace/kaist/test_use/set08/V000/visible/I00399.jpg 579,213,640,390,2 
+/workspace/kaist/test_use/set08/V000/visible/I00439.jpg 517,203,554,252,0 386,216,413,281,2 
+/workspace/kaist/test_use/set08/V000/visible/I00459.jpg 412,217,450,305,2 
+/workspace/kaist/test_use/set08/V000/visible/I00479.jpg 496,218,551,233,2 565,218,596,277,2 
+/workspace/kaist/test_use/set08/V000/visible/I00539.jpg 583,213,606,278,1 
+/workspace/kaist/test_use/set08/V000/visible/I00599.jpg 507,219,524,250,2 453,217,469,252,2 476,222,495,256,1 
+/workspace/kaist/test_use/set08/V000/visible/I00619.jpg 544,217,564,262,2 559,212,581,263,2 450,213,491,217,0 
+/workspace/kaist/test_use/set08/V000/visible/I00639.jpg 602,220,624,277,2 564,217,590,276,2 
+/workspace/kaist/test_use/set08/V000/visible/I00659.jpg 490,210,557,256,0 2,210,65,259,0 559,220,583,266,2 
+/workspace/kaist/test_use/set08/V000/visible/I00679.jpg 534,209,596,260,0 15,200,45,206,1 
+/workspace/kaist/test_use/set08/V000/visible/I00699.jpg 604,210,640,277,0 575,220,600,270,2 
+/workspace/kaist/test_use/set08/V000/visible/I00759.jpg 586,226,613,305,2 542,227,580,318,2 606,220,635,301,2 
+/workspace/kaist/test_use/set08/V000/visible/I00779.jpg 492,215,540,311,0 567,227,620,343,0 527,225,566,341,2 135,198,174,205,2 
+/workspace/kaist/test_use/set08/V000/visible/I00799.jpg 342,205,413,379,2 281,202,361,373,0 
+/workspace/kaist/test_use/set08/V000/visible/I00819.jpg 1,208,102,234,0 343,218,389,341,2 576,234,612,317,2 501,223,530,285,2 407,205,440,213,2 380,212,421,284,2 
+/workspace/kaist/test_use/set08/V000/visible/I00839.jpg 38,221,122,240,2 463,231,508,352,2 511,233,557,350,0 211,203,251,300,2 182,201,210,297,2 257,206,296,300,2 346,218,375,286,2 510,218,531,222,2 
+/workspace/kaist/test_use/set08/V000/visible/I00859.jpg 526,240,597,424,2 601,235,640,444,2 216,216,257,314,2 158,207,201,305,2 263,208,313,313,2 330,217,360,288,2 512,222,535,270,2 529,224,550,267,2 501,216,515,245,2 
+/workspace/kaist/test_use/set08/V000/visible/I00879.jpg 223,212,270,341,2 135,211,177,340,2 295,209,348,334,2 558,230,580,286,2 536,223,561,286,2 341,217,372,291,2 511,220,528,255,2 
+/workspace/kaist/test_use/set08/V000/visible/I00899.jpg 151,209,213,225,2 464,235,489,304,2 442,232,470,300,2 406,220,428,265,2 205,229,241,306,2 17,212,92,391,2 
+/workspace/kaist/test_use/set08/V000/visible/I00919.jpg 427,234,459,326,2 90,215,136,317,2 403,231,438,330,2 333,217,359,266,2 129,212,160,276,2 183,214,205,260,2 1,208,56,433,1 
+/workspace/kaist/test_use/set08/V000/visible/I00939.jpg 493,242,542,393,2 13,225,76,336,2 84,220,126,305,0 161,214,190,270,2 316,220,342,271,2 446,231,513,393,2 145,212,175,269,2 255,213,275,246,2 377,215,399,261,2 
+/workspace/kaist/test_use/set08/V000/visible/I00959.jpg 1,218,54,337,0 175,220,201,277,2 343,226,366,283,2 155,215,185,221,2 422,216,448,278,2 276,215,295,250,2 
+/workspace/kaist/test_use/set08/V000/visible/I00979.jpg 162,217,193,296,2 362,230,392,294,2 128,211,164,293,2 475,211,510,294,2 293,214,312,249,2 
+/workspace/kaist/test_use/set08/V000/visible/I00999.jpg 115,226,160,333,2 387,231,433,241,2 72,217,118,336,2 305,217,328,255,2 572,212,610,309,2 153,226,184,301,2 
+/workspace/kaist/test_use/set08/V000/visible/I01019.jpg 1,228,62,249,1 71,220,119,344,2 474,231,531,403,2 298,214,313,241,2 110,228,151,344,2 312,212,330,243,2 326,210,345,253,2 
+/workspace/kaist/test_use/set08/V000/visible/I01039.jpg 1,244,56,447,2 336,218,356,259,2 308,213,325,245,2 322,214,337,248,2 
+/workspace/kaist/test_use/set08/V000/visible/I01059.jpg 338,219,356,265,2 308,220,323,248,2 318,220,336,252,2 285,218,304,247,1 
+/workspace/kaist/test_use/set08/V000/visible/I01079.jpg 357,213,386,269,2 299,216,314,254,2 325,218,342,250,2 430,213,454,259,2 309,215,327,246,1 
+/workspace/kaist/test_use/set08/V000/visible/I01099.jpg 429,217,458,281,3 393,216,421,274,2 310,214,333,260,2 332,219,349,255,2 295,211,318,258,2 
+/workspace/kaist/test_use/set08/V000/visible/I01119.jpg 422,219,464,301,0 320,216,342,221,2 346,226,363,264,2 304,216,329,272,2 
+/workspace/kaist/test_use/set08/V000/visible/I01139.jpg 492,219,554,232,3 330,216,360,283,2 365,224,383,270,2 314,218,340,285,2 
+/workspace/kaist/test_use/set08/V000/visible/I01159.jpg 326,219,360,297,2 374,231,394,273,2 303,218,340,303,2 560,231,615,352,2 
+/workspace/kaist/test_use/set08/V000/visible/I01179.jpg 296,219,337,328,2 374,232,398,278,2 269,220,316,328,2 
+/workspace/kaist/test_use/set08/V000/visible/I01199.jpg 233,216,291,369,2 377,229,400,275,2 191,217,256,361,2 295,215,306,241,2 
+/workspace/kaist/test_use/set08/V000/visible/I01219.jpg 89,208,181,442,2 380,225,407,274,2 43,214,129,441,2 290,210,307,245,2 
+/workspace/kaist/test_use/set08/V000/visible/I01239.jpg 380,249,406,301,2 285,233,304,269,2 
+/workspace/kaist/test_use/set08/V000/visible/I01259.jpg 388,258,410,313,2 286,241,305,278,2 
+/workspace/kaist/test_use/set08/V000/visible/I01279.jpg 386,235,414,289,2 274,215,293,251,2 
+/workspace/kaist/test_use/set08/V000/visible/I01299.jpg 380,242,406,301,2 255,221,274,260,2 272,222,290,245,0 
+/workspace/kaist/test_use/set08/V000/visible/I01319.jpg 376,215,405,278,2 235,191,259,234,2 
+/workspace/kaist/test_use/set08/V000/visible/I01339.jpg 386,232,417,309,2 229,217,248,253,2 249,213,263,241,2 260,212,274,240,2 303,217,317,243,2 
+/workspace/kaist/test_use/set08/V000/visible/I01359.jpg 419,241,450,328,2 218,216,242,267,2 305,220,321,246,1 254,211,271,245,2 236,212,252,243,2 
+/workspace/kaist/test_use/set08/V000/visible/I01379.jpg 473,247,521,370,2 217,218,243,274,2 254,210,270,244,2 321,214,337,242,1 237,213,254,244,2 
+/workspace/kaist/test_use/set08/V000/visible/I01399.jpg 208,217,244,296,2 348,212,369,216,2 250,211,272,252,2 264,206,286,211,2 315,210,336,213,0 
+/workspace/kaist/test_use/set08/V000/visible/I01419.jpg 150,220,199,326,2 241,209,268,267,2 365,213,389,262,2 257,208,282,267,2 321,214,344,243,0 347,215,363,242,2 
+/workspace/kaist/test_use/set08/V000/visible/I01439.jpg 3,219,50,424,1 220,204,249,277,2 373,219,396,272,2 236,211,262,277,2 326,207,341,211,2 345,216,360,238,1 
+/workspace/kaist/test_use/set08/V000/visible/I01459.jpg 181,207,217,302,2 390,221,420,285,2 207,208,239,217,2 314,205,332,248,2 325,207,342,245,2 344,213,361,245,2 
+/workspace/kaist/test_use/set08/V000/visible/I01479.jpg 84,210,145,352,2 410,221,447,318,2 131,220,180,349,2 315,209,333,255,2 300,209,323,256,2 336,213,352,249,2 346,213,361,249,2 
+/workspace/kaist/test_use/set08/V000/visible/I01499.jpg 469,230,524,243,2 314,210,336,258,2 302,210,323,257,2 337,215,354,249,2 351,217,368,248,2 141,206,167,252,1 
+/workspace/kaist/test_use/set08/V000/visible/I01519.jpg 316,213,341,262,2 288,215,309,263,2 342,211,368,215,0 355,220,377,263,2 102,206,131,263,2 
+/workspace/kaist/test_use/set08/V000/visible/I01539.jpg 291,220,317,271,2 263,212,287,269,2 327,220,352,267,2 34,196,74,273,2 346,221,368,272,2 
+/workspace/kaist/test_use/set08/V000/visible/I01559.jpg 259,210,285,274,2 233,211,260,277,2 293,220,319,284,2 314,219,344,286,2 
+/workspace/kaist/test_use/set08/V000/visible/I01579.jpg 249,214,278,221,2 279,224,306,295,2 301,224,336,301,2 
+/workspace/kaist/test_use/set08/V000/visible/I01599.jpg 295,223,334,317,2 324,224,358,321,2 
+/workspace/kaist/test_use/set08/V000/visible/I01619.jpg 314,227,350,335,2 351,228,395,339,2 335,228,365,336,2 
+/workspace/kaist/test_use/set08/V000/visible/I01639.jpg 320,232,369,363,2 380,234,428,365,2 360,234,393,367,2 
+/workspace/kaist/test_use/set08/V000/visible/I01659.jpg 349,248,408,405,2 425,242,480,418,2 389,246,438,406,2 361,223,378,256,2 253,218,272,253,1 373,223,388,258,2 
+/workspace/kaist/test_use/set08/V000/visible/I01679.jpg 415,253,485,468,2 512,248,595,497,2 462,254,522,485,2 380,223,405,275,2 369,222,394,273,2 258,218,277,262,2 446,217,491,323,2 
+/workspace/kaist/test_use/set08/V000/visible/I01699.jpg 466,214,515,326,0 402,220,425,271,2 535,284,629,507,2 388,219,412,272,2 275,217,296,221,2 
+/workspace/kaist/test_use/set08/V000/visible/I01719.jpg 477,219,531,367,0 413,223,432,272,2 395,221,417,268,2 280,217,300,262,2 
+/workspace/kaist/test_use/set08/V000/visible/I01739.jpg 500,217,571,408,0 407,224,429,270,2 393,223,416,271,2 
+/workspace/kaist/test_use/set08/V000/visible/I01759.jpg 581,225,640,453,0 400,224,421,279,2 291,215,337,251,0 383,223,409,276,2 
+/workspace/kaist/test_use/set08/V000/visible/I01779.jpg 359,229,379,234,2 240,207,282,253,0 182,220,210,284,2 344,222,370,279,2 
+/workspace/kaist/test_use/set08/V000/visible/I01799.jpg 169,220,192,277,2 52,198,113,244,0 190,224,210,229,2 
+/workspace/kaist/test_use/set08/V000/visible/I01859.jpg 379,228,416,306,2 476,222,515,307,2 
+/workspace/kaist/test_use/set08/V000/visible/I01879.jpg 129,214,184,315,2 266,218,310,316,2 346,211,433,324,0 496,230,541,341,2 425,222,464,324,2 
+/workspace/kaist/test_use/set08/V000/visible/I01899.jpg 121,220,187,339,2 295,210,350,352,0 485,231,537,373,2 340,225,377,343,2 360,220,399,313,2 264,220,302,319,2 
+/workspace/kaist/test_use/set08/V000/visible/I01919.jpg 3,220,62,384,2 212,200,287,396,0 526,235,602,255,2 271,218,327,364,2 321,217,366,328,2 379,211,401,255,2 
+/workspace/kaist/test_use/set08/V000/visible/I01939.jpg 98,204,263,457,0 351,215,371,261,2 262,220,321,355,2 369,212,395,258,2 
+/workspace/kaist/test_use/set08/V000/visible/I01959.jpg 20,230,100,251,2 351,215,377,264,2 200,218,267,381,2 152,215,210,396,2 364,212,384,258,2 71,231,169,449,2 
+/workspace/kaist/test_use/set08/V000/visible/I01979.jpg 322,218,343,259,2 90,221,179,412,2 6,221,94,452,2 335,219,355,261,2 352,216,370,251,2 
+/workspace/kaist/test_use/set08/V000/visible/I01999.jpg 295,216,313,260,2 307,215,327,220,2 335,216,356,258,2 
+/workspace/kaist/test_use/set08/V000/visible/I02019.jpg 287,213,308,265,2 298,210,323,266,2 342,214,365,266,2 
+/workspace/kaist/test_use/set08/V000/visible/I02039.jpg 290,216,311,269,2 302,212,326,270,2 358,220,384,283,2 
+/workspace/kaist/test_use/set08/V000/visible/I02059.jpg 295,222,315,285,2 307,222,332,283,2 378,223,411,231,2 250,219,271,223,1 
+/workspace/kaist/test_use/set08/V000/visible/I02079.jpg 291,215,320,289,2 309,216,340,292,2 429,213,476,344,2 
+/workspace/kaist/test_use/set08/V000/visible/I02099.jpg 269,215,306,308,2 296,213,331,302,2 336,213,360,260,2 
+/workspace/kaist/test_use/set08/V000/visible/I02119.jpg 230,213,271,334,2 263,213,303,329,2 378,216,406,270,2 
+/workspace/kaist/test_use/set08/V000/visible/I02139.jpg 157,211,209,362,2 195,206,248,361,2 
+/workspace/kaist/test_use/set08/V000/visible/I02159.jpg 64,241,135,430,2 120,233,187,417,2 
+/workspace/kaist/test_use/set08/V000/visible/I02179.jpg 1,213,91,489,2 533,227,565,284,2 
+/workspace/kaist/test_use/set08/V000/visible/I02199.jpg 227,214,247,258,2 582,243,620,306,2 
+/workspace/kaist/test_use/set08/V000/visible/I02219.jpg 225,219,246,266,2 332,223,347,255,2 
+/workspace/kaist/test_use/set08/V000/visible/I02239.jpg 238,216,263,264,2 355,220,372,254,2 
+/workspace/kaist/test_use/set08/V000/visible/I02259.jpg 247,231,276,288,2 378,230,398,272,2 
+/workspace/kaist/test_use/set08/V000/visible/I02279.jpg 216,220,243,284,2 364,220,386,264,2 199,220,225,282,2 
+/workspace/kaist/test_use/set08/V000/visible/I02299.jpg 174,200,206,273,2 152,200,183,274,2 356,206,382,259,2 
+/workspace/kaist/test_use/set08/V000/visible/I02319.jpg 130,220,165,229,2 91,216,128,307,2 357,218,383,281,2 
+/workspace/kaist/test_use/set08/V000/visible/I02339.jpg 63,225,109,336,2 19,224,65,235,2 364,223,396,230,2 
+/workspace/kaist/test_use/set08/V000/visible/I02359.jpg 392,221,430,310,2 
+/workspace/kaist/test_use/set08/V000/visible/I02379.jpg 469,225,514,238,2 
+/workspace/kaist/test_use/set08/V000/visible/I02399.jpg 306,212,321,247,2 294,211,310,249,2 279,212,297,249,2 
+/workspace/kaist/test_use/set08/V000/visible/I02419.jpg 310,209,327,244,2 294,208,310,244,2 277,203,298,245,2 
+/workspace/kaist/test_use/set08/V000/visible/I02439.jpg 306,213,323,254,2 287,215,304,252,2 264,214,290,255,2 
+/workspace/kaist/test_use/set08/V000/visible/I02459.jpg 290,211,313,268,2 268,215,286,261,2 248,210,272,264,2 
+/workspace/kaist/test_use/set08/V000/visible/I02479.jpg 273,216,301,279,2 248,217,271,279,2 222,217,248,275,2 
+/workspace/kaist/test_use/set08/V000/visible/I02499.jpg 251,214,282,302,2 223,221,253,298,2 202,220,231,295,2 
+/workspace/kaist/test_use/set08/V000/visible/I02519.jpg 228,210,268,313,2 191,220,227,230,2 161,211,201,222,2 
+/workspace/kaist/test_use/set08/V000/visible/I02539.jpg 147,213,215,375,2 102,226,160,387,2 45,215,109,392,2 
+/workspace/kaist/test_use/set08/V000/visible/I02559.jpg 1,206,63,512,1 
+/workspace/kaist/test_use/set08/V001/visible/I00139.jpg 418,231,440,277,2 
+/workspace/kaist/test_use/set08/V001/visible/I00159.jpg 456,232,477,281,2 
+/workspace/kaist/test_use/set08/V001/visible/I00179.jpg 484,231,510,285,2 
+/workspace/kaist/test_use/set08/V001/visible/I00199.jpg 511,247,534,301,2 
+/workspace/kaist/test_use/set08/V001/visible/I00219.jpg 513,223,539,276,2 
+/workspace/kaist/test_use/set08/V001/visible/I00239.jpg 511,213,536,279,2 
+/workspace/kaist/test_use/set08/V001/visible/I00259.jpg 506,226,537,297,2 
+/workspace/kaist/test_use/set08/V001/visible/I00279.jpg 467,225,503,303,2 
+/workspace/kaist/test_use/set08/V001/visible/I00299.jpg 351,224,389,309,2 
+/workspace/kaist/test_use/set08/V001/visible/I00319.jpg 162,225,198,323,2 
+/workspace/kaist/test_use/set08/V001/visible/I00339.jpg 556,240,603,248,2 
+/workspace/kaist/test_use/set08/V001/visible/I00359.jpg 224,240,271,331,2 
+/workspace/kaist/test_use/set08/V001/visible/I00519.jpg 232,210,247,236,1 
+/workspace/kaist/test_use/set08/V001/visible/I00539.jpg 243,210,258,238,1 
+/workspace/kaist/test_use/set08/V001/visible/I00599.jpg 492,208,515,263,2 307,209,326,242,2 122,206,145,254,2 
+/workspace/kaist/test_use/set08/V001/visible/I00619.jpg 484,215,512,271,2 305,205,327,243,1 94,204,119,209,2 372,205,391,231,0 
+/workspace/kaist/test_use/set08/V001/visible/I00639.jpg 459,208,487,276,2 291,206,311,250,2 41,196,78,258,2 332,200,353,229,0 251,200,280,237,3 
+/workspace/kaist/test_use/set08/V001/visible/I00659.jpg 439,210,469,287,2 287,210,308,256,2 6,202,46,268,2 208,196,242,237,3 
+/workspace/kaist/test_use/set08/V001/visible/I00679.jpg 418,208,454,291,2 307,207,333,262,2 174,196,210,200,3 269,203,297,230,0 
+/workspace/kaist/test_use/set08/V001/visible/I00699.jpg 394,205,433,312,2 375,207,402,264,2 31,209,71,290,2 277,200,315,238,0 184,198,221,242,3 
+/workspace/kaist/test_use/set08/V001/visible/I00719.jpg 353,206,408,321,2 476,206,504,263,2 119,208,155,291,2 235,195,263,241,3 
+/workspace/kaist/test_use/set08/V001/visible/I00739.jpg 563,207,595,271,2 206,209,246,293,2 236,217,292,337,2 353,190,396,235,0 263,200,295,239,3 
+/workspace/kaist/test_use/set08/V001/visible/I00759.jpg 612,202,640,265,2 284,210,320,302,2 77,213,132,338,2 359,205,405,243,0 
+/workspace/kaist/test_use/set08/V001/visible/I00779.jpg 345,215,385,298,2 270,198,298,240,3 
+/workspace/kaist/test_use/set08/V001/visible/I00799.jpg 404,212,442,294,2 325,199,342,243,2 273,199,298,244,3 367,199,403,237,0 
+/workspace/kaist/test_use/set08/V001/visible/I00819.jpg 459,211,491,283,2 274,200,299,243,3 369,201,400,238,0 325,198,341,236,2 315,198,330,239,2 
+/workspace/kaist/test_use/set08/V001/visible/I00839.jpg 503,208,535,280,2 443,200,463,237,2 274,201,304,246,3 368,203,400,242,0 326,198,341,239,2 313,199,330,241,2 
+/workspace/kaist/test_use/set08/V001/visible/I00859.jpg 557,206,589,281,2 367,200,404,243,0 326,199,343,238,2 315,200,332,238,2 449,200,468,236,2 
+/workspace/kaist/test_use/set08/V001/visible/I00879.jpg 373,197,410,236,0 269,195,304,240,3 
+/workspace/kaist/test_use/set08/V001/visible/I00899.jpg 289,197,324,239,3 335,192,354,196,2 477,189,498,193,2 
+/workspace/kaist/test_use/set08/V001/visible/I00919.jpg 305,191,330,237,3 347,187,368,230,2 412,193,451,234,0 500,189,517,227,2 
+/workspace/kaist/test_use/set08/V001/visible/I00939.jpg 305,195,340,200,3 355,194,373,232,2 414,194,457,198,0 
+/workspace/kaist/test_use/set08/V001/visible/I00959.jpg 309,195,342,243,3 355,195,376,239,2 419,194,454,237,0 505,191,525,236,2 
+/workspace/kaist/test_use/set08/V001/visible/I00979.jpg 307,196,339,201,2 357,195,375,236,2 416,197,452,234,0 504,189,524,235,2 
+/workspace/kaist/test_use/set08/V001/visible/I00999.jpg 275,204,329,242,3 343,192,379,238,0 426,193,445,232,2 503,192,523,196,2 
+/workspace/kaist/test_use/set08/V001/visible/I01019.jpg 281,204,306,252,3 319,194,346,199,0 247,202,276,249,3 508,195,529,240,2 429,196,449,241,2 357,196,380,243,2 
+/workspace/kaist/test_use/set08/V001/visible/I01039.jpg 206,207,266,259,0 295,202,326,251,0 521,198,544,246,2 439,203,462,249,2 343,206,367,248,2 
+/workspace/kaist/test_use/set08/V001/visible/I01059.jpg 241,211,277,258,0 122,212,158,268,3 152,211,188,267,3 279,213,303,259,2 433,212,456,258,2 
+/workspace/kaist/test_use/set08/V001/visible/I01079.jpg 72,208,131,267,0 363,224,380,228,2 345,212,367,266,2 458,207,488,264,2 
+/workspace/kaist/test_use/set08/V001/visible/I01099.jpg 251,221,274,266,2 231,210,254,216,2 213,224,234,270,2 
+/workspace/kaist/test_use/set08/V001/visible/I01119.jpg 266,217,298,293,2 
+/workspace/kaist/test_use/set08/V001/visible/I01139.jpg 1,212,47,319,1 
+/workspace/kaist/test_use/set08/V001/visible/I01199.jpg 617,212,637,257,2 
+/workspace/kaist/test_use/set08/V001/visible/I01219.jpg 605,209,626,253,2 
+/workspace/kaist/test_use/set08/V001/visible/I01239.jpg 515,220,535,267,2 543,216,563,261,2 422,222,446,225,1 
+/workspace/kaist/test_use/set08/V001/visible/I01259.jpg 280,213,298,242,2 
+/workspace/kaist/test_use/set08/V001/visible/I01279.jpg 284,214,299,246,2 
+/workspace/kaist/test_use/set08/V001/visible/I01299.jpg 282,213,297,247,2 141,212,162,258,2 
+/workspace/kaist/test_use/set08/V001/visible/I01319.jpg 275,213,293,254,2 
+/workspace/kaist/test_use/set08/V001/visible/I01339.jpg 263,215,286,261,2 28,213,56,285,2 585,219,608,286,2 547,211,564,215,2 509,214,528,251,2 522,214,537,250,2 
+/workspace/kaist/test_use/set08/V001/visible/I01359.jpg 216,211,250,278,2 585,210,611,261,2 480,211,567,255,0 
+/workspace/kaist/test_use/set08/V001/visible/I01379.jpg 130,213,173,295,2 595,214,617,266,2 581,216,601,268,2 551,210,571,256,2 534,209,557,214,2 404,210,471,214,0 
+/workspace/kaist/test_use/set08/V001/visible/I01399.jpg 439,206,492,244,0 
+/workspace/kaist/test_use/set08/V001/visible/I01419.jpg 489,213,509,258,2 505,208,525,259,2 521,212,541,254,2 552,209,578,260,2 
+/workspace/kaist/test_use/set08/V001/visible/I01499.jpg 587,212,609,258,1 
+/workspace/kaist/test_use/set08/V001/visible/I01519.jpg 491,211,517,257,0 
+/workspace/kaist/test_use/set08/V001/visible/I01539.jpg 554,210,583,270,0 
+/workspace/kaist/test_use/set08/V001/visible/I01559.jpg 479,206,497,247,2 
+/workspace/kaist/test_use/set08/V001/visible/I01579.jpg 599,210,633,286,2 508,209,528,250,2 409,209,424,242,1 
+/workspace/kaist/test_use/set08/V001/visible/I01599.jpg 141,209,159,247,2 430,213,464,261,0 483,213,506,272,2 
+/workspace/kaist/test_use/set08/V001/visible/I01619.jpg 548,212,578,280,2 514,214,553,262,0 465,207,491,265,2 481,211,504,267,2 
+/workspace/kaist/test_use/set08/V001/visible/I01639.jpg 112,214,134,253,2 88,209,108,244,1 502,209,531,279,2 530,214,553,276,2 563,220,585,271,2 580,213,604,275,2 604,216,640,270,0 
+/workspace/kaist/test_use/set08/V001/visible/I01659.jpg 94,209,118,255,2 558,206,588,292,2 582,215,612,288,2 419,218,438,254,2 393,220,410,255,2 440,216,459,220,2 455,218,479,222,0 480,215,505,249,0 502,216,522,248,2 39,203,90,249,0 
+/workspace/kaist/test_use/set08/V001/visible/I01679.jpg 81,216,105,253,2 34,202,81,240,0 426,219,443,257,2 398,218,413,256,2 451,220,467,263,2 464,220,491,262,0 505,218,524,255,2 516,217,540,262,0 
+/workspace/kaist/test_use/set08/V001/visible/I01699.jpg 397,220,419,262,2 429,221,448,260,2 450,219,499,262,0 499,213,517,256,2 515,215,541,220,0 586,224,622,277,0 
+/workspace/kaist/test_use/set08/V001/visible/I01719.jpg 600,221,630,293,2 333,215,352,254,2 399,221,419,262,2 432,220,449,261,2 448,216,474,268,0 504,216,521,260,2 519,219,544,266,0 475,214,499,268,0 
+/workspace/kaist/test_use/set08/V001/visible/I01739.jpg 597,224,629,301,2 398,223,420,269,2 429,222,450,268,2 449,223,471,269,0 502,216,538,268,0 59,213,82,266,2 471,220,499,269,0 
+/workspace/kaist/test_use/set08/V001/visible/I01759.jpg 595,228,629,303,2 53,215,78,262,2 399,221,420,267,2 431,223,449,269,2 452,222,472,227,2 472,224,492,269,2 507,220,522,262,2 519,220,535,271,2 
+/workspace/kaist/test_use/set08/V001/visible/I01779.jpg 595,224,631,298,2 400,222,420,268,2 429,218,472,271,0 475,219,494,224,2 503,220,522,264,2 514,222,534,267,2 
+/workspace/kaist/test_use/set08/V001/visible/I01799.jpg 598,228,633,303,2 398,221,419,266,2 54,214,78,260,2 32,200,65,242,0 429,222,448,266,2 452,223,471,266,2 474,224,494,269,2 506,220,536,267,0 
+/workspace/kaist/test_use/set08/V001/visible/I01819.jpg 600,227,631,296,2 451,218,472,264,2 56,213,81,259,2 473,220,493,267,2 502,222,524,273,2 517,219,534,258,2 
+/workspace/kaist/test_use/set08/V001/visible/I01839.jpg 596,224,630,299,2 452,216,498,273,0 51,214,77,219,2 400,224,418,266,2 430,220,451,266,2 
+/workspace/kaist/test_use/set08/V001/visible/I01859.jpg 598,225,629,301,2 438,219,500,271,0 55,207,103,260,0 398,224,418,268,2 502,221,522,268,2 517,221,533,258,2 
+/workspace/kaist/test_use/set08/V001/visible/I01879.jpg 598,224,627,297,2 429,216,500,273,0 401,223,421,269,2 502,220,523,266,2 516,218,534,263,2 549,224,567,271,2 565,221,589,267,2 43,206,101,264,0 
+/workspace/kaist/test_use/set08/V001/visible/I01899.jpg 598,229,632,312,2 425,220,470,268,0 400,223,419,269,2 53,214,79,259,2 505,220,524,225,2 516,220,536,263,2 542,224,560,270,2 469,223,501,270,0 
+/workspace/kaist/test_use/set08/V001/visible/I01919.jpg 597,227,630,294,2 426,217,471,270,0 52,213,78,261,2 399,227,419,263,2 476,225,501,271,0 504,224,520,271,2 514,220,534,265,2 532,223,550,264,2 542,215,562,263,2 
+/workspace/kaist/test_use/set08/V001/visible/I01939.jpg 598,220,631,307,2 428,219,469,274,0 399,224,419,268,2 50,211,76,264,2 525,211,548,264,2 477,220,507,225,0 507,220,524,268,2 
+/workspace/kaist/test_use/set08/V001/visible/I01959.jpg 598,220,629,299,2 429,218,468,271,0 398,220,421,266,2 52,212,80,258,2 26,201,51,247,1 472,222,493,265,2 506,218,539,272,0 
+/workspace/kaist/test_use/set08/V001/visible/I01979.jpg 594,229,630,303,2 433,220,468,225,0 55,210,81,268,2 14,200,45,205,1 400,222,420,267,2 527,225,547,271,2 476,217,531,269,0 
+/workspace/kaist/test_use/set08/V001/visible/I01999.jpg 593,225,627,300,2 427,216,507,280,0 398,220,421,267,2 50,214,77,265,2 
+/workspace/kaist/test_use/set08/V001/visible/I02019.jpg 597,225,624,305,2 430,218,470,274,0 50,210,76,267,2 75,205,100,263,2 396,221,421,268,2 554,220,577,272,2 501,222,521,268,2 515,220,534,262,2 475,220,497,268,2 
+/workspace/kaist/test_use/set08/V001/visible/I02039.jpg 596,226,630,297,2 422,211,468,273,0 398,224,422,268,2 573,229,595,272,2 501,223,521,269,2 515,218,534,262,2 472,222,495,265,2 
+/workspace/kaist/test_use/set08/V001/visible/I02059.jpg 595,222,626,299,2 423,215,499,276,0 399,221,420,265,2 53,209,80,263,2 
+/workspace/kaist/test_use/set08/V001/visible/I02079.jpg 600,225,628,303,2 421,219,468,224,0 53,212,81,264,2 398,222,421,270,2 503,219,523,270,2 515,220,532,263,2 470,220,493,269,2 
+/workspace/kaist/test_use/set08/V001/visible/I02099.jpg 593,226,632,302,2 426,221,469,267,0 399,223,421,269,2 50,211,78,216,2 473,221,494,268,2 501,223,520,264,2 515,217,533,263,2 
+/workspace/kaist/test_use/set08/V001/visible/I02119.jpg 593,221,625,295,2 424,220,468,271,0 398,223,422,268,2 53,210,79,263,2 473,220,496,269,2 504,220,523,267,2 517,221,534,257,2 
+/workspace/kaist/test_use/set08/V001/visible/I02139.jpg 596,226,630,299,2 424,215,467,272,0 53,214,80,262,2 398,224,421,267,2 500,222,524,273,2 519,218,538,263,2 474,221,493,264,2 
+/workspace/kaist/test_use/set08/V001/visible/I02159.jpg 596,225,624,299,2 424,210,470,216,0 397,224,420,266,2 500,218,525,223,2 520,217,538,261,2 54,213,79,262,2 474,222,493,267,2 
+/workspace/kaist/test_use/set08/V001/visible/I02179.jpg 600,228,626,298,2 426,217,472,270,0 49,213,77,262,2 398,226,422,269,2 501,222,522,268,2 520,220,541,262,2 473,222,493,265,2 
+/workspace/kaist/test_use/set08/V001/visible/I02199.jpg 599,227,626,296,2 425,213,468,269,0 398,223,420,266,2 50,211,76,262,2 501,222,524,271,2 517,216,538,262,2 476,224,494,268,2 
+/workspace/kaist/test_use/set08/V001/visible/I02219.jpg 596,224,626,297,2 425,213,475,266,0 52,214,79,262,2 517,220,539,262,2 401,224,424,266,2 473,223,494,266,2 498,223,518,269,2 
+/workspace/kaist/test_use/set08/V001/visible/I02239.jpg 598,229,627,304,2 419,213,476,272,0 518,217,538,265,2 398,222,420,268,2 53,210,80,261,2 472,223,493,265,2 494,226,512,230,2 507,222,522,264,2 
+/workspace/kaist/test_use/set08/V001/visible/I02259.jpg 597,227,631,299,2 424,212,472,267,0 397,223,420,267,2 49,216,81,261,2 28,208,53,249,2 493,222,511,268,2 505,223,522,268,2 518,220,540,261,2 473,220,493,268,2 
+/workspace/kaist/test_use/set08/V001/visible/I02279.jpg 596,226,627,299,2 428,217,496,273,0 50,214,77,258,2 6,209,32,250,2 491,229,509,233,2 504,221,523,268,2 518,220,534,262,2 
+/workspace/kaist/test_use/set08/V001/visible/I02299.jpg 595,231,630,301,2 429,216,478,269,0 50,213,79,258,2 516,221,535,260,2 400,224,418,265,2 412,215,432,267,2 474,222,496,269,2 494,222,518,271,2 
+/workspace/kaist/test_use/set08/V001/visible/I02319.jpg 594,227,633,302,2 400,217,496,272,0 51,211,80,259,2 494,222,514,268,2 507,218,525,270,2 517,215,536,264,2 
+/workspace/kaist/test_use/set08/V001/visible/I02339.jpg 578,231,604,305,2 386,224,410,265,2 409,216,496,275,0 58,212,86,258,2 20,206,47,252,2 491,220,508,266,2 507,224,522,265,2 520,220,539,264,2 
+/workspace/kaist/test_use/set08/V001/visible/I02359.jpg 608,220,634,310,2 606,214,633,300,2 427,218,461,272,0 579,227,612,311,2 522,230,567,314,0 69,218,100,265,2 361,223,378,268,2 378,220,403,266,2 396,219,419,267,2 473,219,530,262,0 
+/workspace/kaist/test_use/set08/V001/visible/I02379.jpg 463,220,515,304,0 525,219,565,327,2 349,221,392,266,0 399,217,448,270,0 101,221,128,266,2 47,203,80,248,1 326,226,352,267,2 
+/workspace/kaist/test_use/set08/V001/visible/I02399.jpg 413,221,444,303,2 454,219,496,336,2 597,225,619,284,2 318,215,344,220,2 496,218,537,274,0 386,222,408,268,0 615,226,639,287,2 297,222,320,263,2 134,220,156,266,2 338,220,360,264,2 
+/workspace/kaist/test_use/set08/V001/visible/I02419.jpg 360,221,394,301,2 304,266,405,512,2 402,274,505,512,2 389,220,432,321,2 562,229,600,306,0 75,220,127,287,3 460,218,533,273,0 160,219,185,265,2 259,220,285,266,2 281,219,305,263,2 300,220,326,266,2 
+/workspace/kaist/test_use/set08/V001/visible/I02439.jpg 317,218,351,298,2 343,225,391,323,0 513,227,558,313,0 572,227,611,299,2 228,214,274,277,3 386,226,420,293,2 447,217,484,275,0 197,216,221,267,2 47,202,105,247,0 265,214,292,219,2 
+/workspace/kaist/test_use/set08/V001/visible/I02459.jpg 278,215,310,291,2 293,220,336,318,0 473,227,503,235,2 68,218,123,327,2 346,224,377,291,2 186,212,230,265,0 440,255,464,304,2 233,217,259,222,2 506,225,555,312,0 581,217,605,272,2 602,217,627,275,2 5,212,62,269,0 
+/workspace/kaist/test_use/set08/V001/visible/I02479.jpg 241,220,270,279,2 257,218,302,315,0 419,227,450,308,2 470,225,506,309,2 161,217,208,316,2 303,226,336,293,2 18,220,89,349,2 391,248,416,302,2 199,217,225,262,2 327,220,352,264,2 441,224,477,303,2 520,226,541,269,2 538,228,560,271,2 576,221,601,272,2 594,216,620,273,2 64,220,87,266,2 
+/workspace/kaist/test_use/set08/V001/visible/I02499.jpg 209,217,233,282,2 222,220,248,307,2 378,224,411,306,2 423,220,454,305,2 239,218,273,309,2 272,225,301,231,2 117,223,174,345,2 4,217,74,394,2 455,214,528,258,0 344,253,371,299,2 401,223,434,297,2 83,220,114,268,0 167,220,191,263,2 301,219,321,266,2 319,218,341,266,2 528,223,550,271,2 550,226,573,272,2 573,222,593,265,2 587,219,612,271,2 618,224,639,271,2 
+/workspace/kaist/test_use/set08/V001/visible/I02519.jpg 171,215,196,281,2 184,219,214,304,2 341,221,371,306,2 378,220,411,309,2 300,220,332,303,2 237,220,265,287,2 209,218,249,344,2 108,216,173,375,2 453,215,531,220,0 286,247,315,299,2 362,222,387,299,2 16,206,41,248,2 39,208,69,251,2 96,221,124,278,2 538,224,564,277,2 562,226,588,273,2 584,218,609,271,2 602,219,624,276,2 620,216,640,277,2 
+/workspace/kaist/test_use/set08/V001/visible/I02539.jpg 135,218,160,281,2 150,219,182,298,2 339,218,366,300,2 370,220,406,307,2 197,220,225,288,2 285,221,326,329,2 209,216,274,372,2 457,209,507,263,0 320,225,346,294,2 104,217,125,264,2 58,220,93,263,0 401,217,429,274,2 505,217,524,256,2 521,217,542,221,2 554,223,577,277,2 580,227,606,232,2 601,217,627,275,2 32,210,54,246,2 252,217,274,263,2 
+/workspace/kaist/test_use/set08/V001/visible/I02559.jpg 107,217,132,279,2 128,220,156,291,2 253,219,285,302,2 295,218,328,306,2 423,223,459,300,2 160,220,194,286,2 300,218,357,363,2 14,217,53,320,2 447,217,524,274,0 193,244,218,292,2 336,224,382,326,2 530,218,553,264,2 563,219,639,305,0 223,221,252,266,0 64,217,86,263,2 80,217,101,263,2 
+/workspace/kaist/test_use/set08/V001/visible/I02579.jpg 105,220,131,287,2 215,218,248,297,2 256,215,288,298,2 454,224,484,295,2 124,212,153,283,2 379,220,441,359,0 477,221,533,339,2 81,214,118,312,2 587,226,617,283,2 159,245,185,283,2 57,210,83,256,2 40,217,62,263,2 18,217,45,262,2 192,218,216,266,2 280,219,314,284,0 305,220,334,269,2 617,227,640,232,2 568,220,590,267,2 554,227,574,272,2 
+/workspace/kaist/test_use/set08/V001/visible/I02599.jpg 78,222,104,271,2 187,220,215,288,2 222,218,255,292,2 109,222,134,276,2 436,222,470,345,2 57,231,96,332,2 398,229,433,239,2 140,222,172,299,2 540,231,571,292,2 602,227,626,284,2 563,219,608,270,0 500,222,518,270,2 511,222,526,271,2 523,219,542,273,2 356,220,379,273,2 252,222,277,228,2 269,220,296,284,2 28,216,64,272,0 168,222,189,267,2 460,231,501,349,2 
+/workspace/kaist/test_use/set08/V001/visible/I02639.jpg 25,218,54,275,2 128,220,156,227,2 159,217,187,292,2 481,215,505,262,2 67,223,93,279,2 245,223,292,345,2 221,217,251,286,2 489,233,541,365,2 2,235,59,379,2 450,225,480,293,2 273,226,309,315,2 618,219,639,276,2 590,218,611,259,2 527,221,562,231,2 560,230,592,315,2 516,224,541,295,2 315,221,341,272,2 101,225,126,260,2 182,221,204,286,2 206,220,228,282,2 
+/workspace/kaist/test_use/set08/V001/visible/I02659.jpg 100,223,131,288,2 135,216,163,285,2 495,220,516,277,2 335,234,389,353,2 200,221,232,308,2 259,220,289,288,2 399,232,452,361,2 150,238,233,372,2 219,223,258,316,2 151,217,178,284,2 78,218,100,266,2 47,219,74,276,2 6,212,50,280,0 471,221,493,263,2 512,220,531,267,2 528,222,550,277,2 545,224,573,305,2 564,220,591,307,2 586,227,617,308,2 614,220,639,265,2 
+/workspace/kaist/test_use/set08/V001/visible/I02679.jpg 75,222,105,279,2 109,219,141,288,2 431,238,491,355,2 155,222,188,303,2 299,221,346,360,2 325,241,371,374,2 356,229,380,285,2 175,228,205,294,2 121,247,141,285,2 140,220,167,286,2 37,224,59,267,2 49,212,74,256,2 9,218,35,266,2 370,228,395,285,2 384,226,405,271,2 583,222,611,293,2 603,225,635,294,2 561,217,584,223,2 542,220,565,279,2 472,210,541,272,0 
+/workspace/kaist/test_use/set08/V001/visible/I02699.jpg 47,219,76,278,2 82,218,114,285,2 533,239,572,346,2 119,220,150,296,2 199,223,256,357,2 464,250,531,373,2 76,229,160,366,2 307,227,334,289,2 153,221,190,298,2 409,224,435,276,2 25,217,50,275,2 5,218,31,272,2 327,222,353,287,2 425,220,448,277,2 438,220,464,272,2 468,211,541,270,2 551,224,575,279,2 569,219,592,285,2 600,222,626,296,2 586,225,608,274,2 
+/workspace/kaist/test_use/set08/V001/visible/I02719.jpg 21,217,52,282,2 58,212,86,279,2 116,220,141,283,2 120,231,177,350,2 200,226,278,370,2 270,229,296,285,2 143,223,174,291,2 379,219,400,274,2 359,220,383,275,2 288,224,311,230,2 70,215,99,286,2 92,222,118,284,2 438,220,461,272,2 562,223,586,290,2 583,220,609,287,2 611,225,636,297,2 542,221,564,263,2 469,215,532,272,0 
+/workspace/kaist/test_use/set08/V001/visible/I02739.jpg 103,224,129,281,2 13,231,79,365,2 342,235,416,378,2 465,219,511,276,0 234,229,259,284,2 125,222,158,286,2 303,220,330,271,2 285,223,315,269,2 253,224,279,283,2 47,226,76,287,2 86,221,111,275,2 509,217,531,268,2 526,219,547,261,2 378,220,406,275,2 577,223,605,295,2 595,221,621,288,2 619,226,640,284,2 
+/workspace/kaist/test_use/set08/V001/visible/I02759.jpg 80,220,114,281,2 460,236,529,375,2 461,212,531,268,0 210,227,232,280,2 104,220,137,226,2 243,220,271,269,2 222,223,247,274,2 393,218,419,276,2 600,221,626,289,2 620,227,640,287,2 67,220,92,274,2 50,238,72,274,2 30,214,59,276,2 2,222,31,299,2 
+/workspace/kaist/test_use/set08/V001/visible/I02779.jpg 59,220,91,285,2 186,226,211,281,0 80,220,119,292,2 166,218,195,270,2 45,219,71,270,2 13,214,48,276,2 404,221,428,226,2 376,217,398,261,2 603,228,628,295,2 528,221,550,272,2 461,216,528,272,0 
+/workspace/kaist/test_use/set08/V001/visible/I02799.jpg 449,215,511,268,0 150,227,174,273,2 42,221,69,283,2 72,219,99,278,2 18,212,48,270,2 130,222,155,227,2 165,223,188,275,2 417,218,439,270,2 505,224,527,229,2 520,227,540,273,2 551,220,576,274,2 608,230,637,290,2 
+/workspace/kaist/test_use/set08/V001/visible/I02819.jpg 128,224,153,275,2 35,217,65,273,2 55,222,82,271,2 393,221,421,268,2 427,220,449,269,2 96,220,121,267,2 143,221,165,272,2 470,220,490,271,2 483,218,504,267,2 451,213,467,217,2 515,222,537,276,2 530,221,551,269,2 580,221,603,272,2 612,220,632,266,2 
+/workspace/kaist/test_use/set08/V001/visible/I02839.jpg 99,226,126,273,2 22,218,51,275,2 359,219,383,267,2 376,222,400,267,2 525,221,547,276,2 538,220,562,273,2 119,223,143,269,2 46,215,70,270,2 69,216,95,263,2 433,221,458,270,2 460,206,508,269,0 
+/workspace/kaist/test_use/set08/V001/visible/I02859.jpg 445,217,509,222,0 77,227,101,270,2 323,225,346,266,2 307,220,331,268,2 537,221,564,279,2 553,223,577,276,2 591,214,614,265,2 568,218,591,273,2 93,221,119,268,2 46,218,67,223,2 21,215,47,271,2 4,213,30,270,2 
+/workspace/kaist/test_use/set08/V001/visible/I02879.jpg 442,215,519,266,0 67,220,98,271,0 285,223,306,227,2 254,221,276,264,2 551,222,575,279,2 569,220,591,281,2 599,217,622,268,2 35,215,61,262,2 11,213,37,269,2 
+/workspace/kaist/test_use/set08/V001/visible/I02899.jpg 452,215,519,264,0 37,225,61,271,2 250,218,275,264,2 212,220,236,266,2 568,217,588,283,2 584,225,608,283,2 601,212,621,217,2 534,219,560,268,2 55,221,79,268,2 18,210,45,267,2 
+/workspace/kaist/test_use/set08/V001/visible/I02919.jpg 447,210,520,261,0 20,221,42,269,2 213,223,239,265,2 177,219,205,266,2 580,218,607,288,2 598,220,625,297,2 35,209,59,251,2 518,216,543,263,2 
+/workspace/kaist/test_use/set08/V001/visible/I02939.jpg 449,212,536,218,0 7,217,41,222,0 179,220,203,265,2 141,219,169,265,2 594,222,622,294,2 613,229,638,297,2 45,203,69,257,2 
+/workspace/kaist/test_use/set08/V001/visible/I02959.jpg 465,215,523,267,0 145,221,169,269,2 110,220,138,269,2 596,217,617,266,2 612,227,638,294,2 46,208,69,259,2 26,210,50,257,2 
+/workspace/kaist/test_use/set08/V002/visible/I00019.jpg 517,223,539,276,2 87,220,113,272,2 63,227,89,275,2 529,221,551,272,2 468,210,489,253,2 3,207,71,269,0 501,217,520,265,2 
+/workspace/kaist/test_use/set08/V002/visible/I00039.jpg 558,230,580,285,2 517,216,541,271,2 570,225,592,284,2 529,214,553,270,2 5,206,75,284,0 
+/workspace/kaist/test_use/set08/V002/visible/I00059.jpg 585,229,610,298,2 529,215,554,272,2 602,220,633,296,2 545,215,566,273,2 515,214,538,270,2 
+/workspace/kaist/test_use/set08/V002/visible/I00079.jpg 563,211,588,269,2 439,205,459,242,2 574,208,598,272,2 533,211,558,267,2 548,210,572,269,2 
+/workspace/kaist/test_use/set08/V002/visible/I00099.jpg 451,203,476,249,2 240,208,261,235,1 467,201,490,249,2 615,206,640,214,2 
+/workspace/kaist/test_use/set08/V002/visible/I00119.jpg 547,210,574,277,2 516,204,539,267,2 458,208,479,255,2 532,207,554,260,2 258,212,278,241,1 
+/workspace/kaist/test_use/set08/V002/visible/I00139.jpg 535,202,564,268,2 510,203,535,259,2 602,203,634,277,2 480,207,498,244,2 
+/workspace/kaist/test_use/set08/V002/visible/I00159.jpg 590,203,620,271,2 609,198,637,285,2 520,200,547,260,2 
+/workspace/kaist/test_use/set08/V002/visible/I00179.jpg 578,203,609,271,2 335,210,359,246,0 
+/workspace/kaist/test_use/set08/V002/visible/I00199.jpg 585,206,613,260,2 436,207,482,264,0 
+/workspace/kaist/test_use/set08/V002/visible/I00219.jpg 462,204,518,271,0 
+/workspace/kaist/test_use/set08/V002/visible/I00239.jpg 509,207,534,284,2 119,209,139,258,2 
+/workspace/kaist/test_use/set08/V002/visible/I00259.jpg 540,209,571,288,2 119,211,145,216,2 99,214,125,267,2 84,217,107,272,2 573,221,601,286,2 609,210,637,295,2 
+/workspace/kaist/test_use/set08/V002/visible/I00279.jpg 592,208,627,305,2 123,210,152,267,2 111,210,136,274,2 577,214,607,295,2 140,212,163,264,2 616,220,640,299,2 503,203,571,264,0 
+/workspace/kaist/test_use/set08/V002/visible/I00299.jpg 160,215,187,272,2 137,216,170,278,2 575,202,601,267,0 
+/workspace/kaist/test_use/set08/V002/visible/I00319.jpg 187,219,218,282,2 161,214,193,282,2 393,210,424,272,2 37,216,71,277,2 594,198,639,206,0 
+/workspace/kaist/test_use/set08/V002/visible/I00339.jpg 382,212,412,279,2 213,223,244,289,2 188,220,224,294,2 57,216,94,292,2 24,218,58,287,2 521,196,613,248,0 
+/workspace/kaist/test_use/set08/V002/visible/I00359.jpg 359,210,394,287,2 256,223,286,295,2 225,225,258,302,2 88,217,123,293,2 43,223,78,282,2 197,223,227,288,2 511,210,591,215,0 
+/workspace/kaist/test_use/set08/V002/visible/I00379.jpg 349,212,382,290,2 107,221,131,294,2 68,224,104,295,2 228,217,260,295,2 541,202,639,270,0 5,216,46,303,0 119,222,150,292,2 
+/workspace/kaist/test_use/set08/V002/visible/I00399.jpg 157,219,193,305,2 98,221,139,293,2 147,220,173,299,2 272,214,308,300,2 374,225,407,313,2 392,232,421,305,2 317,217,353,296,2 570,211,639,263,0 1,218,67,313,0 
+/workspace/kaist/test_use/set08/V002/visible/I00419.jpg 201,220,224,304,2 279,213,315,311,2 445,221,504,320,0 35,216,102,326,2 212,220,246,307,2 145,221,186,301,2 569,206,636,255,0 
+/workspace/kaist/test_use/set08/V002/visible/I00439.jpg 547,223,579,306,2 220,211,256,315,2 366,217,401,303,2 120,219,165,318,2 261,219,303,305,0 207,221,234,307,2 99,215,135,317,2 573,206,633,255,0 
+/workspace/kaist/test_use/set08/V002/visible/I00459.jpg 186,218,248,325,0 315,219,377,313,0 262,222,298,304,2 171,221,212,321,2 413,220,445,228,2 554,219,587,290,2 141,213,184,323,2 1,206,39,242,1 573,206,635,255,0 
+/workspace/kaist/test_use/set08/V002/visible/I00479.jpg 240,218,281,316,2 446,219,473,296,2 534,223,565,295,2 64,216,120,324,0 261,219,297,314,2 389,225,419,309,2 370,231,397,297,2 317,225,353,300,2 11,206,53,235,1 571,206,639,257,0 
+/workspace/kaist/test_use/set08/V002/visible/I00499.jpg 491,226,517,292,2 480,228,505,289,2 6,222,53,329,2 432,234,465,310,2 416,233,448,310,2 374,231,402,312,2 580,206,640,255,0 
+/workspace/kaist/test_use/set08/V002/visible/I00519.jpg 523,222,550,284,2 379,227,409,311,2 488,229,520,316,2 424,236,455,308,2 271,214,291,255,2 578,206,640,255,0 359,226,389,297,2 410,228,437,297,2 
+/workspace/kaist/test_use/set08/V002/visible/I00539.jpg 434,224,467,316,2 415,227,445,313,2 573,221,600,294,2 465,231,504,310,2 556,230,585,306,2 270,214,290,255,2 455,235,480,307,2 
+/workspace/kaist/test_use/set08/V002/visible/I00559.jpg 469,226,502,317,2 240,220,278,312,2 532,229,564,314,2 487,226,524,322,2 270,213,290,254,2 
+/workspace/kaist/test_use/set08/V002/visible/I00579.jpg 105,221,153,328,2 556,232,590,331,2 540,229,571,337,2 272,214,292,255,2 604,213,640,265,0 502,209,519,249,2 
+/workspace/kaist/test_use/set08/V002/visible/I00599.jpg 269,216,289,257,2 619,213,640,267,0 512,209,532,244,2 488,241,551,349,3 
+/workspace/kaist/test_use/set08/V002/visible/I00619.jpg 263,212,283,256,2 525,209,545,244,2 485,219,519,279,3 
+/workspace/kaist/test_use/set08/V002/visible/I00639.jpg 262,211,282,262,2 536,207,557,245,2 
+/workspace/kaist/test_use/set08/V002/visible/I00659.jpg 257,216,281,222,2 544,213,565,251,2 569,214,598,259,0 
+/workspace/kaist/test_use/set08/V002/visible/I00679.jpg 252,226,277,280,2 551,217,572,255,2 564,215,589,256,2 576,213,599,255,2 
+/workspace/kaist/test_use/set08/V002/visible/I00699.jpg 248,218,276,277,2 559,212,584,255,2 570,212,597,262,2 
+/workspace/kaist/test_use/set08/V002/visible/I00719.jpg 241,217,269,274,2 554,212,579,261,2 591,212,619,263,2 573,212,596,258,2 
+/workspace/kaist/test_use/set08/V002/visible/I00739.jpg 236,216,265,278,2 612,211,639,262,2 553,209,578,258,2 571,206,594,259,2 
+/workspace/kaist/test_use/set08/V002/visible/I00759.jpg 233,215,262,279,2 565,212,590,264,2 
+/workspace/kaist/test_use/set08/V002/visible/I00779.jpg 228,216,258,273,2 537,211,559,262,2 562,210,585,252,2 590,212,614,263,2 
+/workspace/kaist/test_use/set08/V002/visible/I00799.jpg 228,213,257,284,2 536,206,561,251,2 551,207,574,249,2 
+/workspace/kaist/test_use/set08/V002/visible/I00819.jpg 226,215,254,284,2 534,207,559,252,2 551,207,574,249,2 
+/workspace/kaist/test_use/set08/V002/visible/I00839.jpg 221,214,255,287,2 526,210,551,255,2 543,207,566,249,2 613,211,637,267,2 
+/workspace/kaist/test_use/set08/V002/visible/I00859.jpg 522,213,542,252,2 539,212,562,254,2 
+/workspace/kaist/test_use/set08/V002/visible/I00879.jpg 214,214,240,288,2 525,212,551,255,1 
+/workspace/kaist/test_use/set08/V002/visible/I00899.jpg 214,217,240,270,2 520,211,543,253,1 
+/workspace/kaist/test_use/set08/V002/visible/I00919.jpg 215,218,242,286,2 
+/workspace/kaist/test_use/set08/V002/visible/I00939.jpg 232,220,261,289,2 
+/workspace/kaist/test_use/set08/V002/visible/I00959.jpg 284,220,314,299,2 
+/workspace/kaist/test_use/set08/V002/visible/I00979.jpg 367,227,403,305,2 
+/workspace/kaist/test_use/set08/V002/visible/I01019.jpg 205,216,257,317,2 501,212,532,279,2 521,210,550,279,2 165,209,216,305,2 
+/workspace/kaist/test_use/set08/V002/visible/I01039.jpg 340,220,395,333,2 162,235,204,344,2 377,218,425,323,2 160,221,196,329,2 
+/workspace/kaist/test_use/set08/V002/visible/I01059.jpg 434,244,477,365,2 419,229,460,325,2 34,210,59,265,2 567,226,632,360,2 206,210,260,287,0 12,210,38,267,2 50,219,95,281,0 
+/workspace/kaist/test_use/set08/V002/visible/I01079.jpg 510,204,567,314,0 336,210,382,297,0 276,209,309,272,0 
+/workspace/kaist/test_use/set08/V002/visible/I01099.jpg 545,216,591,301,0 433,213,461,265,2 160,216,195,251,0 390,216,413,263,2 
+/workspace/kaist/test_use/set08/V002/visible/I01119.jpg 497,207,528,271,2 479,208,506,278,2 453,210,479,277,2 194,211,225,246,0 11,194,86,242,0 
+/workspace/kaist/test_use/set08/V002/visible/I01139.jpg 552,206,578,269,2 584,210,620,294,2 531,210,562,281,2 216,202,253,244,0 10,188,115,247,0 
+/workspace/kaist/test_use/set08/V002/visible/I01159.jpg 598,208,632,282,2 578,208,607,280,2 231,204,288,250,0 17,199,137,204,0 
+/workspace/kaist/test_use/set08/V002/visible/I01179.jpg 244,212,264,253,2 253,210,272,252,2 103,198,132,249,2 87,197,116,248,2 75,198,102,252,2 305,207,325,244,2 288,206,303,209,2 
+/workspace/kaist/test_use/set08/V002/visible/I01199.jpg 256,212,277,259,2 267,212,292,263,2 119,194,146,237,2 105,194,129,251,2 79,201,104,206,2 359,213,385,259,2 327,210,349,245,1 
+/workspace/kaist/test_use/set08/V002/visible/I01219.jpg 243,211,273,267,0 80,195,107,252,2 33,203,67,267,2 395,210,416,256,2 534,219,560,286,2 55,197,85,247,2 562,207,582,252,2 584,217,605,253,1 
+/workspace/kaist/test_use/set08/V002/visible/I01239.jpg 202,230,237,293,2 216,224,251,300,2 597,235,637,323,2 432,215,461,273,2 573,231,602,287,2 3,197,87,259,0 374,220,398,258,1 
+/workspace/kaist/test_use/set08/V002/visible/I01259.jpg 62,220,113,321,2 426,219,458,276,0 573,227,602,296,2 347,214,364,251,1 
+/workspace/kaist/test_use/set08/V002/visible/I01279.jpg 379,202,417,268,0 536,217,569,294,2 262,203,292,251,2 512,200,539,264,2 219,204,241,240,1 
+/workspace/kaist/test_use/set08/V002/visible/I01299.jpg 399,210,429,278,2 384,208,413,280,2 567,223,608,325,2 251,209,277,260,2 495,208,523,274,2 509,212,536,276,2 189,208,206,244,1 140,207,166,248,1 
+/workspace/kaist/test_use/set08/V002/visible/I01319.jpg 462,213,497,291,2 456,210,481,289,2 293,212,319,260,2 542,210,572,278,2 560,214,587,280,2 439,210,461,256,2 346,208,368,252,2 205,211,225,250,2 179,214,197,250,2 425,215,440,246,2 
+/workspace/kaist/test_use/set08/V002/visible/I01339.jpg 553,204,591,281,2 442,203,469,258,2 276,209,312,255,0 30,196,64,260,2 
+/workspace/kaist/test_use/set08/V002/visible/I01359.jpg 587,206,625,268,2 433,219,460,261,2 403,213,428,256,2 157,206,183,261,2 
+/workspace/kaist/test_use/set08/V002/visible/I01379.jpg 564,220,593,277,2 496,221,522,267,2 243,212,276,277,2 31,196,105,242,0 
+/workspace/kaist/test_use/set08/V002/visible/I01399.jpg 550,214,580,276,2 433,220,460,265,2 146,212,179,284,2 
+/workspace/kaist/test_use/set08/V002/visible/I01419.jpg 587,216,618,283,2 415,222,445,271,2 90,213,124,292,2 
+/workspace/kaist/test_use/set08/V002/visible/I01439.jpg 410,226,436,231,2 21,214,69,309,2 66,220,97,281,2 
+/workspace/kaist/test_use/set08/V002/visible/I01459.jpg 445,219,478,226,2 28,219,72,306,2 
+/workspace/kaist/test_use/set08/V002/visible/I01479.jpg 480,219,510,297,2 384,200,471,257,0 
+/workspace/kaist/test_use/set08/V002/visible/I01499.jpg 559,225,606,328,2 495,214,518,271,2 402,203,501,265,0 
+/workspace/kaist/test_use/set08/V002/visible/I01519.jpg 582,218,610,284,2 438,205,488,259,0 491,210,516,269,2 505,213,525,262,2 522,214,544,263,2 
+/workspace/kaist/test_use/set08/V002/visible/I01539.jpg 547,210,574,283,2 583,212,609,277,2 602,212,631,279,2 569,212,596,279,2 512,209,536,261,2 
+/workspace/kaist/test_use/set08/V002/visible/I01559.jpg 595,214,626,294,2 
+/workspace/kaist/test_use/set08/V002/visible/I01599.jpg 512,200,618,272,0 
+/workspace/kaist/test_use/set08/V002/visible/I01619.jpg 512,196,633,303,0 
+/workspace/kaist/test_use/set08/V002/visible/I01639.jpg 532,206,638,292,0 
+/workspace/kaist/test_use/set08/V002/visible/I01659.jpg 573,219,609,305,2 593,232,629,330,2 
+/workspace/kaist/test_use/set08/V002/visible/I01679.jpg 498,226,524,287,2 369,225,390,282,2 
+/workspace/kaist/test_use/set08/V002/visible/I01699.jpg 554,206,583,288,2 367,208,390,260,2 
+/workspace/kaist/test_use/set08/V002/visible/I01719.jpg 373,224,404,290,2 499,226,522,272,2 
+/workspace/kaist/test_use/set08/V002/visible/I01739.jpg 402,220,435,294,2 387,226,409,290,2 558,222,585,286,2 
+/workspace/kaist/test_use/set08/V002/visible/I01759.jpg 429,232,464,316,2 418,233,448,317,2 
+/workspace/kaist/test_use/set08/V002/visible/I01779.jpg 489,225,530,361,2 465,229,503,354,2 
+/workspace/kaist/test_use/set08/V002/visible/I01799.jpg 592,246,640,474,2 
+/workspace/kaist/test_use/set08/V002/visible/I01839.jpg 98,209,128,288,2 69,207,107,288,2 145,210,169,255,2 
+/workspace/kaist/test_use/set08/V002/visible/I01859.jpg 18,205,63,317,2 4,204,41,323,2 598,219,623,285,2 
+/workspace/kaist/test_use/set08/V002/visible/I01879.jpg 88,206,118,270,2 495,214,518,267,2 515,214,541,272,0 167,210,190,214,2 48,210,82,287,2 
+/workspace/kaist/test_use/set08/V002/visible/I01899.jpg 33,206,74,285,2 468,214,575,275,0 1,204,53,303,0 177,207,198,260,2 
+/workspace/kaist/test_use/set08/V002/visible/I01919.jpg 178,208,201,266,2 515,220,544,287,2 536,224,559,278,2 565,224,626,284,0 
+/workspace/kaist/test_use/set08/V002/visible/I01939.jpg 151,204,179,271,2 140,211,163,272,2 584,225,618,314,2 
+/workspace/kaist/test_use/set08/V002/visible/I01959.jpg 98,202,127,209,2 77,207,112,214,2 
+/workspace/kaist/test_use/set08/V002/visible/I01979.jpg 56,213,91,281,2 41,210,71,217,2 
+/workspace/kaist/test_use/set08/V002/visible/I01999.jpg 33,205,69,281,2 16,201,53,280,2 
+/workspace/kaist/test_use/set08/V002/visible/I02019.jpg 2,201,51,276,0 588,214,625,330,2 
+/workspace/kaist/test_use/set08/V002/visible/I02039.jpg 1,207,36,215,2 571,223,615,334,2 
+/workspace/kaist/test_use/set08/V002/visible/I02059.jpg 47,219,82,295,2 29,219,65,292,2 
+/workspace/kaist/test_use/set08/V002/visible/I02079.jpg 63,218,96,226,2 41,216,76,303,2 
+/workspace/kaist/test_use/set08/V002/visible/I02099.jpg 29,204,74,301,2 7,206,50,309,2 
+/workspace/kaist/test_use/set08/V002/visible/I02139.jpg 515,218,539,279,2 
+/workspace/kaist/test_use/set08/V002/visible/I02159.jpg 582,213,612,290,2 
+/workspace/kaist/test_use/set08/V002/visible/I02299.jpg 440,218,459,255,1 
+/workspace/kaist/test_use/set08/V002/visible/I02339.jpg 487,222,512,275,2 504,221,531,274,2 
+/workspace/kaist/test_use/set08/V002/visible/I02359.jpg 507,211,535,284,2 541,215,565,279,2 
+/workspace/kaist/test_use/set08/V002/visible/I02379.jpg 568,209,605,302,2 608,214,640,295,2 
+/workspace/kaist/test_use/set08/V002/visible/I02419.jpg 596,217,629,286,2 
+/workspace/kaist/test_use/set08/V002/visible/I02439.jpg 443,247,464,292,2 493,238,513,279,2 
+/workspace/kaist/test_use/set08/V002/visible/I02459.jpg 468,171,492,223,2 442,171,467,225,2 524,160,546,206,2 
+/workspace/kaist/test_use/set08/V002/visible/I02479.jpg 501,209,528,265,2 471,206,496,260,2 568,193,594,261,2 587,188,612,250,2 
+/workspace/kaist/test_use/set08/V002/visible/I02499.jpg 520,209,558,217,2 549,213,589,283,2 
+/workspace/kaist/test_use/set09/V000/visible/I00019.jpg 483,215,509,266,2 266,196,286,224,1 
+/workspace/kaist/test_use/set09/V000/visible/I00039.jpg 569,210,602,291,2 248,190,264,216,2 
+/workspace/kaist/test_use/set09/V000/visible/I00059.jpg 232,193,252,222,2 
+/workspace/kaist/test_use/set09/V000/visible/I00079.jpg 217,211,237,239,2 
+/workspace/kaist/test_use/set09/V000/visible/I00099.jpg 179,183,197,219,2 
+/workspace/kaist/test_use/set09/V000/visible/I00119.jpg 131,191,154,234,2 
+/workspace/kaist/test_use/set09/V000/visible/I00139.jpg 122,208,146,261,2 
+/workspace/kaist/test_use/set09/V000/visible/I00159.jpg 159,215,193,292,2 
+/workspace/kaist/test_use/set09/V000/visible/I00179.jpg 164,212,208,317,2 
+/workspace/kaist/test_use/set09/V000/visible/I00199.jpg 69,221,146,237,2 
+/workspace/kaist/test_use/set09/V000/visible/I00779.jpg 219,192,242,226,1 
+/workspace/kaist/test_use/set09/V000/visible/I00799.jpg 178,216,198,219,2 
+/workspace/kaist/test_use/set09/V000/visible/I00819.jpg 135,216,152,258,2 
+/workspace/kaist/test_use/set09/V000/visible/I00839.jpg 99,217,120,221,2 
+/workspace/kaist/test_use/set09/V000/visible/I00859.jpg 37,210,58,264,2 
+/workspace/kaist/test_use/set09/V000/visible/I00879.jpg 3,214,23,271,2 171,212,197,266,3 
+/workspace/kaist/test_use/set09/V000/visible/I00899.jpg 107,220,146,307,3 3,214,25,279,2 
+/workspace/kaist/test_use/set09/V000/visible/I00919.jpg 19,212,46,290,2 
+/workspace/kaist/test_use/set09/V000/visible/I00939.jpg 67,219,106,323,2 105,221,141,305,2 
+/workspace/kaist/test_use/set09/V000/visible/I00959.jpg 271,222,307,326,2 310,228,344,327,2 
+/workspace/kaist/test_use/set09/V000/visible/I00979.jpg 520,214,582,228,2 563,228,609,349,2 294,221,320,294,2 
+/workspace/kaist/test_use/set09/V000/visible/I00999.jpg 230,231,271,308,2 16,210,41,271,2 
+/workspace/kaist/test_use/set09/V000/visible/I01019.jpg 392,222,429,315,2 177,203,206,280,2 
+/workspace/kaist/test_use/set09/V000/visible/I01039.jpg 340,226,384,322,2 92,204,114,271,2 
+/workspace/kaist/test_use/set09/V000/visible/I01059.jpg 23,209,76,323,2 
+/workspace/kaist/test_use/set09/V000/visible/I01099.jpg 568,237,609,245,2 611,230,639,284,2 
+/workspace/kaist/test_use/set09/V000/visible/I01119.jpg 532,256,576,343,2 379,251,431,362,2 445,241,471,293,2 468,249,493,294,2 
+/workspace/kaist/test_use/set09/V000/visible/I01139.jpg 173,251,233,399,2 421,244,466,348,2 306,233,327,284,2 334,241,357,294,2 391,241,421,244,0 
+/workspace/kaist/test_use/set09/V000/visible/I01159.jpg 353,235,394,333,2 210,223,237,229,2 236,227,265,233,2 316,228,341,260,0 
+/workspace/kaist/test_use/set09/V000/visible/I01179.jpg 368,229,416,332,2 200,215,232,279,2 227,221,258,278,2 330,217,356,254,0 
+/workspace/kaist/test_use/set09/V000/visible/I01199.jpg 447,228,500,352,2 237,205,270,284,2 263,219,294,286,2 391,217,427,248,0 
+/workspace/kaist/test_use/set09/V000/visible/I01219.jpg 515,239,565,377,2 230,213,277,318,2 260,227,301,318,2 436,223,465,256,0 466,221,482,246,1 
+/workspace/kaist/test_use/set09/V000/visible/I01239.jpg 572,249,633,422,2 161,213,214,344,2 199,234,250,351,2 443,227,463,230,0 461,227,482,230,2 
+/workspace/kaist/test_use/set09/V000/visible/I01259.jpg 23,206,104,420,2 59,242,150,437,2 443,227,463,230,2 463,227,481,230,2 
+/workspace/kaist/test_use/set09/V000/visible/I01279.jpg 444,227,464,230,2 461,227,482,230,2 
+/workspace/kaist/test_use/set09/V000/visible/I01299.jpg 450,234,470,264,2 466,234,487,264,2 
+/workspace/kaist/test_use/set09/V000/visible/I01319.jpg 461,233,481,236,2 479,233,500,263,2 
+/workspace/kaist/test_use/set09/V000/visible/I01339.jpg 486,221,506,254,2 504,219,525,258,2 
+/workspace/kaist/test_use/set09/V000/visible/I01359.jpg 527,223,547,267,2 538,222,562,266,2 
+/workspace/kaist/test_use/set09/V000/visible/I01379.jpg 548,231,570,280,2 562,230,587,277,2 
+/workspace/kaist/test_use/set09/V000/visible/I01759.jpg 379,203,399,229,3 
+/workspace/kaist/test_use/set09/V000/visible/I01779.jpg 325,217,345,243,3 408,215,425,247,2 
+/workspace/kaist/test_use/set09/V000/visible/I01799.jpg 260,217,280,249,3 416,217,437,253,2 533,214,548,245,2 545,213,563,245,2 
+/workspace/kaist/test_use/set09/V000/visible/I01819.jpg 158,214,184,275,3 423,215,453,270,2 583,212,604,243,2 597,213,620,248,2 
+/workspace/kaist/test_use/set09/V000/visible/I01839.jpg 469,220,511,302,2 
+/workspace/kaist/test_use/set09/V000/visible/I01859.jpg 584,219,639,331,2 
+/workspace/kaist/test_use/set09/V000/visible/I01959.jpg 494,228,526,311,2 526,220,561,311,2 
+/workspace/kaist/test_use/set09/V000/visible/I01979.jpg 499,231,540,339,2 538,222,584,335,2 
+/workspace/kaist/test_use/set09/V000/visible/I02059.jpg 188,217,204,220,1 
+/workspace/kaist/test_use/set09/V000/visible/I02079.jpg 415,210,455,259,0 
+/workspace/kaist/test_use/set09/V000/visible/I02099.jpg 446,214,483,271,0 
+/workspace/kaist/test_use/set09/V000/visible/I02119.jpg 485,210,524,287,0 77,213,103,261,2 411,205,430,244,1 
+/workspace/kaist/test_use/set09/V000/visible/I02139.jpg 35,200,68,275,2 548,191,593,300,2 589,195,633,293,1 448,187,471,226,2 
+/workspace/kaist/test_use/set09/V000/visible/I02159.jpg 506,217,529,263,2 
+/workspace/kaist/test_use/set09/V000/visible/I02319.jpg 106,208,128,251,0 
+/workspace/kaist/test_use/set09/V000/visible/I02339.jpg 282,205,302,248,2 241,205,278,247,0 392,208,411,252,2 
+/workspace/kaist/test_use/set09/V000/visible/I02359.jpg 487,214,512,265,2 361,210,384,256,2 299,206,348,252,0 
+/workspace/kaist/test_use/set09/V000/visible/I02379.jpg 569,215,601,221,0 405,219,428,224,2 340,213,386,260,0 385,216,409,259,2 
+/workspace/kaist/test_use/set09/V000/visible/I02399.jpg 453,215,477,282,2 363,208,414,262,0 419,207,440,211,2 
+/workspace/kaist/test_use/set09/V000/visible/I02419.jpg 535,217,577,313,0 396,207,428,254,0 437,210,462,251,0 
+/workspace/kaist/test_use/set09/V000/visible/I02439.jpg 424,206,457,250,0 470,207,495,248,0 367,206,389,234,2 
+/workspace/kaist/test_use/set09/V000/visible/I02459.jpg 479,205,506,251,2 524,207,544,252,2 139,208,162,254,3 500,200,522,245,2 
+/workspace/kaist/test_use/set09/V000/visible/I02479.jpg 587,206,624,212,0 512,203,538,270,2 10,216,42,291,3 97,195,138,231,0 531,206,557,271,2 549,206,576,274,2 
+/workspace/kaist/test_use/set09/V000/visible/I02499.jpg 417,206,437,257,2 580,206,612,297,2 59,195,82,232,2 87,198,109,233,2 379,202,393,223,1 
+/workspace/kaist/test_use/set09/V000/visible/I02519.jpg 438,212,460,259,2 454,207,479,213,2 35,206,56,243,2 58,203,102,207,0 
+/workspace/kaist/test_use/set09/V000/visible/I02539.jpg 481,180,505,251,2 455,184,481,250,2 4,180,46,218,0 
+/workspace/kaist/test_use/set09/V000/visible/I02559.jpg 478,211,504,279,2 506,207,544,283,2 87,210,102,234,1 
+/workspace/kaist/test_use/set09/V000/visible/I02579.jpg 531,216,567,308,2 577,214,613,306,2 609,209,639,284,2 57,219,72,223,2 68,218,87,259,2 152,220,170,252,2 
+/workspace/kaist/test_use/set09/V000/visible/I02599.jpg 19,212,56,255,0 147,220,162,249,2 
+/workspace/kaist/test_use/set09/V000/visible/I02619.jpg 120,230,136,233,2 420,232,433,256,1 
+/workspace/kaist/test_use/set09/V000/visible/I02639.jpg 64,223,85,262,2 421,229,439,262,0 
+/workspace/kaist/test_use/set09/V000/visible/I02659.jpg 432,221,453,225,0 
+/workspace/kaist/test_use/set09/V000/visible/I02699.jpg 471,208,497,255,0 
+/workspace/kaist/test_use/set09/V000/visible/I02719.jpg 514,215,545,269,0 
+/workspace/kaist/test_use/set09/V000/visible/I02739.jpg 605,196,637,289,0 88,198,106,201,2 115,200,130,232,2 
+/workspace/kaist/test_use/set09/V000/visible/I02759.jpg 65,195,85,232,2 88,196,108,239,2 
+/workspace/kaist/test_use/set09/V000/visible/I02779.jpg 51,195,70,233,2 32,195,48,228,2 
+/workspace/kaist/test_use/set09/V000/visible/I02799.jpg 16,246,37,287,2 85,237,113,270,0 
+/workspace/kaist/test_use/set09/V000/visible/I02819.jpg 394,196,409,199,2 
+/workspace/kaist/test_use/set09/V000/visible/I02839.jpg 29,202,65,241,0 399,202,415,238,2 
+/workspace/kaist/test_use/set09/V000/visible/I02859.jpg 421,209,441,251,2 
+/workspace/kaist/test_use/set09/V000/visible/I02879.jpg 463,217,486,266,2 
+/workspace/kaist/test_use/set09/V000/visible/I02899.jpg 542,216,573,293,2 436,214,450,245,2 
+/workspace/kaist/test_use/set09/V000/visible/I02919.jpg 473,211,493,256,2 420,212,438,246,2 
+/workspace/kaist/test_use/set09/V000/visible/I02939.jpg 543,212,564,268,2 455,215,471,251,2 
+/workspace/kaist/test_use/set09/V000/visible/I02959.jpg 510,216,533,263,2 187,220,207,253,3 
+/workspace/kaist/test_use/set09/V000/visible/I02979.jpg 126,225,147,273,3 28,209,44,247,1 63,216,82,244,1 
+/workspace/kaist/test_use/set09/V000/visible/I02999.jpg 416,218,436,246,0 
+/workspace/kaist/test_use/set09/V000/visible/I03019.jpg 438,218,458,251,0 
+/workspace/kaist/test_use/set09/V000/visible/I03039.jpg 473,213,493,250,0 396,214,432,243,0 315,218,332,244,1 147,213,164,241,1 
+/workspace/kaist/test_use/set09/V000/visible/I03059.jpg 525,214,549,219,0 408,210,425,214,2 121,218,136,245,1 321,219,336,248,1 
+/workspace/kaist/test_use/set09/V000/visible/I03079.jpg 325,219,345,255,2 77,219,94,256,1 427,218,445,252,1 
+/workspace/kaist/test_use/set09/V000/visible/I03099.jpg 340,211,360,249,2 508,192,531,224,0 
+/workspace/kaist/test_use/set09/V000/visible/I03119.jpg 351,208,371,257,2 484,208,504,257,2 40,205,72,238,0 124,205,143,242,2 556,189,585,230,0 
+/workspace/kaist/test_use/set09/V000/visible/I03139.jpg 365,210,387,268,2 517,206,544,258,2 27,208,47,249,2 
+/workspace/kaist/test_use/set09/V000/visible/I03159.jpg 376,220,406,227,2 555,210,575,265,2 55,202,75,245,2 
+/workspace/kaist/test_use/set09/V000/visible/I03179.jpg 421,218,457,226,2 618,210,640,216,2 24,214,52,262,0 
+/workspace/kaist/test_use/set09/V000/visible/I03199.jpg 501,227,550,361,2 
+/workspace/kaist/test_use/set09/V000/visible/I03219.jpg 88,207,107,243,2 
+/workspace/kaist/test_use/set09/V000/visible/I03239.jpg 398,208,413,241,2 419,212,434,237,2 
+/workspace/kaist/test_use/set09/V000/visible/I03259.jpg 171,208,191,259,3 420,210,432,213,2 430,209,443,243,2 
+/workspace/kaist/test_use/set09/V000/visible/I03279.jpg 17,201,63,287,3 459,202,477,247,2 477,202,496,245,2 399,201,414,227,2 
+/workspace/kaist/test_use/set09/V000/visible/I03299.jpg 539,206,565,263,2 489,213,509,266,2 559,208,589,265,2 359,200,411,238,0 427,204,445,238,1 
+/workspace/kaist/test_use/set09/V000/visible/I03319.jpg 540,221,560,277,2 443,208,463,244,2 413,208,431,242,2 384,209,406,242,0 129,210,146,236,1 100,207,127,210,0 469,207,490,243,0 446,207,463,246,2 398,211,423,249,0 362,210,378,232,1 64,208,82,244,2 101,209,123,245,2 78,205,100,243,2 
+/workspace/kaist/test_use/set09/V000/visible/I03359.jpg 513,206,543,257,0 443,209,470,260,0 93,212,111,216,2 30,211,56,256,2 52,210,76,253,2 
+/workspace/kaist/test_use/set09/V000/visible/I03379.jpg 583,207,616,262,0 501,210,529,263,0 81,211,104,248,2 10,211,39,257,2 416,213,432,236,1 
+/workspace/kaist/test_use/set09/V000/visible/I03399.jpg 553,219,584,286,0 427,217,453,249,0 
+/workspace/kaist/test_use/set09/V000/visible/I03419.jpg 17,178,40,230,2 612,183,640,256,2 437,178,456,214,2 
+/workspace/kaist/test_use/set09/V000/visible/I03439.jpg 453,217,473,221,0 
+/workspace/kaist/test_use/set09/V000/visible/I03459.jpg 458,217,478,259,0 
+/workspace/kaist/test_use/set09/V000/visible/I03479.jpg 484,219,509,270,0 
+/workspace/kaist/test_use/set09/V000/visible/I03499.jpg 565,219,589,277,2 582,225,608,276,2 
+/workspace/kaist/test_use/set10/V000/visible/I00019.jpg 385,218,406,263,0 401,222,419,226,2 
+/workspace/kaist/test_use/set10/V000/visible/I00039.jpg 411,219,432,272,2 426,219,450,271,2 
+/workspace/kaist/test_use/set10/V000/visible/I00059.jpg 418,220,438,275,0 434,220,455,225,2 
+/workspace/kaist/test_use/set10/V000/visible/I00079.jpg 431,223,455,281,2 450,227,472,279,2 
+/workspace/kaist/test_use/set10/V000/visible/I00099.jpg 467,223,511,294,0 
+/workspace/kaist/test_use/set10/V000/visible/I00119.jpg 513,223,554,307,0 
+/workspace/kaist/test_use/set10/V000/visible/I00139.jpg 569,224,630,333,0 
+/workspace/kaist/test_use/set10/V000/visible/I00159.jpg 377,203,392,237,2 
+/workspace/kaist/test_use/set10/V000/visible/I00179.jpg 363,210,381,244,2 
+/workspace/kaist/test_use/set10/V000/visible/I00199.jpg 359,208,377,246,2 
+/workspace/kaist/test_use/set10/V000/visible/I00219.jpg 358,212,378,216,2 
+/workspace/kaist/test_use/set10/V000/visible/I00239.jpg 364,211,384,215,2 
+/workspace/kaist/test_use/set10/V000/visible/I00259.jpg 369,206,391,248,2 
+/workspace/kaist/test_use/set10/V000/visible/I00279.jpg 376,208,396,212,2 
+/workspace/kaist/test_use/set10/V000/visible/I00299.jpg 378,208,398,247,2 
+/workspace/kaist/test_use/set10/V000/visible/I00319.jpg 377,210,397,248,2 
+/workspace/kaist/test_use/set10/V000/visible/I00339.jpg 375,212,393,247,2 
+/workspace/kaist/test_use/set10/V000/visible/I00359.jpg 376,212,391,241,2 
+/workspace/kaist/test_use/set10/V000/visible/I00379.jpg 374,211,388,239,2 
+/workspace/kaist/test_use/set10/V000/visible/I00399.jpg 372,210,387,243,2 
+/workspace/kaist/test_use/set10/V000/visible/I00419.jpg 368,210,384,241,2 
+/workspace/kaist/test_use/set10/V000/visible/I00439.jpg 368,211,386,243,2 
+/workspace/kaist/test_use/set10/V000/visible/I00519.jpg 378,210,393,238,2 
+/workspace/kaist/test_use/set10/V000/visible/I00539.jpg 377,214,391,243,2 
+/workspace/kaist/test_use/set10/V000/visible/I00559.jpg 370,211,385,244,2 
+/workspace/kaist/test_use/set10/V000/visible/I00579.jpg 373,216,388,251,2 
+/workspace/kaist/test_use/set10/V000/visible/I00599.jpg 369,210,388,243,2 
+/workspace/kaist/test_use/set10/V000/visible/I00619.jpg 370,210,385,244,2 
+/workspace/kaist/test_use/set10/V000/visible/I00639.jpg 369,212,384,215,2 
+/workspace/kaist/test_use/set10/V000/visible/I00659.jpg 372,215,388,218,2 
+/workspace/kaist/test_use/set10/V000/visible/I00679.jpg 377,219,391,250,2 
+/workspace/kaist/test_use/set10/V000/visible/I00699.jpg 381,216,394,219,2 
+/workspace/kaist/test_use/set10/V000/visible/I00719.jpg 377,211,392,244,2 
+/workspace/kaist/test_use/set10/V000/visible/I00739.jpg 372,211,391,247,2 
+/workspace/kaist/test_use/set10/V000/visible/I00759.jpg 368,212,388,243,2 
+/workspace/kaist/test_use/set10/V000/visible/I00779.jpg 368,214,386,217,2 
+/workspace/kaist/test_use/set10/V000/visible/I00979.jpg 579,221,622,361,2 
+/workspace/kaist/test_use/set10/V000/visible/I00999.jpg 547,218,594,344,2 598,225,634,342,2 
+/workspace/kaist/test_use/set10/V000/visible/I01019.jpg 528,218,573,333,2 573,223,612,331,2 
+/workspace/kaist/test_use/set10/V000/visible/I01039.jpg 515,218,553,324,2 550,220,587,230,2 
+/workspace/kaist/test_use/set10/V000/visible/I01059.jpg 503,218,535,316,2 527,219,559,312,2 
+/workspace/kaist/test_use/set10/V000/visible/I01079.jpg 489,217,517,305,2 509,217,536,305,2 
+/workspace/kaist/test_use/set10/V000/visible/I01099.jpg 476,217,504,298,2 495,216,521,299,2 
+/workspace/kaist/test_use/set10/V000/visible/I01119.jpg 462,216,493,291,2 485,215,510,294,2 
+/workspace/kaist/test_use/set10/V000/visible/I01139.jpg 454,213,482,284,2 477,216,504,283,2 
+/workspace/kaist/test_use/set10/V000/visible/I01159.jpg 447,212,475,278,2 466,216,490,280,2 
+/workspace/kaist/test_use/set10/V000/visible/I01179.jpg 444,214,470,277,2 460,214,483,221,2 
+/workspace/kaist/test_use/set10/V000/visible/I01199.jpg 437,213,462,273,2 456,215,479,281,2 
+/workspace/kaist/test_use/set10/V000/visible/I01219.jpg 429,213,452,269,2 450,216,472,278,2 
+/workspace/kaist/test_use/set10/V000/visible/I01239.jpg 421,214,442,266,2 443,217,464,274,2 
+/workspace/kaist/test_use/set10/V000/visible/I01259.jpg 419,215,439,263,2 434,218,455,269,2 
+/workspace/kaist/test_use/set10/V000/visible/I01279.jpg 416,215,446,270,0 
+/workspace/kaist/test_use/set10/V000/visible/I01299.jpg 414,213,440,259,0 
+/workspace/kaist/test_use/set10/V000/visible/I01319.jpg 405,216,423,258,2 417,213,439,262,2 
+/workspace/kaist/test_use/set10/V000/visible/I01339.jpg 397,213,420,260,0 414,218,435,263,2 
+/workspace/kaist/test_use/set10/V000/visible/I01359.jpg 393,212,412,258,2 407,217,429,261,2 
+/workspace/kaist/test_use/set10/V000/visible/I01379.jpg 390,214,407,218,2 404,215,426,261,2 
+/workspace/kaist/test_use/set10/V000/visible/I01399.jpg 390,215,407,253,2 403,215,424,254,2 
+/workspace/kaist/test_use/set10/V000/visible/I01419.jpg 387,215,404,250,2 401,212,420,250,2 
+/workspace/kaist/test_use/set10/V000/visible/I01439.jpg 384,215,401,253,2 398,219,416,252,2 
+/workspace/kaist/test_use/set10/V000/visible/I01459.jpg 377,212,393,249,2 395,217,411,252,2 
+/workspace/kaist/test_use/set10/V000/visible/I01479.jpg 377,213,393,249,2 389,214,406,251,2 
+/workspace/kaist/test_use/set10/V000/visible/I01499.jpg 378,216,404,252,0 
+/workspace/kaist/test_use/set10/V000/visible/I01519.jpg 379,214,403,249,0 
+/workspace/kaist/test_use/set10/V000/visible/I01539.jpg 379,215,399,249,0 
+/workspace/kaist/test_use/set10/V000/visible/I01559.jpg 379,216,399,250,0 
+/workspace/kaist/test_use/set10/V000/visible/I01579.jpg 381,218,402,252,0 
+/workspace/kaist/test_use/set10/V000/visible/I01599.jpg 384,217,402,250,2 
+/workspace/kaist/test_use/set10/V000/visible/I01619.jpg 386,218,406,253,2 
+/workspace/kaist/test_use/set10/V000/visible/I01639.jpg 391,218,414,254,0 
+/workspace/kaist/test_use/set10/V000/visible/I01659.jpg 396,219,418,253,0 
+/workspace/kaist/test_use/set10/V000/visible/I01679.jpg 402,222,428,256,0 
+/workspace/kaist/test_use/set10/V000/visible/I01699.jpg 417,220,445,259,0 
+/workspace/kaist/test_use/set10/V000/visible/I01719.jpg 435,217,459,221,2 
+/workspace/kaist/test_use/set10/V000/visible/I01739.jpg 437,217,468,264,2 
+/workspace/kaist/test_use/set10/V000/visible/I01759.jpg 468,219,494,285,2 489,227,511,282,2 
+/workspace/kaist/test_use/set10/V000/visible/I01779.jpg 535,220,571,306,2 561,224,590,232,2 
+/workspace/kaist/test_use/set10/V000/visible/I02939.jpg 412,211,429,240,1 441,215,457,242,1 
+/workspace/kaist/test_use/set10/V000/visible/I02959.jpg 411,210,424,239,2 439,210,456,238,2 377,212,391,215,1 
+/workspace/kaist/test_use/set10/V000/visible/I02979.jpg 439,209,454,236,2 408,207,423,239,2 376,209,388,238,1 
+/workspace/kaist/test_use/set10/V000/visible/I02999.jpg 440,207,454,233,2 374,206,420,241,0 
+/workspace/kaist/test_use/set10/V000/visible/I03019.jpg 439,210,454,236,1 369,208,419,239,0 592,216,614,266,2 
+/workspace/kaist/test_use/set10/V000/visible/I03039.jpg 590,219,610,265,2 373,207,421,243,0 440,209,455,238,1 
+/workspace/kaist/test_use/set10/V000/visible/I03059.jpg 374,212,418,241,0 567,214,590,260,1 439,210,455,236,2 450,211,467,244,2 
+/workspace/kaist/test_use/set10/V000/visible/I03079.jpg 368,214,416,246,0 432,210,447,236,2 449,215,464,246,2 
+/workspace/kaist/test_use/set10/V000/visible/I03099.jpg 427,212,442,238,2 440,212,455,241,2 353,204,406,241,0 
+/workspace/kaist/test_use/set10/V000/visible/I03119.jpg 347,207,396,240,0 415,207,430,235,2 431,212,447,244,2 
+/workspace/kaist/test_use/set10/V000/visible/I03139.jpg 339,207,382,240,0 408,208,427,239,0 424,213,443,242,2 
+/workspace/kaist/test_use/set10/V000/visible/I03159.jpg 334,211,380,245,0 404,209,419,238,1 420,211,438,244,2 436,208,455,234,1 
+/workspace/kaist/test_use/set10/V000/visible/I03179.jpg 400,208,416,240,0 421,206,436,245,2 439,203,457,241,0 330,206,382,245,0 
+/workspace/kaist/test_use/set10/V000/visible/I03199.jpg 397,205,412,208,0 419,210,434,237,2 437,200,456,233,0 324,206,363,242,0 
+/workspace/kaist/test_use/set10/V000/visible/I03219.jpg 318,201,364,238,0 394,200,411,236,0 419,203,434,240,2 436,199,465,226,0 
+/workspace/kaist/test_use/set10/V000/visible/I03239.jpg 419,194,466,240,0 322,197,362,238,0 392,199,411,232,2 
+/workspace/kaist/test_use/set10/V000/visible/I03259.jpg 439,197,483,246,0 336,205,372,241,0 491,206,508,242,2 503,204,519,242,2 408,201,430,234,1 
+/workspace/kaist/test_use/set10/V000/visible/I03279.jpg 455,195,500,242,0 346,199,392,242,0 423,200,441,234,1 511,200,537,244,0 
+/workspace/kaist/test_use/set10/V000/visible/I03299.jpg 464,198,501,250,0 349,200,404,247,0 421,202,447,235,0 512,209,531,250,2 523,207,543,249,2 
+/workspace/kaist/test_use/set10/V000/visible/I03319.jpg 470,198,506,253,0 338,197,400,245,0 516,210,545,254,0 420,203,444,238,0 
+/workspace/kaist/test_use/set10/V000/visible/I03339.jpg 473,197,520,256,0 340,209,359,246,2 380,202,406,238,0 524,209,543,254,2 537,206,560,253,2 
+/workspace/kaist/test_use/set10/V000/visible/I03359.jpg 436,196,463,242,0 349,210,367,247,2 389,201,418,248,0 489,199,566,263,0 
+/workspace/kaist/test_use/set10/V000/visible/I03379.jpg 444,192,582,265,0 357,202,378,246,2 398,196,418,231,1 
+/workspace/kaist/test_use/set10/V000/visible/I03399.jpg 455,204,474,208,2 362,211,382,215,2 409,200,434,242,0 506,202,528,241,2 538,204,586,269,2 
+/workspace/kaist/test_use/set10/V000/visible/I03419.jpg 514,206,587,273,0 366,220,384,263,2 483,212,501,216,2 464,215,481,251,2 421,210,445,244,0 
+/workspace/kaist/test_use/set10/V000/visible/I03439.jpg 532,207,631,276,0 499,211,515,253,2 368,220,390,264,2 474,214,489,252,2 
+/workspace/kaist/test_use/set10/V000/visible/I03459.jpg 541,199,603,268,0 414,210,439,268,2 368,205,389,260,2 608,208,634,275,2 510,203,525,242,2 479,203,497,249,2 
+/workspace/kaist/test_use/set10/V000/visible/I03479.jpg 574,211,604,269,0 408,211,432,259,2 367,210,388,258,2 602,209,623,255,2 551,200,569,243,2 564,200,580,237,2 522,201,540,247,2 481,207,500,211,2 429,203,456,237,0 409,210,431,265,2 372,204,395,268,2 542,202,563,248,2 565,199,584,248,2 494,205,510,247,2 443,200,459,204,2 
+/workspace/kaist/test_use/set10/V000/visible/I03519.jpg 603,198,639,280,0 414,205,443,282,2 378,205,406,272,2 579,199,600,248,2 519,204,537,246,2 495,216,511,247,1 
+/workspace/kaist/test_use/set10/V000/visible/I03539.jpg 604,195,640,283,0 422,205,451,284,2 390,206,423,282,2 540,200,565,247,2 511,211,529,246,1 
+/workspace/kaist/test_use/set10/V000/visible/I03559.jpg 616,198,640,259,2 437,204,465,290,2 409,208,439,290,2 570,201,593,206,2 
+/workspace/kaist/test_use/set10/V000/visible/I03579.jpg 590,200,614,255,2 470,199,503,310,2 424,207,463,301,2 
+/workspace/kaist/test_use/set10/V000/visible/I03599.jpg 502,197,538,326,2 446,207,488,313,2 615,201,639,251,2 
+/workspace/kaist/test_use/set10/V000/visible/I03619.jpg 543,197,590,345,2 473,196,522,325,2 
+/workspace/kaist/test_use/set10/V000/visible/I03639.jpg 589,189,635,206,2 499,198,551,343,2 
+/workspace/kaist/test_use/set10/V000/visible/I03659.jpg 546,197,611,215,2 
+/workspace/kaist/test_use/set10/V000/visible/I03739.jpg 399,206,415,242,2 438,205,453,208,1 
+/workspace/kaist/test_use/set10/V000/visible/I03759.jpg 403,207,420,244,2 
+/workspace/kaist/test_use/set10/V000/visible/I03779.jpg 415,210,430,248,2 433,205,447,230,1 452,206,467,209,1 
+/workspace/kaist/test_use/set10/V000/visible/I03799.jpg 463,203,482,241,2 
+/workspace/kaist/test_use/set10/V000/visible/I03819.jpg 434,210,454,248,2 474,205,489,238,2 
+/workspace/kaist/test_use/set10/V000/visible/I03839.jpg 443,209,463,256,2 
+/workspace/kaist/test_use/set10/V000/visible/I03859.jpg 451,210,472,256,2 477,204,507,250,0 
+/workspace/kaist/test_use/set10/V000/visible/I03879.jpg 457,209,480,264,2 491,205,510,246,2 503,203,527,248,2 
+/workspace/kaist/test_use/set10/V000/visible/I03899.jpg 467,209,493,272,2 511,202,534,260,2 547,196,574,264,2 
+/workspace/kaist/test_use/set10/V000/visible/I03919.jpg 510,204,542,280,2 61,213,106,311,2 553,196,580,259,2 
+/workspace/kaist/test_use/set10/V000/visible/I03939.jpg 544,213,580,290,2 27,213,72,330,2 592,201,620,207,2 
+/workspace/kaist/test_use/set10/V000/visible/I03959.jpg 589,211,625,300,2 
+/workspace/kaist/test_use/set10/V000/visible/I04099.jpg 423,213,444,216,1 
+/workspace/kaist/test_use/set10/V000/visible/I04139.jpg 454,224,473,252,1 
+/workspace/kaist/test_use/set10/V000/visible/I04179.jpg 479,222,501,266,2 
+/workspace/kaist/test_use/set10/V000/visible/I04199.jpg 502,220,522,259,2 
+/workspace/kaist/test_use/set10/V000/visible/I04219.jpg 537,204,563,258,2 
+/workspace/kaist/test_use/set10/V000/visible/I04239.jpg 589,213,617,278,2 
+/workspace/kaist/test_use/set10/V001/visible/I00179.jpg 487,230,528,328,3 
+/workspace/kaist/test_use/set10/V001/visible/I00219.jpg 613,210,637,277,2 
+/workspace/kaist/test_use/set10/V001/visible/I00259.jpg 584,211,605,270,2 
+/workspace/kaist/test_use/set10/V001/visible/I00279.jpg 569,210,590,269,2 
+/workspace/kaist/test_use/set10/V001/visible/I00299.jpg 561,208,582,267,2 
+/workspace/kaist/test_use/set10/V001/visible/I00319.jpg 554,209,575,268,2 
+/workspace/kaist/test_use/set10/V001/visible/I00339.jpg 543,208,563,266,2 
+/workspace/kaist/test_use/set10/V001/visible/I00359.jpg 537,211,557,266,2 
+/workspace/kaist/test_use/set10/V001/visible/I00379.jpg 540,218,560,269,2 
+/workspace/kaist/test_use/set10/V001/visible/I00399.jpg 539,215,561,269,2 
+/workspace/kaist/test_use/set10/V001/visible/I00419.jpg 582,210,606,266,2 
+/workspace/kaist/test_use/set10/V001/visible/I00719.jpg 600,217,628,270,0 
+/workspace/kaist/test_use/set10/V001/visible/I01359.jpg 378,235,416,317,2 
+/workspace/kaist/test_use/set10/V001/visible/I01379.jpg 375,233,413,315,2 
+/workspace/kaist/test_use/set10/V001/visible/I01399.jpg 379,227,417,309,2 
+/workspace/kaist/test_use/set10/V001/visible/I01419.jpg 398,219,436,306,2 
+/workspace/kaist/test_use/set10/V001/visible/I01439.jpg 433,225,473,321,2 
+/workspace/kaist/test_use/set10/V001/visible/I01459.jpg 482,221,530,353,2 
+/workspace/kaist/test_use/set10/V001/visible/I01579.jpg 412,210,438,242,0 
+/workspace/kaist/test_use/set10/V001/visible/I01599.jpg 434,201,461,232,0 
+/workspace/kaist/test_use/set10/V001/visible/I01619.jpg 469,218,489,262,2 482,218,502,263,2 410,215,429,241,1 
+/workspace/kaist/test_use/set10/V001/visible/I01639.jpg 524,213,547,270,2 539,218,560,275,2 417,206,461,238,0 
+/workspace/kaist/test_use/set10/V001/visible/I01659.jpg 460,216,475,251,2 472,217,488,249,2 483,216,498,248,2 435,216,450,240,1 
+/workspace/kaist/test_use/set10/V001/visible/I01679.jpg 502,213,523,256,2 524,210,544,253,2 
+/workspace/kaist/test_use/set10/V001/visible/I01699.jpg 583,211,605,270,2 609,209,630,270,2 499,211,515,245,2 
+/workspace/kaist/test_use/set10/V001/visible/I01719.jpg 547,216,567,254,2 
+/workspace/kaist/test_use/set10/V001/visible/I01779.jpg 388,218,406,255,2 
+/workspace/kaist/test_use/set10/V001/visible/I01819.jpg 559,224,587,283,3 397,224,411,251,2 
+/workspace/kaist/test_use/set10/V001/visible/I01839.jpg 411,207,431,249,2 
+/workspace/kaist/test_use/set10/V001/visible/I01859.jpg 455,230,477,279,2 439,226,461,274,2 
+/workspace/kaist/test_use/set10/V001/visible/I01879.jpg 550,217,579,288,2 573,208,604,280,2 
+/workspace/kaist/test_use/set10/V001/visible/I01959.jpg 370,219,384,246,2 
+/workspace/kaist/test_use/set10/V001/visible/I01979.jpg 399,221,413,253,2 
+/workspace/kaist/test_use/set10/V001/visible/I01999.jpg 388,224,404,253,2 
+/workspace/kaist/test_use/set10/V001/visible/I02019.jpg 573,227,605,308,2 460,225,487,290,2 
+/workspace/kaist/test_use/set10/V001/visible/I02139.jpg 22,206,56,243,0 
+/workspace/kaist/test_use/set10/V001/visible/I02159.jpg 406,217,417,243,2 450,216,465,244,2 431,220,444,248,2 
+/workspace/kaist/test_use/set10/V001/visible/I02179.jpg 418,212,433,246,2 454,214,473,251,2 483,210,500,213,2 
+/workspace/kaist/test_use/set10/V001/visible/I02199.jpg 439,224,464,272,3 502,225,529,282,2 548,219,569,267,2 
+/workspace/kaist/test_use/set10/V001/visible/I02219.jpg 505,228,533,235,2 
+/workspace/kaist/test_use/set10/V001/visible/I02299.jpg 398,199,419,237,2 
+/workspace/kaist/test_use/set10/V001/visible/I02319.jpg 436,210,454,245,2 
+/workspace/kaist/test_use/set10/V001/visible/I02339.jpg 510,220,531,266,2 
+/workspace/kaist/test_use/set10/V001/visible/I02419.jpg 491,211,513,254,2 
+/workspace/kaist/test_use/set10/V001/visible/I02439.jpg 569,206,603,273,2 480,207,499,244,1 
+/workspace/kaist/test_use/set10/V001/visible/I02479.jpg 464,208,489,261,2 
+/workspace/kaist/test_use/set10/V001/visible/I02499.jpg 460,214,486,265,3 
+/workspace/kaist/test_use/set10/V001/visible/I02519.jpg 482,221,513,279,3 
+/workspace/kaist/test_use/set10/V001/visible/I02539.jpg 523,211,571,295,3 
+/workspace/kaist/test_use/set10/V001/visible/I02779.jpg 323,219,338,254,2 344,219,375,254,0 
+/workspace/kaist/test_use/set10/V001/visible/I02799.jpg 323,213,344,261,2 347,217,371,254,0 
+/workspace/kaist/test_use/set10/V001/visible/I02819.jpg 323,220,344,272,2 355,219,378,264,3 
+/workspace/kaist/test_use/set10/V001/visible/I02839.jpg 308,210,334,274,2 350,215,372,220,3 
+/workspace/kaist/test_use/set10/V001/visible/I02859.jpg 285,211,316,218,3 235,207,265,290,2 45,195,73,244,0 
+/workspace/kaist/test_use/set10/V001/visible/I02879.jpg 191,209,230,306,3 101,202,148,309,2 
+/workspace/kaist/test_use/set10/V001/visible/I02899.jpg 74,207,106,277,2 
+/workspace/kaist/test_use/set10/V001/visible/I02999.jpg 584,228,613,289,2 
+/workspace/kaist/test_use/set10/V001/visible/I03019.jpg 508,217,542,290,2 
+/workspace/kaist/test_use/set10/V001/visible/I03039.jpg 495,203,537,296,2 
+/workspace/kaist/test_use/set10/V001/visible/I03179.jpg 379,213,395,248,1 
+/workspace/kaist/test_use/set10/V001/visible/I03219.jpg 406,218,426,254,2 
+/workspace/kaist/test_use/set10/V001/visible/I03239.jpg 426,213,446,260,2 505,212,525,266,2 375,210,389,237,2 130,211,146,240,2 
+/workspace/kaist/test_use/set10/V001/visible/I03259.jpg 549,211,576,278,2 446,214,470,269,2 384,216,400,251,2 105,215,119,240,2 
+/workspace/kaist/test_use/set10/V001/visible/I03279.jpg 490,219,520,284,2 404,215,422,252,2 81,210,100,239,2 
+/workspace/kaist/test_use/set10/V001/visible/I03299.jpg 576,217,614,301,2 435,212,458,263,2 54,210,73,213,2 
+/workspace/kaist/test_use/set10/V001/visible/I03319.jpg 488,207,520,282,2 
+/workspace/kaist/test_use/set10/V001/visible/I03659.jpg 100,210,118,246,1 
+/workspace/kaist/test_use/set10/V001/visible/I03679.jpg 20,209,48,253,1 
+/workspace/kaist/test_use/set10/V001/visible/I03899.jpg 140,214,155,246,2 75,216,102,252,0 
+/workspace/kaist/test_use/set10/V001/visible/I03919.jpg 1,205,39,263,0 94,206,115,252,2 
+/workspace/kaist/test_use/set10/V001/visible/I03939.jpg 44,197,70,262,2 
+/workspace/kaist/test_use/set10/V001/visible/I03959.jpg 15,199,41,245,2 439,211,455,238,2 
+/workspace/kaist/test_use/set10/V001/visible/I03979.jpg 82,205,180,251,0 
+/workspace/kaist/test_use/set10/V001/visible/I03999.jpg 493,213,513,257,2 77,207,145,253,0 
+/workspace/kaist/test_use/set10/V001/visible/I04019.jpg 530,212,557,268,2 33,204,108,250,0 
+/workspace/kaist/test_use/set10/V001/visible/I04039.jpg 574,212,600,276,2 1,202,83,259,0 
+/workspace/kaist/test_use/set10/V001/visible/I04059.jpg 399,220,422,257,0 356,219,379,260,2 432,220,452,253,0 226,218,265,254,0 1,214,21,220,0 
+/workspace/kaist/test_use/set10/V001/visible/I04079.jpg 208,218,253,260,0 384,220,403,261,2 424,228,447,265,0 460,221,480,263,2 
+/workspace/kaist/test_use/set10/V001/visible/I04099.jpg 408,226,428,265,2 446,227,467,268,2 483,224,503,273,2 471,226,491,275,2 199,219,234,265,0 
+/workspace/kaist/test_use/set10/V001/visible/I04119.jpg 184,222,204,260,2 486,226,506,279,2 499,224,519,278,2 468,229,489,270,2 437,228,457,267,2 205,219,234,260,0 
+/workspace/kaist/test_use/set10/V001/visible/I04139.jpg 165,220,185,224,0 523,223,548,285,2 504,228,524,282,2 487,231,508,272,2 464,230,484,269,2 204,218,235,260,0 303,224,326,265,3 
+/workspace/kaist/test_use/set10/V001/visible/I04159.jpg 554,223,574,282,2 534,227,554,281,2 504,227,525,271,2 141,217,163,261,2 155,218,177,263,2 491,227,511,268,2 207,216,238,258,0 287,223,310,264,3 
+/workspace/kaist/test_use/set10/V001/visible/I04179.jpg 574,220,600,292,2 120,216,143,260,2 135,216,158,261,2 521,224,540,270,2 213,216,244,258,0 264,225,287,266,3 558,222,583,283,2 
+/workspace/kaist/test_use/set11/V000/visible/I00019.jpg 51,241,109,372,2 430,234,453,301,2 406,227,435,304,2 238,223,259,288,0 216,229,236,287,2 16,244,73,373,2 350,215,408,254,0 
+/workspace/kaist/test_use/set11/V000/visible/I00039.jpg 27,237,97,408,2 459,235,485,316,2 431,229,466,316,2 237,218,261,286,0 220,225,246,288,2 2,245,52,411,2 506,221,524,266,2 526,219,544,264,2 348,219,435,248,0 
+/workspace/kaist/test_use/set11/V000/visible/I00059.jpg 480,237,513,341,2 452,233,493,344,2 228,215,250,222,0 203,227,227,290,2 426,223,446,269,2 2,243,44,444,1 538,218,564,267,2 344,216,422,249,0 
+/workspace/kaist/test_use/set11/V000/visible/I00079.jpg 535,251,579,386,2 496,240,553,392,2 232,219,258,295,0 190,225,216,298,2 429,229,449,273,2 457,230,475,277,2 485,220,507,267,2 259,217,285,264,0 323,218,383,243,0 388,225,427,259,0 556,222,586,274,0 
+/workspace/kaist/test_use/set11/V000/visible/I00099.jpg 217,223,250,309,0 181,228,208,310,2 430,224,455,281,2 464,232,487,280,2 495,226,520,273,2 612,220,635,296,2 594,219,616,278,2 258,223,278,262,2 271,219,287,261,2 324,220,381,252,2 385,225,405,265,2 404,227,421,231,2 414,226,431,268,2 
+/workspace/kaist/test_use/set11/V000/visible/I00119.jpg 168,218,210,321,0 136,225,170,328,2 425,225,453,292,2 231,218,251,262,2 243,219,264,267,2 461,234,484,293,2 496,225,523,287,2 291,217,356,253,0 370,226,390,259,2 387,227,407,273,2 405,225,423,273,2 
+/workspace/kaist/test_use/set11/V000/visible/I00139.jpg 99,219,151,348,0 45,220,96,349,2 421,224,449,308,2 353,229,376,278,2 186,218,206,266,2 461,234,483,310,2 208,221,228,268,2 252,217,316,220,0 372,227,397,274,2 400,232,423,277,2 501,220,530,296,2 594,228,628,321,2 
+/workspace/kaist/test_use/set11/V000/visible/I00159.jpg 23,223,89,240,2 437,225,469,330,2 363,233,387,291,2 388,231,410,285,2 150,221,171,282,2 170,220,197,287,2 488,239,514,327,2 254,219,318,222,0 529,227,562,312,2 327,220,344,253,2 
+/workspace/kaist/test_use/set11/V000/visible/I00179.jpg 475,225,521,368,2 400,232,426,309,2 423,234,455,307,2 102,221,136,314,2 132,225,167,318,2 549,246,586,365,2 256,219,296,250,0 594,223,634,339,2 314,220,329,253,2 329,219,349,257,2 
+/workspace/kaist/test_use/set11/V000/visible/I00199.jpg 577,231,639,432,2 478,238,514,248,2 508,239,545,337,2 37,226,85,357,2 67,221,121,357,2 257,217,314,250,0 336,220,351,256,2 350,214,365,255,2 139,210,164,215,2 
+/workspace/kaist/test_use/set11/V000/visible/I00219.jpg 258,214,323,249,0 164,218,188,270,2 347,220,368,259,2 362,220,387,262,2 
+/workspace/kaist/test_use/set11/V000/visible/I00239.jpg 126,218,154,292,2 262,214,319,260,0 149,222,172,283,2 357,223,378,276,2 377,219,403,278,2 
+/workspace/kaist/test_use/set11/V000/visible/I00259.jpg 397,229,422,290,2 368,230,393,286,2 133,231,161,290,2 104,223,133,299,2 232,222,252,276,2 269,218,304,252,0 246,220,265,273,2 
+/workspace/kaist/test_use/set11/V000/visible/I00279.jpg 418,230,446,297,2 391,231,421,302,2 106,227,134,292,2 80,217,113,300,2 211,223,231,284,2 230,220,250,277,2 272,218,306,253,0 243,214,269,271,2 
+/workspace/kaist/test_use/set11/V000/visible/I00299.jpg 451,233,486,337,2 422,230,456,332,2 70,221,105,312,2 37,214,74,312,2 160,218,190,295,2 186,216,212,285,2 212,209,241,291,2 256,213,309,252,0 
+/workspace/kaist/test_use/set11/V000/visible/I00319.jpg 531,240,582,402,2 485,247,527,262,2 53,234,94,338,2 9,220,58,337,2 128,229,162,316,2 165,219,197,312,2 199,215,234,313,2 234,219,257,275,2 275,218,328,265,2 
+/workspace/kaist/test_use/set11/V000/visible/I00339.jpg 20,227,72,363,2 85,221,135,339,2 130,215,176,343,2 171,213,216,351,2 226,220,247,283,2 243,216,267,277,2 296,219,317,257,2 311,217,330,265,2 328,218,350,261,2 
+/workspace/kaist/test_use/set11/V000/visible/I00359.jpg 8,230,60,399,2 55,220,113,237,2 102,212,163,401,2 195,224,223,296,2 217,220,245,296,2 287,218,307,262,2 304,220,323,263,2 318,223,338,261,2 
+/workspace/kaist/test_use/set11/V000/visible/I00379.jpg 5,210,62,292,0 139,225,170,302,2 160,222,195,298,2 256,220,275,267,2 270,222,291,265,2 287,225,308,271,2 
+/workspace/kaist/test_use/set11/V000/visible/I00399.jpg 126,226,158,306,2 250,219,308,263,0 94,231,130,321,2 
+/workspace/kaist/test_use/set11/V000/visible/I00419.jpg 99,230,135,319,2 287,220,344,266,0 
+/workspace/kaist/test_use/set11/V000/visible/I00439.jpg 25,225,78,347,2 308,220,332,274,2 330,220,349,269,2 346,222,364,268,2 359,224,377,262,2 
+/workspace/kaist/test_use/set11/V000/visible/I00459.jpg 139,233,176,313,3 308,221,328,270,2 332,221,353,269,2 346,227,366,270,2 361,228,380,268,2 
+/workspace/kaist/test_use/set11/V000/visible/I00479.jpg 58,224,107,347,3 310,217,335,268,2 330,221,354,272,2 349,220,373,269,2 
+/workspace/kaist/test_use/set11/V000/visible/I00499.jpg 345,218,369,275,2 377,221,405,269,0 
+/workspace/kaist/test_use/set11/V000/visible/I00519.jpg 379,216,410,283,2 407,221,433,278,2 
+/workspace/kaist/test_use/set11/V000/visible/I00539.jpg 410,219,440,287,2 435,224,456,284,2 449,230,467,282,2 377,217,407,248,0 
+/workspace/kaist/test_use/set11/V000/visible/I00559.jpg 443,239,470,311,2 465,242,489,306,2 389,228,434,265,0 
+/workspace/kaist/test_use/set11/V000/visible/I00579.jpg 456,255,484,339,2 390,240,436,282,0 481,260,511,327,2 
+/workspace/kaist/test_use/set11/V000/visible/I00599.jpg 460,238,494,345,2 484,245,511,324,2 429,233,456,279,2 384,221,430,265,0 
+/workspace/kaist/test_use/set11/V000/visible/I00619.jpg 464,239,507,368,2 360,219,447,264,0 
+/workspace/kaist/test_use/set11/V000/visible/I00639.jpg 515,234,576,428,2 490,238,543,404,2 335,206,425,252,0 
+/workspace/kaist/test_use/set11/V000/visible/I00659.jpg 513,240,571,261,2 310,195,395,242,0 
+/workspace/kaist/test_use/set11/V000/visible/I00679.jpg 288,215,368,261,0 
+/workspace/kaist/test_use/set11/V000/visible/I00699.jpg 60,215,101,303,2 171,210,201,256,0 243,214,326,263,0 
+/workspace/kaist/test_use/set11/V000/visible/I00719.jpg 168,210,270,268,0 
+/workspace/kaist/test_use/set11/V000/visible/I00739.jpg 144,209,249,248,0 
+/workspace/kaist/test_use/set11/V000/visible/I00759.jpg 121,205,242,258,0 
+/workspace/kaist/test_use/set11/V000/visible/I00779.jpg 119,209,135,245,2 205,216,237,281,2 237,215,265,291,2 253,224,285,295,2 150,209,176,256,0 183,209,208,255,0 
+/workspace/kaist/test_use/set11/V000/visible/I00799.jpg 169,209,188,244,2 187,211,213,256,0 233,211,253,252,2 255,210,291,281,2 293,213,320,296,2 308,222,338,304,2 
+/workspace/kaist/test_use/set11/V000/visible/I00819.jpg 336,227,366,319,2 191,216,212,264,2 205,221,230,264,2 255,214,275,260,2 272,214,307,289,2 311,221,344,300,2 
+/workspace/kaist/test_use/set11/V000/visible/I00839.jpg 340,231,372,329,2 321,222,355,324,2 268,216,302,298,2 187,214,208,267,2 203,219,222,268,2 253,220,271,265,2 227,215,244,251,2 
+/workspace/kaist/test_use/set11/V000/visible/I00859.jpg 363,227,397,343,2 339,225,372,341,2 277,217,313,303,2 264,221,283,261,2 296,220,318,289,2 202,217,219,268,2 217,224,234,270,2 191,216,204,257,2 
+/workspace/kaist/test_use/set11/V000/visible/I00879.jpg 421,235,463,374,2 386,229,428,368,2 325,220,361,313,2 307,224,332,276,2 223,220,247,264,2 243,217,276,275,0 346,222,368,277,2 
+/workspace/kaist/test_use/set11/V000/visible/I00899.jpg 465,236,521,409,2 407,229,464,411,2 356,222,392,313,2 320,220,345,286,2 297,221,319,269,2 223,215,243,262,2 244,217,267,268,2 266,221,286,276,2 340,219,366,286,2 
+/workspace/kaist/test_use/set11/V000/visible/I00919.jpg 512,236,590,482,2 423,227,467,334,2 370,224,399,302,2 577,248,636,494,2 391,224,416,302,2 407,225,429,301,2 257,224,283,276,2 285,223,313,286,2 314,227,334,284,2 329,232,349,278,2 
+/workspace/kaist/test_use/set11/V000/visible/I00939.jpg 529,225,577,354,2 450,226,480,313,2 497,225,532,236,2 470,223,504,312,2 317,218,347,268,2 357,218,383,274,2 377,221,401,274,2 
+/workspace/kaist/test_use/set11/V000/visible/I00959.jpg 581,229,636,245,2 463,228,496,344,2 531,224,578,373,2 487,224,524,356,2 302,218,331,279,2 343,214,370,271,2 365,223,388,269,2 389,216,407,249,1 450,218,466,254,1 
+/workspace/kaist/test_use/set11/V000/visible/I00979.jpg 474,232,537,401,2 516,230,574,424,2 266,222,294,304,2 582,231,639,425,2 334,219,362,277,2 354,227,379,272,2 377,219,396,251,2 313,230,335,269,2 90,199,115,256,2 420,214,450,261,0 
+/workspace/kaist/test_use/set11/V000/visible/I00999.jpg 542,257,598,441,2 231,220,274,328,2 580,272,640,508,2 276,228,315,310,2 326,218,354,283,2 348,225,372,274,2 375,215,399,264,2 403,216,434,265,0 3,196,40,282,2 
+/workspace/kaist/test_use/set11/V000/visible/I01019.jpg 171,218,232,357,2 261,232,291,320,2 295,220,329,312,2 319,229,350,296,2 368,214,393,271,2 393,219,419,268,2 
+/workspace/kaist/test_use/set11/V000/visible/I01039.jpg 32,212,115,426,2 183,236,217,349,2 228,221,261,324,2 253,231,285,320,2 342,217,376,268,0 
+/workspace/kaist/test_use/set11/V000/visible/I01059.jpg 49,243,105,392,2 124,218,165,344,2 168,234,204,339,2 287,219,311,268,2 304,214,328,272,2 233,219,254,255,2 
+/workspace/kaist/test_use/set11/V000/visible/I01079.jpg 56,218,108,233,2 105,231,151,244,2 244,212,347,268,0 
+/workspace/kaist/test_use/set11/V000/visible/I01099.jpg 47,234,104,407,2 361,221,388,295,2 1,217,61,425,2 249,210,337,263,0 
+/workspace/kaist/test_use/set11/V000/visible/I01119.jpg 394,229,427,330,2 1,242,47,478,2 222,219,290,268,0 295,214,341,276,0 
+/workspace/kaist/test_use/set11/V000/visible/I01139.jpg 427,233,477,372,2 304,228,330,290,2 320,223,346,287,2 178,221,228,279,0 251,220,280,271,0 
+/workspace/kaist/test_use/set11/V000/visible/I01159.jpg 521,240,592,260,2 121,218,157,336,2 324,228,356,296,2 349,223,371,296,2 155,223,192,328,2 3,212,40,300,1 263,217,291,268,0 
+/workspace/kaist/test_use/set11/V000/visible/I01179.jpg 74,219,122,397,2 123,236,153,327,2 147,233,175,326,2 345,227,380,300,2 366,222,392,298,2 278,217,308,276,0 553,231,586,280,0 
+/workspace/kaist/test_use/set11/V000/visible/I01199.jpg 69,246,117,378,2 112,241,165,379,2 360,230,394,317,2 382,223,415,301,2 3,232,46,511,2 289,220,322,281,0 
+/workspace/kaist/test_use/set11/V000/visible/I01219.jpg 16,254,98,485,2 375,227,408,318,2 400,224,434,312,2 520,228,598,283,0 295,219,329,276,0 341,215,363,247,0 
+/workspace/kaist/test_use/set11/V000/visible/I01239.jpg 399,232,435,327,2 423,225,453,322,2 520,231,597,299,0 303,219,328,277,2 350,215,368,247,0 316,220,342,282,2 
+/workspace/kaist/test_use/set11/V000/visible/I01259.jpg 431,233,470,334,2 457,228,486,323,2 519,240,564,349,2 553,248,590,337,2 580,233,605,306,2 614,237,638,304,2 336,224,361,295,2 321,221,347,292,2 366,220,389,253,0 
+/workspace/kaist/test_use/set11/V000/visible/I01279.jpg 491,230,528,337,2 514,225,549,333,2 579,249,623,406,2 391,228,416,297,2 369,229,389,291,2 470,224,492,259,0 409,221,429,252,0 
+/workspace/kaist/test_use/set11/V000/visible/I01299.jpg 539,233,572,245,2 559,229,590,349,2 421,229,449,314,2 401,231,431,314,2 503,227,529,231,0 
+/workspace/kaist/test_use/set11/V000/visible/I01319.jpg 527,232,570,370,2 409,226,444,332,2 379,231,406,326,2 481,228,503,274,2 498,231,519,270,2 
+/workspace/kaist/test_use/set11/V000/visible/I01339.jpg 463,235,518,407,2 360,237,399,360,2 310,231,351,353,2 437,231,458,279,2 
+/workspace/kaist/test_use/set11/V000/visible/I01359.jpg 276,227,329,373,2 207,218,253,370,2 303,221,365,428,2 361,216,381,261,2 381,218,399,262,2 
+/workspace/kaist/test_use/set11/V000/visible/I01379.jpg 57,222,124,241,2 1,215,55,410,2 196,212,219,269,2 216,221,240,226,2 
+/workspace/kaist/test_use/set11/V000/visible/I01399.jpg 484,246,535,387,2 
+/workspace/kaist/test_use/set11/V000/visible/I01419.jpg 300,244,366,262,2 
+/workspace/kaist/test_use/set11/V000/visible/I01439.jpg 3,241,94,267,2 
+/workspace/kaist/test_use/set11/V000/visible/I01459.jpg 580,237,622,341,2 615,233,640,339,2 
+/workspace/kaist/test_use/set11/V000/visible/I01479.jpg 477,233,513,348,2 513,232,551,346,2 434,230,460,272,2 
+/workspace/kaist/test_use/set11/V000/visible/I01499.jpg 334,235,377,352,2 386,234,419,353,2 319,229,342,272,2 
+/workspace/kaist/test_use/set11/V000/visible/I01519.jpg 204,238,253,367,2 249,234,290,366,2 
+/workspace/kaist/test_use/set11/V000/visible/I01539.jpg 113,244,175,402,2 172,241,231,257,2 
+/workspace/kaist/test_use/set11/V000/visible/I01559.jpg 1,245,69,446,2 64,238,142,454,2 122,231,163,293,2 
+/workspace/kaist/test_use/set11/V000/visible/I01579.jpg 58,238,104,320,2 59,216,98,259,0 
+/workspace/kaist/test_use/set11/V000/visible/I01599.jpg 3,250,75,356,2 50,220,88,285,0 288,214,316,217,0 
+/workspace/kaist/test_use/set11/V000/visible/I01619.jpg 42,216,90,273,0 313,213,359,249,0 
+/workspace/kaist/test_use/set11/V000/visible/I01639.jpg 306,215,352,251,0 
+/workspace/kaist/test_use/set11/V000/visible/I01659.jpg 323,222,338,258,2 335,223,351,260,2 296,220,321,246,0 
+/workspace/kaist/test_use/set11/V000/visible/I01679.jpg 317,219,334,261,2 329,220,348,224,2 
+/workspace/kaist/test_use/set11/V000/visible/I01699.jpg 318,225,336,273,2 336,226,359,272,2 273,217,288,253,0 292,217,306,248,2 
+/workspace/kaist/test_use/set11/V000/visible/I01719.jpg 341,220,366,277,2 365,220,389,281,2 290,214,305,248,0 305,214,320,245,2 
+/workspace/kaist/test_use/set11/V000/visible/I01739.jpg 393,220,415,296,2 414,224,444,301,2 372,222,390,253,2 311,213,324,244,2 329,213,344,247,2 
+/workspace/kaist/test_use/set11/V000/visible/I01759.jpg 445,241,485,362,2 478,250,516,357,2 397,238,418,285,2 320,232,341,278,2 343,233,363,274,2 
+/workspace/kaist/test_use/set11/V000/visible/I01779.jpg 425,231,445,277,2 573,232,630,441,2 331,221,355,272,2 361,224,383,270,2 
+/workspace/kaist/test_use/set11/V000/visible/I01799.jpg 396,235,420,287,2 326,230,347,278,2 292,225,320,283,2 
+/workspace/kaist/test_use/set11/V000/visible/I01819.jpg 336,234,365,299,2 257,226,282,291,2 209,222,238,296,2 
+/workspace/kaist/test_use/set11/V000/visible/I01839.jpg 282,224,316,296,2 190,213,221,298,2 130,204,160,307,2 424,213,450,270,2 
+/workspace/kaist/test_use/set11/V000/visible/I01859.jpg 248,243,281,328,2 130,227,169,343,2 422,233,449,297,2 312,220,330,257,2 48,218,84,333,2 
+/workspace/kaist/test_use/set11/V000/visible/I01879.jpg 182,244,225,356,2 5,221,70,412,2 406,228,432,302,2 314,220,332,262,2 
+/workspace/kaist/test_use/set11/V000/visible/I01899.jpg 64,237,119,403,2 373,218,400,285,2 
+/workspace/kaist/test_use/set11/V000/visible/I01919.jpg 323,231,355,325,2 
+/workspace/kaist/test_use/set11/V000/visible/I01939.jpg 399,228,438,356,2 
+/workspace/kaist/test_use/set11/V000/visible/I01959.jpg 585,243,634,409,2 
+/workspace/kaist/test_use/set11/V000/visible/I01979.jpg 382,222,412,260,0 
+/workspace/kaist/test_use/set11/V000/visible/I01999.jpg 386,222,415,268,0 
+/workspace/kaist/test_use/set11/V000/visible/I02019.jpg 548,239,590,357,2 408,228,434,284,0 
+/workspace/kaist/test_use/set11/V001/visible/I00019.jpg 590,214,615,260,2 483,216,508,256,0 403,211,416,243,2 
+/workspace/kaist/test_use/set11/V001/visible/I00039.jpg 357,213,384,245,0 317,214,333,217,1 
+/workspace/kaist/test_use/set11/V001/visible/I00059.jpg 398,221,415,247,0 435,225,460,262,0 347,227,362,253,1 
+/workspace/kaist/test_use/set11/V001/visible/I00079.jpg 375,224,392,261,2 474,222,494,271,2 486,226,507,272,2 421,221,446,259,0 222,218,241,256,2 
+/workspace/kaist/test_use/set11/V001/visible/I00099.jpg 520,224,544,281,2 535,229,554,280,2 378,223,401,269,2 566,224,590,277,2 438,220,464,263,2 209,220,227,261,2 
+/workspace/kaist/test_use/set11/V001/visible/I00119.jpg 394,222,420,276,2 460,220,489,259,2 180,217,206,262,2 
+/workspace/kaist/test_use/set11/V001/visible/I00139.jpg 160,221,190,226,0 422,224,454,231,2 509,220,533,276,2 523,218,544,270,2 234,217,251,249,2 336,222,351,256,2 39,207,65,257,2 
+/workspace/kaist/test_use/set11/V001/visible/I00159.jpg 129,219,154,286,2 470,222,506,310,2 584,221,613,293,2 602,217,630,292,2 539,210,558,255,2 244,212,262,244,2 
+/workspace/kaist/test_use/set11/V001/visible/I00179.jpg 41,217,94,319,0 554,214,581,266,2 592,241,640,376,2 262,214,283,249,2 
+/workspace/kaist/test_use/set11/V001/visible/I00199.jpg 226,215,257,221,2 573,210,598,267,2 
+/workspace/kaist/test_use/set11/V001/visible/I00219.jpg 142,216,176,224,2 604,209,628,274,2 
+/workspace/kaist/test_use/set11/V001/visible/I00239.jpg 1,212,64,335,2 
+/workspace/kaist/test_use/set11/V001/visible/I00259.jpg 333,217,357,265,2 
+/workspace/kaist/test_use/set11/V001/visible/I00279.jpg 358,226,382,272,2 
+/workspace/kaist/test_use/set11/V001/visible/I00299.jpg 381,203,407,259,2 
+/workspace/kaist/test_use/set11/V001/visible/I00319.jpg 409,223,439,292,2 
+/workspace/kaist/test_use/set11/V001/visible/I00339.jpg 440,216,475,298,2 400,222,426,284,2 537,224,561,279,2 
+/workspace/kaist/test_use/set11/V001/visible/I00359.jpg 517,234,550,312,2 464,239,494,303,2 
+/workspace/kaist/test_use/set11/V001/visible/I00379.jpg 594,226,632,315,2 514,234,550,320,2 
+/workspace/kaist/test_use/set11/V001/visible/I00399.jpg 36,192,149,197,0 537,215,561,271,2 
+/workspace/kaist/test_use/set11/V001/visible/I00419.jpg 4,188,112,193,0 592,211,620,273,2 
+/workspace/kaist/test_use/set11/V001/visible/I00439.jpg 1,187,78,192,0 
+/workspace/kaist/test_use/set11/V001/visible/I00459.jpg 1,193,51,198,0 
+/workspace/kaist/test_use/set11/V001/visible/I00539.jpg 596,221,630,298,2 
+/workspace/kaist/test_use/set11/V001/visible/I00559.jpg 488,216,525,296,2 
+/workspace/kaist/test_use/set11/V001/visible/I00579.jpg 587,218,624,308,2 518,217,553,300,2 
+/workspace/kaist/test_use/set11/V001/visible/I00759.jpg 479,221,497,254,0 
+/workspace/kaist/test_use/set11/V001/visible/I00779.jpg 531,224,551,263,1 
+/workspace/kaist/test_use/set11/V001/visible/I00799.jpg 445,215,499,261,0 
+/workspace/kaist/test_use/set11/V001/visible/I00819.jpg 475,223,497,274,2 464,222,489,270,2 562,221,590,274,0 
+/workspace/kaist/test_use/set11/V001/visible/I00839.jpg 525,222,553,287,2 511,220,540,285,2 
+/workspace/kaist/test_use/set11/V001/visible/I00859.jpg 425,215,446,259,2 
+/workspace/kaist/test_use/set11/V001/visible/I00879.jpg 467,222,493,277,2 
+/workspace/kaist/test_use/set11/V001/visible/I00899.jpg 540,223,571,288,2 318,220,337,248,1 
+/workspace/kaist/test_use/set11/V001/visible/I00919.jpg 501,220,518,266,2 476,217,498,262,2 
+/workspace/kaist/test_use/set11/V001/visible/I00939.jpg 542,214,564,263,2 527,213,548,262,2 506,215,530,270,2 
+/workspace/kaist/test_use/set11/V001/visible/I00959.jpg 610,217,638,285,2 590,221,618,287,2 
+/workspace/kaist/test_use/set11/V001/visible/I00979.jpg 423,199,469,248,0 
+/workspace/kaist/test_use/set11/V001/visible/I00999.jpg 455,208,512,267,0 
+/workspace/kaist/test_use/set11/V001/visible/I01019.jpg 489,221,546,280,0 
+/workspace/kaist/test_use/set11/V001/visible/I01039.jpg 520,229,548,288,2 553,235,579,301,2 569,232,595,295,2 389,231,427,266,0 
+/workspace/kaist/test_use/set11/V001/visible/I01059.jpg 566,193,593,263,0 594,198,621,262,2 404,183,450,188,0 
+/workspace/kaist/test_use/set11/V001/visible/I01079.jpg 422,207,455,264,2 452,216,473,262,2 466,211,486,260,2 
+/workspace/kaist/test_use/set11/V001/visible/I01099.jpg 528,211,558,291,2 451,216,513,263,0 510,223,536,281,2 
+/workspace/kaist/test_use/set11/V001/visible/I01119.jpg 541,217,568,272,2 522,217,552,272,2 600,216,640,317,2 
+/workspace/kaist/test_use/set11/V001/visible/I01239.jpg 368,220,422,256,0 
+/workspace/kaist/test_use/set11/V001/visible/I01259.jpg 359,219,379,256,2 
+/workspace/kaist/test_use/set11/V001/visible/I01279.jpg 349,210,379,256,0 
+/workspace/kaist/test_use/set11/V001/visible/I01299.jpg 407,217,427,259,2 422,213,443,258,2 
+/workspace/kaist/test_use/set11/V001/visible/I01319.jpg 467,223,487,267,2 480,216,504,265,2 
+/workspace/kaist/test_use/set11/V001/visible/I01339.jpg 433,201,517,246,0 542,215,565,257,0 556,210,579,262,2 
+/workspace/kaist/test_use/set11/V001/visible/I01359.jpg 440,212,524,257,0 584,225,605,279,0 600,221,622,277,2 
+/workspace/kaist/test_use/set11/V001/visible/I01379.jpg 439,210,506,248,0 
+/workspace/kaist/test_use/set11/V001/visible/I01399.jpg 472,213,503,252,0 509,214,531,263,2 524,219,547,263,2 
+/workspace/kaist/test_use/set11/V001/visible/I01419.jpg 524,215,545,256,0 575,214,597,276,2 591,220,617,275,2 538,215,561,257,2 
+/workspace/kaist/test_use/set11/V001/visible/I01439.jpg 590,218,614,270,2 614,214,639,269,2 
+/workspace/kaist/test_use/set11/V001/visible/I01479.jpg 101,207,124,254,2 
+/workspace/kaist/test_use/set11/V001/visible/I01499.jpg 71,203,96,248,2 
+/workspace/kaist/test_use/set11/V001/visible/I01519.jpg 16,196,45,253,2 
